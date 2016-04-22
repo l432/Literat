@@ -1,0 +1,85 @@
+#loginPageFormDummy {width:600px; border: 1px solid #9b9b9b;padding:10px;background-color:#e8e8e8;}
+#ui-id-1 {
+	list-style-type: none;
+	max-height: 200px;
+	max-width: 313px;
+	overflow-x: hidden;
+	overflow-y: auto;
+	padding-left: 0;
+	width: 313px !important;
+	background-color: #ffffff;
+	border: 1px solid;
+	border-bottom-right-radius: 4px;
+	border-bottom-left-radius: 4px;
+	border-top-right-radius: 4px;
+	border-top-right-radius: 4px;
+}
+
+#inst_srch {
+	width: 313px;
+}
+
+.ui-helper-hidden-accessible {
+	display:none !important;
+}
+
+.ui-menu .ui-menu-item {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+
+.ui-menu-item{
+	/*margin-top: 6px !important;
+	margin-bottom: 6px !important;*/
+}
+.ui-menu-item:hover{
+	background: none repeat scroll 0 0 #AFC8E6;
+}
+
+.ui-menu-item-hover-no-results .ui-state-focus {
+	background: none !important;
+	cursor: default;
+	color: #858585;
+}
+
+.ui-menu-item a{
+	cursor: pointer;
+	font-family: Arial;
+	font-size: 12px;
+	padding: 6px 3px;
+	display: block;
+	font-weight: normal;
+	/*line-height: 1.5;*/
+	text-decoration: none;
+}
+ul.ui-menu .ui-menu-item a span.inst-login-link{
+	display:none;
+}
+ul.ui-menu .ui-menu-item a.ui-state-focus span.inst-login-link {
+	white-space:nowrap;
+    overflow:hidden;
+	background: url("../../static/images/LoginBox.png") scroll 0 0 transparent;
+	color: #e0e6ed;
+	padding:0px 5px 0px 5px;
+	display: inline-block;
+	font: bold 12px/21px Arial;	
+	text-align: center;
+	vertical-align: middle;	
+	margin-left:30px;
+	margin-right: 10px;
+	background-position:center; 
+}
+
+ul.ui-menu .ui-menu-item a span.inst-name {
+	display: inline-block;
+	overflow-x: hidden;
+	vertical-align: middle;
+	color: #000000;
+	width: 200px;
+}
+.ui-state-focus{
+	color:white;
+	background:#AFC8E6;
+	outline:none;
+}
