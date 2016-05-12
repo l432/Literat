@@ -1,0 +1,16 @@
+The paper is about calculation of the current-voltage characteristic of diamond Schottky diode at room temperature. The author is bringing into community a method of approaching, which is different from the both diffusion and diode theories. The work could be a interesting for Physica B. I have minor comments:
+
+1. The title is so long.
+
+2. The  Abstract not only reflects main results, but also contains a part of Introduction. 
+
+3. According to presented result, the condition (1) is not satisfied and the diffusion theory is not valid. How the specific resistance of the boron-doped CVD diamond in layer 2 and 3 was calculated? Is the used carrier mobility value obtained for material with optical phonon scattering only? It is important to report some details in the text.
+
+
+4. On the one hand, calculated results (n and j0) can not be compared with data of reference number 18. The samples used in the [18] differ from the structure under consideration in the referred work. In particular, the gold Shottky contact is used in the [18] and the chromium Shottky contact is used in the referred work.
+
+5. On the other hand, the result of novel approximate solution must be compared with reputed data. One way is using of experimental results, which are obtained for equivalent structures. Another way is application of new calculation technology to the well-known material (e.g., Si). The diode theory conditions will be fulfilled and value n=1 will be expected.
+
+6. The details of the computer calculation method is absent. 
+
+7. 
