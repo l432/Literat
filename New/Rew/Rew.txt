@@ -1,4 +1,4 @@
-The paper is about calculation of the current-voltage characteristic of diamond Schottky diode at room temperature. The author is bringing into community a method of approaching, which is different from the both diffusion and diode theories. The work could be a interesting for Physica B. I have minor comments:
+The paper is about calculation of the current-voltage characteristic of diamond Schottky diode at room temperature. The author is bringing into community the method of approaching, which is different from the both diffusion and diode theories. The work could be interesting for Physica B. I have minor comments:
 
 1. The title is so long.
 
@@ -14,3 +14,16 @@ The paper is about calculation of the current-voltage characteristic of diamond 
 6. The details of the computer calculation method is absent. 
 
 7. The free path length between scattering events by acoustic phonons from reference number 29 is used for comparison. But optical phonon (op) scattering is under consideration in [29] too. It might be as well to compare received data lf(0)~ 20 nm with  op scattering data in the reference.
+
+
+Strengths:
+1. Interesting results.
+2. Examination of the intermediate case, which is located between diffusion and diode theories.
+3. Novel approximate solution.
+4. The theoretical consideration of structure, which is closed to real case.
+
+Weaknesses:
+1. Not good English
+2. The absence of calculation details.
+3. The absence of testing of novel approximate solution.
+
