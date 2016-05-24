@@ -1,3 +1,26 @@
  Appl. Phys. Lett. 107, 142405 (2015); http://dx.doi.org/10.1063/1.4932057 
 
 http://dx.doi.org/10.1166/jno.2014.1685
+
+Progress, challenges, and opportunities for HgCdTe infrared materials and detectors
+Wen Lei, Jarek Antoszewski and Lorenzo Faraone
+Appl. Phys. Rev. 2, 041303 (2015); http://dx.doi.org/10.1063/1.4936577 
+
+ A model to non-uniform Ni Schottky contact on SiC annealed at elevated temperatures
+G. Pristavu, G. Brezeanu, M. Badila, R. Pascu, M. Danila and P. Godignon
+Appl. Phys. Lett. 106, 261605 (2015); http://dx.doi.org/10.1063/1.4923468 
+
+
+ Evidence for an iron-hydrogen complex in p-type silicon
+S. Leonard, V. P. Markevich, A. R. Peaker, B. Hamilton and J. D. Murphy
+Appl. Phys. Lett. 107, 032103 (2015); http://dx.doi.org/10.1063/1.4927323 
+
+ Extracting the effective bandgap of heterojunctions using Esaki diode I-V measurements
+Quentin Smets, Anne S. Verhulst, Salim El Kazzi, Devin Verreck, Olivier Richard, Hugo Bender, Nadine Collaert, Anda Mocuta, Aaron Thean and Marc M. Heyns
+Appl. Phys. Lett. 107, 072101 (2015); http://dx.doi.org/10.1063/1.4928761 
+
+
+
+Thermally enhanced blue light-emitting diode
+J. Xue, Y. Zhao, S. Oh, W. F. Herrington, J. S. Speck, S. P. Denbaars, S. Nakamura, R. J. Ram (2015)
+10.1063/1.4931365
