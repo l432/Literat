@@ -24,3 +24,44 @@ Appl. Phys. Lett. 107, 072101 (2015); http://dx.doi.org/10.1063/1.4928761
 Thermally enhanced blue light-emitting diode
 J. Xue, Y. Zhao, S. Oh, W. F. Herrington, J. S. Speck, S. P. Denbaars, S. Nakamura, R. J. Ram (2015)
 10.1063/1.4931365
+
+ Defect and temperature dependence of tunneling in InAs/GaSb heterojunctions
+Ryan M. Iutzi and Eugene A. Fitzgerald
+Appl. Phys. Lett. 107, 133504 (2015); http://dx.doi.org/10.1063/1.4931905 
+
+
+ Light-induced degradation of native silicon oxide–silicon nitride bilayer passivated silicon
+Zahidur R. Chowdhury and Nazir P. Kherani
+Appl. Phys. Lett. 107, 151602 (2015); http://dx.doi.org/10.1063/1.4933037 
+
+
+ Deep defects and the attempt to escape frequency in organic photovoltaic materials
+John A. Carr, Moneim Elshobaki and Sumit Chaudhary
+Appl. Phys. Lett. 107, 203302 (2015); http://dx.doi.org/10.1063/1.4936160 
+
+ Suppress carrier recombination by introducing defects: The case of Si solar cell
+Yuanyue Liu, Paul Stradins, Huixiong Deng, Junwei Luo and Su-Huai Wei
+Appl. Phys. Lett. 108, 022101 (2016); http://dx.doi.org/10.1063/1.4939628 
+
+ Acoustically induced current in graphene by aluminum nitride transducers
+Yan Chen, Hongxiang Zhang, Hao Zhang, Zhihong Feng, Hongyuan Zhao, Chongling Sun, Shijun Zheng, Wei Pang and Daihua Zhang
+Appl. Phys. Lett. 108, 033107 (2016); http://dx.doi.org/10.1063/1.4940400 
+
+ Accurate expressions for solar cell fill factors including series and shunt resistances
+Martin A. Green
+Appl. Phys. Lett. 108, 081111 (2016); http://dx.doi.org/10.1063/1.4942660 
+
+ Super-resolution ultrasonic imaging of stiffness variations on a microscale active metasurface
+Shane Lani, Karim G. Sabra and F. Levent Degertekin
+Appl. Phys. Lett. 108, 084104 (2016); http://dx.doi.org/10.1063/1.4942752 
+
+
+ Control of liquid crystal molecular orientation using ultrasound vibration
+Satoki Taniguchi, Daisuke Koyama, Yuki Shimizu, Akira Emoto, Kentaro Nakamura and Mami Matsukawa
+Appl. Phys. Lett. 108, 101103 (2016); http://dx.doi.org/10.1063/1.4943494 
+
+
+ Ultrasound directed self-assembly of user-specified patterns of nanoparticles dispersed in a fluid medium
+J. Greenhall, F. Guevara Vasquez and B. Raeymaekers
+Appl. Phys. Lett. 108, 103103 (2016); http://dx.doi.org/10.1063/1.4943634 
+
