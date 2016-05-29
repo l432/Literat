@@ -65,3 +65,6 @@ Appl. Phys. Lett. 108, 101103 (2016); http://dx.doi.org/10.1063/1.4943494
 J. Greenhall, F. Guevara Vasquez and B. Raeymaekers
 Appl. Phys. Lett. 108, 103103 (2016); http://dx.doi.org/10.1063/1.4943634 
 
+Phonon-Assisted Resonant Tunneling of Electrons in Graphene–Boron Nitride Transistors
+Phys. Rev. Lett. 116, 186603
+http://dx.doi.org/10.1103/PhysRevLett.116.186603
