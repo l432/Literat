@@ -68,3 +68,39 @@ Appl. Phys. Lett. 108, 103103 (2016); http://dx.doi.org/10.1063/1.4943634
 Phonon-Assisted Resonant Tunneling of Electrons in Graphene–Boron Nitride Transistors
 Phys. Rev. Lett. 116, 186603
 http://dx.doi.org/10.1103/PhysRevLett.116.186603
+
+Low-density silicon allotropes for photovoltaic applications
+Maximilian Amsler, Silvana Botti, Miguel A. L. Marques, Thomas J. Lenosky, and Stefan Goedecker
+Phys. Rev. B 92, 014101 – Published 1 July 2015
+http://dx.doi.org/10.1103/PhysRevB.92.014101
+
+Pseudopotential for the electron-electron interaction
+J. H. Lloyd-Williams, R. J. Needs, and G. J. Conduit
+Phys. Rev. B 92, 075106
+http://dx.doi.org/10.1103/PhysRevB.92.075106
+
+
+DFT+U study of electrical levels and migration barriers of early 3d and 4d transition metals in silicon
+A. G. Marinopoulos, P. Santos, and J. Coutinho
+Phys. Rev. B 92, 075124
+http://dx.doi.org/10.1103/PhysRevB.92.075124
+
+Electroreflectance of thin-film solar cells: Simulation and experiment
+Christian Huber, Christoph Krammer, David Sperber, Alice Magin, Heinz Kalt, and Michael Hetterich
+Phys. Rev. B 92, 075201
+http://dx.doi.org/10.1103/PhysRevB.92.075201
+
+Influence of dislocation strain fields on the diffusion of interstitial iron impurities in silicon
+Benedikt Ziebarth, Matous Mrovec, Christian Elsasser, and Peter Gumbsch
+Phys. Rev. B 92, 115309
+http://dx.doi.org/10.1103/PhysRevB.92.115309
+
+Multivalley envelope function equations and effective potentials for phosphorus impurity in silicon
+M. V. Klymenko, S. Rogge, and F. Remacle
+Phys. Rev. B 92, 195302
+http://dx.doi.org/10.1103/PhysRevB.92.195302
+
+Interstitial iron impurities at cores of dissociated dislocations in silicon
+Benedikt Ziebarth, Matous Mrovec, Christian Elsasser, and Peter Gumbsch
+Phys. Rev. B 92, 195308
+http://dx.doi.org/10.1103/PhysRevB.92.195308
