@@ -104,3 +104,11 @@ Interstitial iron impurities at cores of dissociated dislocations in silicon
 Benedikt Ziebarth, Matous Mrovec, Christian Elsasser, and Peter Gumbsch
 Phys. Rev. B 92, 195308
 http://dx.doi.org/10.1103/PhysRevB.92.195308
+
+ Trapping effects in HgCdTe
+Y. Nemirovsky, R. Fastow, M. Meyassed and A. Unikovsky
+J. Vac. Sci. Technol. B 9, 1829 (1991); http://dx.doi.org/10.1116/1.585808 
+
+ Tunneling and dark currents in HgCdTe photodiodes
+Y. Nemirovsky, D. Rosenfeld, R. Adar and A. Kornfeld
+J. Vac. Sci. Technol. A 7, 528 (1989); http://dx.doi.org/10.1116/1.576215 
