@@ -1,5 +1,10 @@
+A sound idea: Manipulating domain walls in magnetic nanowires using surface acoustic waves
+J. Dean, M. T. Bryan, J. D. Cooper, A. Virbule, J. E. Cunningham and T. J. Hayward 
  Appl. Phys. Lett. 107, 142405 (2015); http://dx.doi.org/10.1063/1.4932057 
 
+Electrophysical and Photoelectric Properties of Injection Photodiode Based on pSi–nCdS–In Structure and Influence of Ultrasonic Irradiation on them
+Mirsagatov, Sh. A.; Sapaev, I.B.; Valieva, Sh. R.; Babajanov, D.
+ Journal of Nanoelectronics and Optoelectronics, Volume 9, Number 6, March 2015, pp. 834-843(10)
 http://dx.doi.org/10.1166/jno.2014.1685
 
 Progress, challenges, and opportunities for HgCdTe infrared materials and detectors
@@ -35,10 +40,6 @@ Zahidur R. Chowdhury and Nazir P. Kherani
 Appl. Phys. Lett. 107, 151602 (2015); http://dx.doi.org/10.1063/1.4933037 
 
 
- Deep defects and the attempt to escape frequency in organic photovoltaic materials
-John A. Carr, Moneim Elshobaki and Sumit Chaudhary
-Appl. Phys. Lett. 107, 203302 (2015); http://dx.doi.org/10.1063/1.4936160 
-
  Suppress carrier recombination by introducing defects: The case of Si solar cell
 Yuanyue Liu, Paul Stradins, Huixiong Deng, Junwei Luo and Su-Huai Wei
 Appl. Phys. Lett. 108, 022101 (2016); http://dx.doi.org/10.1063/1.4939628 
@@ -50,10 +51,6 @@ Appl. Phys. Lett. 108, 033107 (2016); http://dx.doi.org/10.1063/1.4940400
  Accurate expressions for solar cell fill factors including series and shunt resistances
 Martin A. Green
 Appl. Phys. Lett. 108, 081111 (2016); http://dx.doi.org/10.1063/1.4942660 
-
- Super-resolution ultrasonic imaging of stiffness variations on a microscale active metasurface
-Shane Lani, Karim G. Sabra and F. Levent Degertekin
-Appl. Phys. Lett. 108, 084104 (2016); http://dx.doi.org/10.1063/1.4942752 
 
 
  Control of liquid crystal molecular orientation using ultrasound vibration
@@ -104,4 +101,29 @@ Interstitial iron impurities at cores of dissociated dislocations in silicon
 Benedikt Ziebarth, Matous Mrovec, Christian Elsasser, and Peter Gumbsch
 Phys. Rev. B 92, 195308
 http://dx.doi.org/10.1103/PhysRevB.92.195308
+
+Temperature-dependent thermal conductivity in silicon nanostructured materials studied by the Boltzmann transport equation
+Giuseppe Romano, Keivan Esfarjani, David A. Strubbe, David Broido, and Alexie M. Kolpak
+Phys. Rev. B 93, 035408
+http://dx.doi.org/10.1103/PhysRevB.93.035408
+
+Rabier, J., Pailloux, F. and Pizzagalli, L. (2015), On the dislocation core structures associated to point defect cluster formation in diamond and silicon. Phys. Status Solidi C, 12: 1067–1070. doi: 10.1002/pssc.201400370
+
+Reiche, M., Kittler, M., Pippel, E., Erfurth, W., Haehnel, A. and Uebensee, H. (2015), Strain and carrier transport along dislocations. Phys. Status Solidi C, 12: 1071–1076. doi: 10.1002/pssc.201400298
+
+Sekiguchi, T., Jiptner, K., Prakash, R. R., Chen, J., Miyamura, Y., Harada, H., Nakano, S., Gao, B. and Kakimoto, K. (2015), Control of extended defects in cast and seed cast Si ingots for photovoltaic application. Phys. Status Solidi C, 12: 1094–1098. doi: 10.1002/pssc.201400230
+
+Kolevatov, I., Osinniy, V., Herms, M., Loshachenko, A., Shlyakhov, I., Kveder, V. and Vyvenko, O. (2015), Oxygen-related defects: minority carrier lifetime killers in n-type Czochralski silicon wafers for solar cell application. Phys. Status Solidi C, 12: 1108–1110. doi: 10.1002/pssc.201400293
+
+Muralidharan, P., Vasileska, D., Goodnick, S. M. and Bowden, S. (2015), A kinetic Monte Carlo study of defect assisted transport in silicon heterojunction solar cells. Phys. Status Solidi C, 12: 1198–1200. doi: 10.1002/pssc.201510071
+
+Abgaryan, K. and Mutigullin, I. (2016), Theoretical investigation of the stability of defect complexes in silicon. Phys. Status Solidi C, 13: 156–158. doi: 10.1002/pssc.201510220
+
+Niewelt, T., Schon, J., Broisch, J., Warta, W. and Schubert, M. (2015), Electrical characterization of the slow boron oxygen defect component in Czochralski silicon. Phys. Status Solidi RRL, 9: 692–696. doi: 10.1002/pssr.201510357
+
+Khorosheva, M. A., Kveder, V. V. and Seibt, M. (2015), On the nature of defects produced by motion of dislocations in silicon. Phys. Status Solidi A, 212: 1695–1703. doi: 10.1002/pssa.201532153
+
+Tada, K. (2015), Parameter extraction from S-shaped current–voltage characteristics in organic photocell with opposed two-diode model: Effects of ideality factors and series resistance. Phys. Status Solidi A, 212: 1731–1734. doi: 10.1002/pssa.201431877
+
+Hu, J., Stoffels, S., Lenci, S., You, S., Bakeroot, B., Ronchi, N., Venegas, R., Groeseneken, G. and Decoutere, S. (2016), Leakage and trapping characteristics in Au-free AlGaN/GaN Schottky barrier diodes fabricated on C-doped buffer layers. Phys. Status Solidi A, 213: 1229–1235. doi: 10.1002/pssa.201532797
 
