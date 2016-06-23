@@ -62,9 +62,6 @@ Appl. Phys. Lett. 108, 101103 (2016); http://dx.doi.org/10.1063/1.4943494
 J. Greenhall, F. Guevara Vasquez and B. Raeymaekers
 Appl. Phys. Lett. 108, 103103 (2016); http://dx.doi.org/10.1063/1.4943634 
 
-Phonon-Assisted Resonant Tunneling of Electrons in Graphene–Boron Nitride Transistors
-Phys. Rev. Lett. 116, 186603
-http://dx.doi.org/10.1103/PhysRevLett.116.186603
 
 Low-density silicon allotropes for photovoltaic applications
 Maximilian Amsler, Silvana Botti, Miguel A. L. Marques, Thomas J. Lenosky, and Stefan Goedecker
@@ -126,4 +123,80 @@ Khorosheva, M. A., Kveder, V. V. and Seibt, M. (2015), On the nature of defects 
 Tada, K. (2015), Parameter extraction from S-shaped current–voltage characteristics in organic photocell with opposed two-diode model: Effects of ideality factors and series resistance. Phys. Status Solidi A, 212: 1731–1734. doi: 10.1002/pssa.201431877
 
 Hu, J., Stoffels, S., Lenci, S., You, S., Bakeroot, B., Ronchi, N., Venegas, R., Groeseneken, G. and Decoutere, S. (2016), Leakage and trapping characteristics in Au-free AlGaN/GaN Schottky barrier diodes fabricated on C-doped buffer layers. Phys. Status Solidi A, 213: 1229–1235. doi: 10.1002/pssa.201532797
+
+ Injection deep level transient spectroscopy: An improved method for measuring capture rates of hot carriers in semiconductors
+R. M. Fleming, C. H. Seager, D. V. Lang and J. M. Campbell
+J. Appl. Phys. 118, 015703 (2015); http://dx.doi.org/10.1063/1.4923358
+
+ Defect-dependent carrier transport behavior of polymer:ZnO composites/electrodeposited CdS/indium tin oxide devices
+Yow-Jon Lin and C. F. You
+J. Appl. Phys. 118, 044503 (2015); http://dx.doi.org/10.1063/1.4927520  
+
+ Electron-phonon interaction and scattering in Si and Ge: Implications for phonon engineering
+Nandan Tandon, J. D. Albrecht and L. R. Ram-Mohan
+J. Appl. Phys. 118, 045713 (2015); http://dx.doi.org/10.1063/1.4927530 
+
+ Two different carbon-hydrogen complexes in silicon with closely spaced energy levels
+R. Stubner, Vl. Kolkovsky and J. Weber
+J. Appl. Phys. 118, 055704 (2015); http://dx.doi.org/10.1063/1.4928146
+
+ A mechanistic study of impurity segregation at silicon grain boundaries
+Peter Kashammer and Talid Sinno
+J. Appl. Phys. 118, 095301 (2015); http://dx.doi.org/10.1063/1.4929637 
+
+
+ An atomistic vision of the Mass Action Law: Prediction of carbon/oxygen defects in silicon
+G. Brenet, D. Timerkaeva, E. N. Sgourou, C. A. Londos, D. Caliste and P. Pochet
+J. Appl. Phys. 118, 125706 (2015); http://dx.doi.org/10.1063/1.4931569
+
+ Kinetics study of the evolution of oxygen-related defects in mono-crystalline silicon subjected to electron-irradiation and thermal treatment
+V. Quemener, B. Raeissi, F. Herklotz, L. I. Murin, E. V. Monakhov and B. G. Svensson
+J. Appl. Phys. 118, 135703 (2015); http://dx.doi.org/10.1063/1.4932019
+
+ A comprehensive study of the impact of dislocation loops on leakage currents in Si shallow junction devices
+C. Nyamhere, A. Scheinemann, A. Schenk, A. Scheit, F. Olivie and F. Cristiano
+J. Appl. Phys. 118, 184501 (2015); http://dx.doi.org/10.1063/1.4935293 
+
+ Scaling effects in Schottky contacts
+A. Ruzin
+J. Appl. Phys. 118, 204502 (2015); http://dx.doi.org/10.1063/1.4935628 
+
+ Shape change and Peierls barrier of dislocation
+Shaofeng Wang, Shujun Zhang, Jianhui Bai and Yin Yao
+J. Appl. Phys. 118, 244903 (2015); http://dx.doi.org/10.1063/1.4938194 
+
+ Characterization and modelling of the boron-oxygen defect activation in compensated n-type silicon
+J. Schon, T. Niewelt, J. Broisch, W. Warta and M. C. Schubert
+J. Appl. Phys. 118, 245702 (2015); http://dx.doi.org/10.1063/1.4938569 
+
+ Low symmetry configurations of vacancy-oxygen complexes in irradiated silicon
+Y. Kusano, H. Saito, L. S. Vlasenko, M. P. Vlasenko, E. Ohta and K. M. Itoh
+J. Appl. Phys. 118, 245703 (2015); http://dx.doi.org/10.1063/1.4938199 
+
+ Point defects: Their influence on electron trapping, resistivity, and electron mobility-lifetime product in CdTexSe1?x detectors
+R. Gul, U. N. Roy, S. U. Egarievwe, A. E. Bolotnikov, G. S. Camarda, Y. Cui, A. Hossain, G. Yang and R. B. James
+J. Appl. Phys. 119, 025702 (2016); http://dx.doi.org/10.1063/1.4939647 
+
+ Temperature dependence of hydrogenated amorphous silicon solar cell performances
+Y. Riesen, M. Stuckelberger, F.-J. Haug, C. Ballif and N. Wyrsch
+J. Appl. Phys. 119, 044505 (2016); http://dx.doi.org/10.1063/1.4940392 
+
+ X-ray photoelectron spectroscopy analysis of boron defects in silicon crystal: A first-principles study
+Jun Yamauchi, Yoshihide Yoshimoto and Yuji Suwa
+J. Appl. Phys. 119, 175704 (2016); http://dx.doi.org/10.1063/1.4948572 
+
+Realistic efficiency potential of next-generation industrial Czochralski-grown silicon solar cells after deactivation of the boron–oxygen-related defect center (pages 920–928)
+Dominic C. Walter, Bianca Lim and Jan Schmidt
+Progress in Photovoltaics: Research and Applications, Volume 24, Issue 7
+DOI: 10.1002/pip.2731
+
+Determination of subcell I–V characteristics of multijunction solar cells using optical coupling (pages 760–773)
+Helmut Nesswetter, Norman R. Jost, Paolo Lugli, Andreas W. Bett and Claus G. Zimmermann
+Progress in Photovoltaics: Research and Applications, Volume 24, Issue 6
+DOI: 10.1002/pip.2722
+
+“In-field” cell temperature evaluation in solar modules through time-dependent open circuit voltage measurements (pages 211–218)
+Valery D. Rumyantsev, Alexander V. Chekalin, Nikolay Yu. Davidyuk, Nikolay A. Sadchikov and Antonio Luque
+Progress in Photovoltaics: Research and Applications, Volume 24, Issue 2
+DOI: 10.1002/pip.2662
 
