@@ -117,3 +117,5 @@ Determination of subcell IЦV characteristics of multijunction solar cells using 
 Helmut Nesswetter, Norman R. Jost, Paolo Lugli, Andreas W. Bett and Claus G. Zimmermann
 Progress in Photovoltaics: Research and Applications, Volume 24, Issue 6
 DOI: 10.1002/pip.2722
+
+10.1063/1.4939647  по возможности перекачать
