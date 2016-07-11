@@ -1,0 +1,4 @@
+So far, crystalline silicon solar cells are dominant in the photovoltaic field due to their high efficiency, low selling price and process maturity.
+
+Since room temperature (300 K) measurements of I–V and C–V characteristics alone cannot provide detailed information about the mechanisms responsible for the formation of barrier  at the interface of the MS and electrical properties of devices, additional insight is gained by characterising the diodes
+over a wide temperature range (40–300 K). 
