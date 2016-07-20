@@ -5,4 +5,6 @@ over a wide temperature range (40–300 K).
 
 The analysis of  the current-voltage (I-V)  characteristic of  a solar cell is one of  the most important diagnostic methods that may be used  to characterize the solar cell.  The current-voltage  equation that models the solar cell by  an equivalent electrical circuit contains several parameters related to physical phenomena occurring in  the device.  Changes in the parameter values may  reveal  important information about  the effects of  environmental conditions (e.g. radiation  effects on space solar cells) or manufacturing processes on  the performance of  solar cell. 
 
-initial iron concentration at or below 1013 cm3 has no observable in?uence on...
+initial iron concentration at or below 1013 cm3 has no observable influence on...
+
+Beside well developed silicon PV which covers almost 90% of global market [1] the other technologies such as dye-sensitized [2] or thin ?lm [3] solar cells are available.
