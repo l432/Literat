@@ -15,3 +15,5 @@ The contacts size was chosen to avoid edge effects
 
 Metal-Semiconductor (M-S) contacts are found to be important research activity because the knowledge of barrier formation is still far from the complete despite the fact that they are work horse at many electronic 
 applications  like surge protection,  high speed operation, microwave field effect transistors, radio frequency detectors, temperature sensors and solar cells etc. 
+
+A low n is preferable, because that results in a more rectangular J–V curve
