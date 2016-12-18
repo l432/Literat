@@ -17,3 +17,5 @@ Metal-Semiconductor (M-S) contacts are found to be important research activity b
 applications  like surge protection,  high speed operation, microwave field effect transistors, radio frequency detectors, temperature sensors and solar cells etc. 
 
 A low n is preferable, because that results in a more rectangular J–V curve
+
+We have used two approaches to calculate the depletion region. The ?rst approach is based 
