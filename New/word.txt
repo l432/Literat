@@ -19,3 +19,9 @@ applications  like surge protection,  high speed operation, microwave field effe
 A low n is preferable, because that results in a more rectangular J–V curve
 
 We have used two approaches to calculate the depletion region. The ?rst approach is based 
+
+The content of this paper is organized as follows. In Section II, we present the formalism and the numerical implementation for trap level extraction. The impact of electric ?eld on semiconductor traps and on different trap con?gurations is presented in Section III. Section IV considers the impact on the oxide trap characteristics. The electric ?eld impact on the emission rates of semiconductor and oxide traps is discussed in Section V. Finally, we conclude this paper in Section VI.
+
+For photovoltaic (PV) applications, Si, particularly in single-crystalline and multi-crystalline wafer form, is still the most widely-used material for industry; therefore, understanding the material properties including bulk lifetimes and the quality of the surface passivation is a top priority for many PV module manufacturers.
+
+This spectral dependence is, to some degree, the result...
