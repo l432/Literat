@@ -7,20 +7,19 @@ The analysis of  the current-voltage (I-V)  characteristic of  a solar cell is o
 
 initial iron concentration at or below 1013 cm3 has no observable influence on...
 
-Beside well developed silicon PV which covers almost 90% of global market [1] the other technologies such as dye-sensitized [2] or thin ?lm [3] solar cells are available.
+Beside well developed silicon PV which covers almost 90% of global market [1] the other technologies such as dye-sensitized [2] or thin film [3] solar cells are available.
 
 Fig. 4 shows the  series resistance  over the explored temperature range. 
 
 The contacts size was chosen to avoid edge effects
 
-Metal-Semiconductor (M-S) contacts are found to be important research activity because the knowledge of barrier formation is still far from the complete despite the fact that they are work horse at many electronic 
-applications  like surge protection,  high speed operation, microwave field effect transistors, radio frequency detectors, temperature sensors and solar cells etc. 
+Metal-Semiconductor (M-S) contacts are found to be important research activity because the knowledge of barrier formation is still far from the complete despite the fact that they are work horse at many electronic applications  like surge protection,  high speed operation, microwave field effect transistors, radio frequency detectors, temperature sensors and solar cells etc. 
 
 A low n is preferable, because that results in a more rectangular J–V curve
 
-We have used two approaches to calculate the depletion region. The ?rst approach is based 
+We have used two approaches to calculate the depletion region. The first approach is based 
 
-The content of this paper is organized as follows. In Section II, we present the formalism and the numerical implementation for trap level extraction. The impact of electric ?eld on semiconductor traps and on different trap con?gurations is presented in Section III. Section IV considers the impact on the oxide trap characteristics. The electric ?eld impact on the emission rates of semiconductor and oxide traps is discussed in Section V. Finally, we conclude this paper in Section VI.
+The content of this paper is organized as follows. In Section II, we present the formalism and the numerical implementation for trap level extraction. The impact of electric field on semiconductor traps and on different trap configurations is presented in Section III. Section IV considers the impact on the oxide trap characteristics. The electric field impact on the emission rates of semiconductor and oxide traps is discussed in Section V. Finally, we conclude this paper in Section VI.
 
 For photovoltaic (PV) applications, Si, particularly in single-crystalline and multi-crystalline wafer form, is still the most widely-used material for industry; therefore, understanding the material properties including bulk lifetimes and the quality of the surface passivation is a top priority for many PV module manufacturers.
 
