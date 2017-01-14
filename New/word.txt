@@ -24,3 +24,5 @@ The content of this paper is organized as follows. In Section II, we present the
 For photovoltaic (PV) applications, Si, particularly in single-crystalline and multi-crystalline wafer form, is still the most widely-used material for industry; therefore, understanding the material properties including bulk lifetimes and the quality of the surface passivation is a top priority for many PV module manufacturers.
 
 This spectral dependence is, to some degree, the result...
+
+The spectra are  shifted vertically for ease of viewing. The intensity of spectrum 3 was divided by 4. 
