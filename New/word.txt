@@ -26,3 +26,5 @@ For photovoltaic (PV) applications, Si, particularly in single-crystalline and m
 This spectral dependence is, to some degree, the result...
 
 The spectra are  shifted vertically for ease of viewing. The intensity of spectrum 3 was divided by 4. 
+
+All wafers were characterised using a Sinton Instruments WCT-120 tool and analysed using the generalised technique.
