@@ -28,3 +28,5 @@ This spectral dependence is, to some degree, the result...
 The spectra are  shifted vertically for ease of viewing. The intensity of spectrum 3 was divided by 4. 
 
 All wafers were characterised using a Sinton Instruments WCT-120 tool and analysed using the generalised technique.
+
+Some wafers were also transformed into 50?50 mm2  solar cells by using an industrial standard process. Both surfaces were texturized by the anisotropic chemical attack developed by the KOH solution. The n+ emitter was formed by phosphorus diffusion. Then a SiN-H layer used as antireflection coating was deposited on the front surface by PECVD. The silver front and aluminum rear electrodes were deposited by screen printing before rapid annealing. 
