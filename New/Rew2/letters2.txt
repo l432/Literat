@@ -1,0 +1,182 @@
+﻿Dear Dr. Olikh: 
+
+Your manuscript, referenced below, has been reviewed for publication in the Journal of Applied Physics. I am pleased to inform you that it has received positive reviewer comments. 
+
+"Ultrasound influence on I--V--T characteristics of silicon Schottky barrier structure" 
+JR14-12076 
+
+However, based on reviewer comments, the recommendation is minor revisions. His/her comments are included below and/or are attached. 
+
+Please indicate how the manuscript has been revised in your response letter so that the editors can see whether you have complied with the reviewer comments. 
+
+The revised manuscript should be returned to the Editor promptly. Your revised manuscript is due 24-Jan-2015. A manuscript returned after 24-Jan-2015 will generally be regarded as new submission and will be assigned a new receipt date. 
+
+Please go to the URL below to submit the revised version. To meet AIP Production requirements, please provide a separate figure file for each cited figure number (all parts in one file), in addition to your article-text file. 
+http://jap.peerx-press.org/cgi-bin/main.plex?el=A6N3EboV1A4FVoL2I3A9ftd8TTZL83rfDE8EhoUMTpWpAY 
+(If clicking on the above URL address directly from your mail program is unsuccessful, please copy and paste the complete address into your browser.) 
+
+If you have not done so already, please download the transfer of copyright agreement form (URL below), sign, and return it to the Editorial Office of Journal of Applied Physics. 
+
+If you have any questions, feel free to contact us at jap-edoffice@aip.org. 
+
+Sincerely yours, 
+
+Andreas Mandelis 
+Associate Editor 
+
+JOURNAL OF APPLIED PHYSICS 
+
+AIP Publishing LLC 
+Suite 300 
+1305 Walt Whitman Road 
+Melville, NY 11747-4300 USA 
+
+Phone: 516-576-2910 
+E-mail: jap-edoffice@aip.org 
+
+
+--------------------------------------------------------------------- 
+Manuscript #JR14-12076: 
+
+********************************* 
+REQUIREMENTS NOT SATISFIED: 
+
+1. PDF is not an acceptable source file for revised articles. Please change your article file to a .doc, .docx, or latex file. 
+
+2. Do not use computerese in the figures. Do not use "E" or "e" for powers of 10 - i.e., 1 x 10... - NOT 1E3. 
+********************************* 
+
+***PLEASE NOTE**** 
+The appearance of your by-line and your author order of your data and your text is EXACTLY the way it will be printed. Review it carefully NOW to ensure you are completely satisfied. No modifications will be accepted in the event your article is to be accepted for publication. Please make any needed changes promptly. 
+****************** 
+Editor's Comments: 
+
+
+Reviewer Comments: 
+Reviewer #1 Evaluations: 
+RECOMMENDATION: Minor Revision 
+Sufficient New Physics in an Applied Area: Yes 
+Appropriate Length: Yes 
+Well Organized and Clearly Written: Yes 
+Good Title: Yes 
+Good Abstract: Yes 
+Clear Figures: Yes 
+Adequate References: Yes 
+TECHNICAL QUALITY RATING: Good 
+PRESENTATION RATING: Good 
+
+Reviewer #1 (Comments to the Author): 
+
+The paper is about study of influence of ultrasound on electrical properties of silicon Schottky barrier structure. The topic is interesting to wide range of readers. The authors are bringing into community a methodology of processing of semiconductor materials and devices. The work is systematic. Current-voltage dependence at different temperatures and related device parameters have been studied. Theory is involved to describe and understand the experimental results. Conclusions and abstract reflect main results of the article. References are appropriate. Quality of figures are very good. The work could be a good article for Journal of Applied Physics. I have minor comments: 
+
+1. The reason for selection of power, frequency of ultrasound and duration of processing by ultrasound should be discussed. 
+
+2. Frequency of the ultrasound is 8.4 MHz, which is equivalent to wavelength of about 36 m, which exceeds thickness of 250 micrometer of the silicon processed by the ultrasound. Some discussion about absorbency of the ultrasound by the Si would be interesting. 
+
+
+Reviewer #2 Evaluations: 
+RECOMMENDATION: Minor Revision 
+Sufficient New Physics in an Applied Area: Yes 
+Appropriate Length: Yes 
+Well Organized and Clearly Written: Yes 
+Good Title: Yes 
+Good Abstract: Yes 
+Clear Figures: Yes 
+Adequate References: No 
+TECHNICAL QUALITY RATING: Good 
+PRESENTATION RATING: Good 
+
+Reviewer #2 (Comments to the Author): 
+
+1. By means of the equation (7) the flat band barrier height is determined. However, the comparison with theoretical value of barrier height is not reported. It is necessary to give some detail on this topic. 
+
+2. It is demonstrated that there is a distribution of different patches with varies barrier height, but it is not mentioned the theoretical value of barrier height and its position in the Gaussian distribution. The values obtained of double Gaussian distribution include the ideal value? 
+
+3. The double Gaussian distribution show the presence of two different barrier heights: Φb,1 and Φb,2 . Which is the physics explanation of this behavior? Can be attributed at particular defects? It is important to report some details in the text. 
+
+4. In the page 4 is reported an explanation of the reversible Schottky barrier height variation due to ultrasound action. The paper is based on the effect of ultrasound on the interface characteristics; it can be useful to insert a schematic (such as band diagram or something else) which tries to better explain the hypothesis. 
+
+5. The equation (10) is related to the reference number 38, but in this paper is not reported this equation. It is necessary to change the reference or to integrate it with appropriate one. 
+
+
+
+
+--------------------------------------------------------------------- 
+
+
+Dear Dr. Olikh: 
+
+I am pleased to inform you that your manuscript, referenced below, has been accepted for publication in the Journal of Applied Physics. Materials are being prepared for AIP Production Services. 
+
+"Ultrasound influence on I--V--T characteristics of silicon Schottky barrier structure" 
+JR14-12076R 
+
+At this time, the manuscript has not as yet been scheduled for a particular issue and/or given an AIP code number. Please allow at least 10-14 days before checking the AMSIS website (http://www.aip.org/msinq/status.html) for any further production information. 
+
+When your page proofs are ready for your review, you will receive an e-mail from AIP Production Services. 
+
+To support the cost of wide dissemination of research results through publication of journal pages and production of a database of articles, the author's institution is requested to pay a page charge of $60 per page (with a one-page minimum) and an article charge of $20 per article. For any regular, published article that exceeds 10 journal pages, a mandatory $150 page charge will be added for each page in excess of 10 published pages. A link to the Rightslink service for payment of applicable publication charges and ordering reprints will be provided when proofs are ready for review. 
+
+Thank you for your contribution to the Journal. If you have any questions, please feel free to contact us at jap-edoffice@aip.org. 
+
+Sincerely yours, 
+
+Andreas Mandelis 
+Associate Editor 
+
+JOURNAL OF APPLIED PHYSICS 
+
+AIP Publishing LLC 
+Suite 300 
+1305 Walt Whitman Road 
+Melville, NY 11747-4300 USA 
+
+Phone: 516-576-2910 
+E-mail: jap-edoffice@aip.org 
+
+
+
+***PLEASE NOTE**** 
+The appearance of your by-line and your author order of your data and your text is EXACTLY the way it will be printed. Review it carefully NOW to ensure you are completely satisfied. No modifications will be accepted in the event your article is to be accepted for publication. Please make any needed changes promptly. 
+
+*************** 
+Editor's Comments: 
+
+
+****************** 
+
+Reviewer Comments: 
+Reviewer #1 Evaluations: 
+RECOMMENDATION: Publish as is 
+Sufficient New Physics in an Applied Area: Yes 
+Appropriate Length: Yes 
+Well Organized and Clearly Written: Yes 
+Good Title: Yes 
+Good Abstract: Yes 
+Clear Figures: Yes 
+Adequate References: Yes 
+TECHNICAL QUALITY RATING: Good 
+PRESENTATION RATING: Good 
+
+Reviewer #1 (Comments to the Author): 
+
+The authors have provided answers to my comments. The paper can be accepted for publication. 
+
+
+Reviewer #2 Evaluations: 
+RECOMMENDATION: Publish as is 
+Sufficient New Physics in an Applied Area: Yes 
+Appropriate Length: Yes 
+Well Organized and Clearly Written: Yes 
+Good Title: Yes 
+Good Abstract: Yes 
+Clear Figures: Yes 
+Adequate References: Yes 
+TECHNICAL QUALITY RATING: Good 
+PRESENTATION RATING: Good 
+
+Reviewer #2 (Comments to the Author): 
+
+Required modifications from the previous review have been done in this version. As a result, this paper can be published as is. 
+
+
