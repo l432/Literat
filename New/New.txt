@@ -2,3 +2,10 @@ Electrophysical and Photoelectric Properties of Injection Photodiode Based on pS
 Mirsagatov, Sh. A.; Sapaev, I.B.; Valieva, Sh. R.; Babajanov, D.
  Journal of Nanoelectronics and Optoelectronics, Volume 9, Number 6, March 2015, pp. 834-843(10)
 http://dx.doi.org/10.1166/jno.2014.1685
+
+
+A space-charge-free CdS, and a new solar cell without pn-junction enabled by high-field domains
+Boer, K. W. (2017), 
+A space-charge-free CdS, and a new solar cell without pn-junction enabled by high-field domains. 
+Phys. Status Solidi C, 14 1700034. 
+doi:10.1002/pssc.201700034
