@@ -9,3 +9,9 @@ Boer, K. W. (2017),
 A space-charge-free CdS, and a new solar cell without pn-junction enabled by high-field domains. 
 Phys. Status Solidi C, 14 1700034. 
 doi:10.1002/pssc.201700034
+
+Determination of Surface Recombination Velocities at Contacts in Organic Semiconductor Devices Using Injected Carrier Reservoirs
+Oskar J. Sandberg, Simon Sanden, Anton Sundqvist, Jan-Henrik Smatt, and Ronald Osterbacka
+Phys. Rev. Lett. 118, 076601
+DOI:https://doi.org/10.1103/PhysRevLett.118.076601
+
