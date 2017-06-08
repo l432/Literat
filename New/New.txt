@@ -15,3 +15,8 @@ Oskar J. Sandberg, Simon Sanden, Anton Sundqvist, Jan-Henrik Smatt, and Ronald O
 Phys. Rev. Lett. 118, 076601
 DOI:https://doi.org/10.1103/PhysRevLett.118.076601
 
+Suppressing the spin relaxation of electrons in silicon
+Oleg Chalaev, Yang Song, and Hanan Dery
+Phys. Rev. B 95, 035204 
+DOI:https://doi.org/10.1103/PhysRevB.95.03520
+
