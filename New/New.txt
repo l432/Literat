@@ -20,3 +20,23 @@ Oleg Chalaev, Yang Song, and Hanan Dery
 Phys. Rev. B 95, 035204 
 DOI:https://doi.org/10.1103/PhysRevB.95.03520
 
+Theoretical search for possible Au-Si crystal structures using a genetic algorithm
+Yue-Hang Dong, Wen-Cai Lu, Xin Xu, Xin Zhao, K. M. Ho, and C. Z. Wang
+Phys. Rev. B 95, 134109
+DOI:https://doi.org/10.1103/PhysRevB.95.134109
+
+Entropy production in a photovoltaic cell
+Mohammad H. Ansari
+Phys. Rev. B 95, 174302
+DOI:https://doi.org/10.1103/PhysRevB.95.174302
+
+
+Structural and thermal effects of ion-irradiation induced defect configurations in silicon
+Krishnan Swaminathan-Gopalan, Taishan Zhu, Elif Ertekin, and Kelly A. Stephani
+Phys. Rev. B 95, 184109
+https://doi.org/10.1103/PhysRevB.95.184109
+
+Electronic states and valley-orbit coupling in linear and planar molecules formed by coupled P donors in silicon
+M. V. Klymenko, S. Rogge, and F. Remacle
+Phys. Rev. B 95, 205301
+https://doi.org/10.1103/PhysRevB.95.205301
