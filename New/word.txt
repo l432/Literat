@@ -36,3 +36,7 @@ Exemplary degradation curves are shown in Fig. 3.
 However, a state C has not been described in the cited study.
 
 Figure 2 depicts a...
+
+A close agreement has been found
+
+One  detector,  irradiated  with  6 x  10^11  n/cm^2  and stored  for  6 months  at  room  temperature,  was  studied  in more  detail  using  isochronal  annealing. 
