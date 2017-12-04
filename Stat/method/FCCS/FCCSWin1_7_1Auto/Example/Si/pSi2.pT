@@ -1,0 +1,86 @@
+% Data of Hall-Effect Measurement
+% Version Information: Version 1.50 (2003/8/19)
+% Original file: \\Hml00\Document\2001年度\2001年度実験データ\Si\多結晶\N44\plot\TD_085-420.txt
+% Experimental data file: E:\Files\Program\Builder\Hall\FCCSWin\FCCSWin1_5_0\Example\Si\pSi2.pT
+% Name of measurement: MatsuuraLaboratory
+% Date of measurement: 2003/8/20
+% Name of analysis: Matsuura Laboratory
+% Date of Analysis: 2003/8/20
+% Sample number: pSi2
+% Semiconductor: Si
+% Conduction type: p-type
+% Sample thickness [micron]: 300
+% Magnetic Field [T]: 1
+% Current [A]: 0.001
+% Number of data: 69
+% Experimental Data (Polycrystalline Si produced by casting method)
+% Temperature [K]   Majority-Carrier Concentration [cm^-3]   Reliability   
+84.9     4.36e+15     1
+90     5.25e+15     1
+95     5.97e+15     1
+100     6.62e+15     1
+105     7.21e+15     1
+110     7.85e+15     1
+115     8.38e+15     1
+120     8.88e+15     1
+125     9.31e+15     1
+130     9.8e+15     1
+135     1.01e+16     1
+140     1.05e+16     1
+145     1.06e+16     1
+150     1.11e+16     1
+155     1.14e+16     1
+160     1.16e+16     1
+165     1.18e+16     1
+170     1.2e+16     1
+170     1.21e+16     1
+175     1.23e+16     1
+180     1.25e+16     1
+185     1.26e+16     1
+190     1.28e+16     1
+195     1.29e+16     1
+200     1.31e+16     1
+205     1.33e+16     1
+210     1.36e+16     1
+215     1.39e+16     1
+220     1.41e+16     1
+225     1.42e+16     1
+230     1.43e+16     1
+235     1.44e+16     1
+240     1.44e+16     1
+245     1.44e+16     1
+250     1.45e+16     1
+255     1.46e+16     1
+260     1.48e+16     0
+265     1.43e+16     0
+270     1.48e+16     1
+275     1.48e+16     1
+280     1.49e+16     1
+285     1.5e+16     1
+290     1.52e+16     1
+295     1.52e+16     1
+300     1.53e+16     1
+305     1.54e+16     1
+310     1.55e+16     1
+315     1.56e+16     1
+320     1.57e+16     1
+325     1.58e+16     1
+330     1.59e+16     1
+335     1.6e+16     1
+340     1.6e+16     1
+345     1.6e+16     1
+350     1.61e+16     1
+355     1.61e+16     1
+360     1.62e+16     1
+365     1.62e+16     1
+370     1.62e+16     1
+375     1.63e+16     1
+380     1.63e+16     1
+385     1.62e+16     1
+390     1.62e+16     1
+395     1.63e+16     1
+400     1.63e+16     1
+405     1.63e+16     1
+410     1.71e+16     0
+415     1.64e+16     1
+420     1.61e+16     0
