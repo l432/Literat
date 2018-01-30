@@ -1,1 +1,9 @@
-1. Новий варіант диференційної еволюції
+1. Новий варіант диференційної еволюції - ComOperRes_67_p155.pdf
+
+2. Визначення Voc, Isc  та Pm, можливо логіку вимірювання освітленої ВАХ - IEEEJPhotovol_6_p1564-1575.pdf
+
+3. Книжка Lifetime Spectroscopy: A Method of Defect Characterization in Silicon for Photovoltaic Applications прочитати б (в Semiconductor/Defect) - метод IDLS зокрема
+
+4. Подивитись можливість заміни формул визначення параметрів кремнію (ширина зони, власна концентрація, теплова швидкість ) так , як це проводиться в IEEEJPhotovol_7_p1092-1097.pdf (D:\Literat\Stat\method\SC_method\IDLS) точніше, як в посиланнях цієї роботи
+крім того, порівняти результати IEEETransElectDev_29_p292.pdf (D:\Literat\Stat\Si\mobility) з тими, що використовуються впрограмі (може там й однакове)
+
