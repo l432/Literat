@@ -11,3 +11,5 @@
 
 6. журнал REVIEW OF SCIENTIFIC INSTRUMENTS додати до списку огл€ду
 
+7. JApplPhys_121_134502.pdf - метод визначенн€ механ≥зму перенесенн€ зар€ду в ћЌ структурах.. там ще одну побудову треба робити - можна долучити до програми (статт€ в Literat\Stat\IVchar\Shotky\Mechanism\Complex)
+
