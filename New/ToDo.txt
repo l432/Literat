@@ -13,3 +13,5 @@
 
 7. JApplPhys_121_134502.pdf - метод визначення механізму перенесення заряду в МН структурах.. там ще одну побудову треба робити - можна долучити до програми (стаття в Literat\Stat\IVchar\Shotky\Mechanism\Complex)
 
+8. Підхід до зашумлених даних... ActaElectrInf_17_p3.pdf (D:\Literat\Stat\method\Schottky_method)
+
