@@ -15,3 +15,5 @@
 
 8. Підхід до зашумлених даних... ActaElectrInf_17_p3.pdf (D:\Literat\Stat\method\Schottky_method)
 
+9. До методички - огляд модифікацій DLTS методів і не тільки.. JApplPhys_123_161559.pdf (D:\Literat\Stat\method\DLTS_modification)
+
