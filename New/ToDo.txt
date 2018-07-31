@@ -10,7 +10,6 @@
 
 5. Метод OCVD подивитись? є в Schroder....
 
-6. журнал REVIEW OF SCIENTIFIC INSTRUMENTS додати до списку огляду
 
 7. JApplPhys_121_134502.pdf - метод визначення механізму перенесення заряду в МН структурах.. там ще одну побудову треба робити - можна долучити до програми (стаття в Literat\Stat\IVchar\Shotky\Mechanism\Complex)
 
