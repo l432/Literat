@@ -21,3 +21,5 @@
 
 11. Цікавий взаємозв'язок струму насичення та струму короткого замикання.. SolEnerMatSC_154_p99.pdf (D:\Literat\Stat\method\SC_method\J01toJsc)
 
+12. Можливо, колись метод про перехідні фотонапругу та фотострум... RewSciInstr_87_123107.pdf (D:\Literat\Stat\method\SC_method\TPV_TPC)
+
