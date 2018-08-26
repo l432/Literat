@@ -7,6 +7,7 @@
 4. Подивитись можливість заміни формул визначення параметрів кремнію (ширина зони, власна концентрація, теплова швидкість ) так , як це проводиться в IEEEJPhotovol_7_p1092-1097.pdf (D:\Literat\Stat\method\SC_method\IDLS) точніше, як в посиланнях цієї роботи
 крім того, порівняти результати IEEETransElectDev_29_p292.pdf (D:\Literat\Stat\Si\mobility) з тими, що використовуються впрограмі (може там й однакове)
 ширина забороненої зони PhysRevB_66_085201.pdf (D:\Literat\Stat\Si\i_Si)
+рухливості носіїв SolEnerMatSC_131_p92.pdf (D:\Literat\Stat\Si\mobility)
 
 5. Метод OCVD подивитись? є в Schroder....
 
