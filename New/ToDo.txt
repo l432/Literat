@@ -26,3 +26,6 @@
 12. Можливо, колись метод про перехідні фотонапругу та фотострум... RewSciInstr_87_123107.pdf (D:\Literat\Stat\method\SC_method\TPV_TPC)
 
 13. Книжку B. Luthi, Physical Acoustics in the Solid State проглянути
+
+14, В PhysStatSolA_214_1700293.pdf фраза про те, що різноманітні поверхневі стани можна замінити 
+рівнями в центрі забороненої зони - фраза для диплому (D:\Literat\Stat\IVchar\PN\Manufacturing\Passivation)

@@ -1,0 +1,48 @@
+% Data of Hall-Effect Measurement
+% Version Information: Version 1.50 (2003/8/19)
+% Original file: F:\HallExample\Irradiation\Si\CZ\3-04\3-04.pT
+% Experimental data file: E:\Files\Program\Builder\Hall\FCCSWin\FCCSWin1_5_0\Example\Si\pSi1.pT
+% Name of measurement: Matsuura Laboratory
+% Date of measurement: 2003/8/19
+% Name of analysis: Matsuura Laboratory
+% Date of Analysis: 2003/8/19
+% Sample number: pSi1
+% Semiconductor: Si
+% Conduction type: p-type
+% Sample thickness [micron]: 220
+% Magnetic Field [T]: 1.4
+% Current [A]: 0.0001
+% Number of data: 31
+% Experimental Data (10 MeV Protons Irradiated Si)
+% Temperature [K]   Majority-Carrier Concentration [cm^-3]   Reliability   
+250     1.1e+15     1
+255     1.12e+15     1
+260     1.15e+15     1
+265     1.17e+15     1
+270     1.2e+15     1
+275     1.23e+15     1
+280     1.25e+15     1
+285     1.27e+15     1
+290     1.29e+15     1
+295     1.31e+15     1
+300     1.33e+15     1
+305     1.35e+15     1
+310     1.36e+15     1
+315     1.38e+15     1
+320     1.39e+15     1
+325     1.41e+15     1
+330     1.43e+15     1
+335     1.45e+15     1
+340     1.46e+15     1
+345     1.48e+15     1
+350     1.5e+15     1
+355     1.52e+15     1
+360     1.54e+15     1
+365     1.56e+15     1
+370     1.58e+15     1
+375     1.6e+15     1
+380     1.62e+15     1
+385     1.64e+15     1
+390     1.66e+15     1
+395     1.68e+15     1
+400     1.7e+15     1
