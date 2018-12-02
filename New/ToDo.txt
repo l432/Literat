@@ -2,6 +2,8 @@
 
 2. Визначення Voc, Isc  та Pm, можливо логіку вимірювання освітленої ВАХ - IEEEJPhotovol_6_p1564-1575.pdf 
  (D:\Literat\Stat\method\SC_method\ParametrEvaluation\PVParameters)
+продовження для Voc, Isc див. в ProgPhotov_25_p623-625.pdf,
+в цій же роботі гарні слова для опису процесу створення синтетичних ВАХ
 
 3. Книжка Lifetime Spectroscopy: A Method of Defect Characterization in Silicon for Photovoltaic Applications прочитати б (в Semiconductor/Defect) - метод IDLS зокрема
 
