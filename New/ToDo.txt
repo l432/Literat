@@ -40,3 +40,4 @@
 16. Цікаві оптимізаційні алгоритми
 - на основі нейронних мереж D:\Literat\Stat\method\Meta_heuristic\NeuralNetwork\AdvSoftComp_71_p747.pdf
 - комбінація хаосу та кита D:\Literat\Stat\method\Meta_heuristic\swarm\Whale\ApplEner_200_p141.pdf
+- Water wave D:\Oleg\Literat\Stat\method\Meta_heuristic\Physics\WaterWave\CompOperRes_55_p1.pdf --- ???
