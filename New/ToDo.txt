@@ -1,4 +1,17 @@
 1. Новий варіант диференційної еволюції - ComOperRes_67_p155.pdf
+16. Цікаві оптимізаційні алгоритми
+- на основі нейронних мереж D:\Literat\Stat\method\Meta_heuristic\NeuralNetwork\AdvSoftComp_71_p747.pdf
+
+- комбінація хаосу та кита D:\Literat\Stat\method\Meta_heuristic\swarm\Whale\ApplEner_200_p141.pdf
+
+- Water wave D:\Oleg\Literat\Stat\method\Meta_heuristic\Physics\WaterWave\CompOperRes_55_p1.pdf --- ???
+
+- IJAYA - не потрібно додаткових параметрів (окрім числа ітерацій та розміру популяції) D:\Literat\Stat\method\Meta_heuristic\Custom\Jaya\EnerConvManag_150_p742.pdf
+
+- покращення PSO EnerConvManag_175_p151.pdf
+
+- GOTLBO Energy_99_p170.pdf
+
 
 2. Визначення Voc, Isc  та Pm, можливо логіку вимірювання освітленої ВАХ - IEEEJPhotovol_6_p1564-1575.pdf 
  (D:\Literat\Stat\method\SC_method\ParametrEvaluation\PVParameters)
