@@ -50,8 +50,8 @@
 (D:\Literat\Stat\IVchar\PN\influence\Irrad\electron__IV_PN_irrad)
 
 
-16. Цікаві оптимізаційні алгоритми
-- на основі нейронних мереж D:\Literat\Stat\method\Meta_heuristic\NeuralNetwork\AdvSoftComp_71_p747.pdf
-- комбінація хаосу та кита D:\Literat\Stat\method\Meta_heuristic\swarm\Whale\ApplEner_200_p141.pdf
-- Water wave D:\Oleg\Literat\Stat\method\Meta_heuristic\Physics\WaterWave\CompOperRes_55_p1.pdf --- ???
-- IJAYA - не потрібно додаткових параметрів (окрім числа ітерацій та розміру популяції) D:\Literat\Stat\method\Meta_heuristic\Custom\Jaya\EnerConvManag_150_p742.pdf
+16. Згадується метод Тагучі для вибору значень параметрів, для яких саме проводяться
+експерименти (щоб не перебирати всі можливі варіанти і зменшити кількість експериментів)
+EngApplArtIntel_72_p393.pdf (\Literat\Stat\method\Meta_heuristic\Plants\TreeGrowth) 
+Там взагалі багато написано про стат обробку багатопараметричних експериментів.
+
