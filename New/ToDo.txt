@@ -1,6 +1,9 @@
-1. Новий варіант диференційної еволюції - ComOperRes_67_p155.pdf
-16. Цікаві оптимізаційні алгоритми
+1. Новий варіант диференційної еволюції - ComOperRes_67_p155.pdf (MPADE)
+метод,що включає декілька варіантів DE InfSci_423_p172.pdf (2018 рік) (D:\Literat\Stat\method\Meta_heuristic\evolution\DE\EDEV)
+
 - на основі нейронних мереж D:\Literat\Stat\method\Meta_heuristic\NeuralNetwork\AdvSoftComp_71_p747.pdf
+варіан використання мета-еврістичного алгоритму для знаходження коефіцієнтів
+нейронних мереж  AinShEngJ_8_p371.pdf  (D:\Literat\Stat\method\Meta_heuristic\physics\ChemicalReaction)
 
 - комбінація хаосу та кита D:\Literat\Stat\method\Meta_heuristic\swarm\Whale\ApplEner_200_p141.pdf
 
