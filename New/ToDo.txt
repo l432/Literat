@@ -13,7 +13,7 @@
 
 - покращення PSO EnerConvManag_175_p151.pdf
 
-- GOTLBO Energy_99_p170.pdf
+- GOTLBO Energy_99_p170.pdf, a може й STLBO (IntJHydrEner_39_p3837.pdf) - параметрів менше
 
 
 2. Визначення Voc, Isc  та Pm, можливо логіку вимірювання освітленої ВАХ - IEEEJPhotovol_6_p1564-1575.pdf 
