@@ -16,6 +16,8 @@
 
 - GOTLBO Energy_99_p170.pdf, a може й STLBO (IntJHydrEner_39_p3837.pdf) - параметрів менше
 
+- sin-cos покращений дає непогані результати і достатньо простий (D:\Literat\Stat\method\Meta_heuristic\Custom\SineCosine\ExpSysWithAppl_123_p108.pdf)
+
 
 2. Визначення Voc, Isc  та Pm, можливо логіку вимірювання освітленої ВАХ - IEEEJPhotovol_6_p1564-1575.pdf 
  (D:\Literat\Stat\method\SC_method\ParametrEvaluation\PVParameters)
