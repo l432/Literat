@@ -63,3 +63,9 @@ EngApplArtIntel_72_p393.pdf (\Literat\Stat\method\Meta_heuristic\Plants\TreeGrow
 
 17. Книжка Advances_in_Silicon_Solar_Cells
 
+
+18. Вимірювання шуму для характеризації сонячних елементів 
+D:\Literat\Stat\method\SC_method\Noise
+
+19. Метод визначення часу життя в р-n переходах (transient behavior) див. D:\Literat\Stat\method\SC_method\TransBehavior
+Взагалі то, він мені попався в роботі  JpnJApplPhys_44_p8314.pdf (D:\Literat\Stat\IVchar\PN\Modeling\2DiodModified) - там згадувався і застосовувався. Метод ніби простий, проте не дуже добре описаний 
