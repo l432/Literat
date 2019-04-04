@@ -70,3 +70,7 @@ D:\Literat\Stat\method\SC_method\Noise
 
 19. Метод визначення часу життя в р-n переходах (transient behavior) див. D:\Literat\Stat\method\SC_method\TransBehavior
 Взагалі то, він мені попався в роботі  JpnJApplPhys_44_p8314.pdf (D:\Literat\Stat\IVchar\PN\Modeling\2DiodModified) - там згадувався і застосовувався. Метод ніби простий, проте не дуже добре описаний 
+
+
+20. Bandgap narrowing is considered as described by the Slotboom equation [24]:
+(MatSciSemProc_86_p8.pdf,  D:\Literat\Stat\IVchar\PN\Manufacturing\)
