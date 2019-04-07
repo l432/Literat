@@ -74,3 +74,6 @@ D:\Literat\Stat\method\SC_method\Noise
 
 20. Bandgap narrowing is considered as described by the Slotboom equation [24]:
 (MatSciSemProc_86_p8.pdf,  D:\Literat\Stat\IVchar\PN\Manufacturing\)
+
+21. В роботі ApplEner_111_p374.pdf () непогані залежності характеристик СЕ від температури та інтенсивності освітлення
+(D:\Literat\Stat\IVchar\PN\influence\LightIntensity)
