@@ -13,6 +13,7 @@
 - IJAYA - не потрібно додаткових параметрів (окрім числа ітерацій та розміру популяції) D:\Literat\Stat\method\Meta_heuristic\Custom\Jaya\EnerConvManag_150_p742.pdf
 
 - покращення PSO EnerConvManag_175_p151.pdf
+ або SolEner_144_p594.pdf (D:\Literat\Stat\method\Meta_heuristic\Animal\PSO\MSSO)
 
 - GOTLBO Energy_99_p170.pdf, a може й STLBO (IntJHydrEner_39_p3837.pdf) - параметрів менше
 
@@ -72,10 +73,16 @@ D:\Literat\Stat\method\SC_method\Noise
 
 19. Метод визначення часу життя в р-n переходах (transient behavior) див. D:\Literat\Stat\method\SC_method\TransBehavior
 Взагалі то, він мені попався в роботі  JpnJApplPhys_44_p8314.pdf (D:\Literat\Stat\IVchar\PN\Modeling\2DiodModified) - там згадувався і застосовувався. Метод ніби простий, проте не дуже добре описаний 
+є в книзі Schroder (c.420)
+ще використовується в SolEnerMatSC_120_p191.pdf
+
 
 
 20. Bandgap narrowing is considered as described by the Slotboom equation [24]:
 (MatSciSemProc_86_p8.pdf,  D:\Literat\Stat\IVchar\PN\Manufacturing\)
 
-21. В роботі ApplEner_111_p374.pdf () непогані залежності характеристик СЕ від температури та інтенсивності освітлення
+21. В роботі ApplEner_111_p374.pdf непогані залежності характеристик СЕ від температури та інтенсивності освітлення
 (D:\Literat\Stat\IVchar\PN\influence\LightIntensity)
+
+
+22. В SolEnerMatSC_173_p50.pdf (D:\Literat\Stat\Defects\Materials\Si\Interface) можна черпанути ідею для обгрунтування статті (з Коротченковим, спроба 2)
