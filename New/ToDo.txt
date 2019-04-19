@@ -88,3 +88,6 @@ D:\Literat\Stat\method\SC_method\Noise
 22. В SolEnerMatSC_173_p50.pdf (D:\Literat\Stat\Defects\Materials\Si\Interface) можна черпанути ідею для обгрунтування статті (з Коротченковим, спроба 2)
 
 23. В SolEnerMatSC_173_p80.pdf (D:\Oleg\Literat\Stat\IVchar\PN\influence\Light\LeTID) цікавий підхід до аналізу деградації 
+
+
+24.SolEnerMatSC_185_p283.pdf (D:\Oleg\Literat\Stat\IVchar\PN\influence\Light) - цікавий опис експериментальної комірки
