@@ -94,4 +94,6 @@ D:\Literat\Stat\method\SC_method\Noise
 
 25. Приклад таблички для статті з Артуром (чи, певніше, без нього) SolEnerMatSC_185_p300.pdf (D:\Literat\Stat\IVchar\PN\Temperature)
 
+25.5 Можна використати ANN до аналізу n як функція FeB (щось на кшталт CaseStudTherEng_3_p11.pdf (D:\Literat\Stat\IVchar\PN\Temperature\ANN))
+
 26. В SolEnerMatSC_187_p263.pdf (D:\Literat\Stat\Defects\Materials\Si\Metal) температурні залежності поперечних перерізів захоплення носіїв для Fe, FeB ()
