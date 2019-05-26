@@ -68,7 +68,9 @@ quantum inspired binary grey wolf optimizer (D:\Literat\Stat\method\Meta_heurist
 EngApplArtIntel_72_p393.pdf (\Literat\Stat\method\Meta_heuristic\Plants\TreeGrowth) 
 Там взагалі багато написано про стат обробку багатопараметричних експериментів.
 
-17. Книжка Advances_in_Silicon_Solar_Cells
+17. Книжка Advances_in_Silicon_Solar_Cells (D:\Literat\Stat\IVchar\PN\SC\SC_type)
+в ній моделі Staebler–Wronski Effect (деградація оморфного кремнія, ст 254-257 )  - 
+можливо використати як нульове наближення причин фотодеградації в CdSe
 
 
 18. Вимірювання шуму для характеризації сонячних елементів 
