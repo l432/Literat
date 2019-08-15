@@ -2,3 +2,7 @@ Electrophysical and Photoelectric Properties of Injection Photodiode Based on pS
 Mirsagatov, Sh. A.; Sapaev, I.B.; Valieva, Sh. R.; Babajanov, D.
  Journal of Nanoelectronics and Optoelectronics, Volume 9, Number 6, March 2015, pp. 834-843(10)
 http://dx.doi.org/10.1166/jno.2014.1685
+
+10.1109/JPHOTOV.2019.2892127
+
+10.1109/JPHOTOV.2019.2910235
