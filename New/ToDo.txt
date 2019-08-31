@@ -101,7 +101,6 @@ D:\Literat\Stat\method\SC_method\Noise
 
 25.5 Можна використати ANN до аналізу n як функція FeB (щось на кшталт CaseStudTherEng_3_p11.pdf (D:\Literat\Stat\IVchar\PN\Temperature\ANN))
 
-26. В SolEnerMatSC_187_p263.pdf (D:\Literat\Stat\Defects\Materials\Si\Metal) температурні залежності поперечних перерізів захоплення носіїв для Fe, FeB ()
 
 27. В SuprMicr_99_p192.pdf (D:\Literat\Stat\Defects\Materials\Si\Metal\Fe) глянути криві кінетики зміни...
 
@@ -112,3 +111,10 @@ D:\Literat\Stat\method\SC_method\Noise
 
 
 30. В IEEEJPV_8_p473 (D:\Literat\Stat\IVchar\PN\RealIV\Sshape) цікавий, як на мене, варіант представлення багатопараметричних залежностей (рис.6, наприклад) - можна для статті про FeB використати
+
+
+31. При врахуванні температурних залежностей параметрів подивитися:
+- рекомбінаційні коефіцієнти в D:\Literat\Stat\Si\RecomCoeff
+- JCompElec_10_p314.pdf (D:\Literat\Stat\IVchar\PN\Modeling\Calculation)
+- SolEnerMatSC_187_p263.pdf (D:\Literat\Stat\Defects\Materials\Si\Metal)
+- можливо, дані з D:\Literat\Stat\Defects\General\DopantIonization
