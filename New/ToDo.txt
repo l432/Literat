@@ -33,10 +33,7 @@ quantum inspired binary grey wolf optimizer (D:\Literat\Stat\method\Meta_heurist
 
 3. Книжка Lifetime Spectroscopy: A Method of Defect Characterization in Silicon for Photovoltaic Applications прочитати б (в Semiconductor/Defect) - метод IDLS зокрема
 
-4. Подивитись можливість заміни формул визначення параметрів кремнію (ширина зони, власна концентрація, теплова швидкість ) так , як це проводиться в IEEEJPhotovol_7_p1092-1097.pdf (D:\Literat\Stat\method\SC_method\IDLS) точніше, як в посиланнях цієї роботи
-крім того, порівняти результати IEEETransElectDev_29_p292.pdf (D:\Literat\Stat\Si\mobility) з тими, що використовуються впрограмі (може там й однакове)
-ширина забороненої зони PhysRevB_66_085201.pdf (D:\Literat\Stat\Si\i_Si)
-рухливості носіїв SolEnerMatSC_131_p92.pdf (D:\Literat\Stat\Si\mobility)
+
 
 5. Метод OCVD подивитись? є в Schroder....
 
@@ -118,3 +115,8 @@ D:\Literat\Stat\method\SC_method\Noise
 - JCompElec_10_p314.pdf (D:\Literat\Stat\IVchar\PN\Modeling\Calculation)
 - SolEnerMatSC_187_p263.pdf (D:\Literat\Stat\Defects\Materials\Si\Metal)
 - можливо, дані з D:\Literat\Stat\Defects\General\DopantIonization
+4. Подивитись можливість заміни формул визначення параметрів кремнію (ширина зони, власна концентрація, теплова швидкість ) так , як це проводиться в IEEEJPhotovol_7_p1092-1097.pdf (D:\Literat\Stat\method\SC_method\IDLS) точніше, як в посиланнях цієї роботи
+крім того, порівняти результати IEEETransElectDev_29_p292.pdf (D:\Literat\Stat\Si\mobility) з тими, що використовуються в програмі (може там й однакове)
+ширина забороненої зони PhysRevB_66_085201.pdf (D:\Literat\Stat\Si\i_Si)
+рухливості носіїв SolEnerMatSC_131_p92.pdf (D:\Literat\Stat\Si\mobility)
+JApplPhys_115_093705.pdf (D:\Literat\Stat\Si\i_Si)
