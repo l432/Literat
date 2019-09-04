@@ -2,6 +2,7 @@
 метод,що включає декілька варіантів DE InfSci_423_p172.pdf (2018 рік) (D:\Literat\Stat\method\Meta_heuristic\evolution\DE\EDEV)
 можливо, варто додати Лагранжеву інтерполяцію з ADELI (InfSci_472_p180.pdf, 2019 рік)
 ще один варіант NDE (InfSci_478_p422.pdf, 2019 рік)
+PaDE також нова...
 
 - на основі нейронних мереж D:\Literat\Stat\method\Meta_heuristic\NeuralNetwork\AdvSoftComp_71_p747.pdf
 варіан використання мета-еврістичного алгоритму для знаходження коефіцієнтів
