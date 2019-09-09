@@ -122,3 +122,6 @@ D:\Literat\Stat\method\SC_method\Noise
 ширина забороненої зони PhysRevB_66_085201.pdf (D:\Literat\Stat\Si\i_Si)
 рухливості носіїв SolEnerMatSC_131_p92.pdf (D:\Literat\Stat\Si\mobility)
 JApplPhys_115_093705.pdf (D:\Literat\Stat\Si\i_Si)
+
+
+32. В SolEnerMatSC_189_p166.pdf (D:\Literat\Stat\IVchar\PN\influence\CID) цікавий, на перший погляд, опис кінетики змін
