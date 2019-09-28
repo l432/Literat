@@ -125,3 +125,7 @@ JApplPhys_115_093705.pdf (D:\Literat\Stat\Si\i_Si)
 
 
 32. В SolEnerMatSC_189_p166.pdf (D:\Literat\Stat\IVchar\PN\influence\CID) цікавий, на перший погляд, опис кінетики змін
+
+
+33. Standard commercial devices are typically 180 mm thick - RenEner_138_p911.pdf (D:\Literat\Stat\IVchar\PN\Obzor\General)
+вплив товщини бази на ефективність SC - PZTF_44_p40.pdf (D:\Literat\Stat\IVchar\PN\influence\BaseDepth)
