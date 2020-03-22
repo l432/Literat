@@ -126,3 +126,7 @@ D:\Literat\Stat\method\SC_method\Noise
 
 
 34. ще варіанти струмових механізмів (ще фонон-підсилене тунелювання зокрема) ApplPhysLett_115_253502.pdf (E:\Literat\Stat\IVchar\Meckhanism)
+
+
+35. Принципово (бо ніяких конкретних варіантів на поверхні нема) цікава робота про використання ВАХ p-n структур 
+до вивчення дефектів - DefDiffusForum_261–262_p1–24.pdf (E:\Literat\Stat\method\SC_method\IV)
