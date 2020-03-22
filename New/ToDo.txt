@@ -118,6 +118,11 @@ D:\Literat\Stat\method\SC_method\Noise
 
 32. В SolEnerMatSC_189_p166.pdf (D:\Literat\Stat\IVchar\PN\influence\CID) цікавий, на перший погляд, опис кінетики змін
 
+ще щось до опису кінетики ApplPhysLett_115_213505.pdf (E:\Literat\Stat\PhotoDegradation)
+
 
 33. Standard commercial devices are typically 180 mm thick - RenEner_138_p911.pdf (D:\Literat\Stat\IVchar\PN\Obzor\General)
 вплив товщини бази на ефективність SC - PZTF_44_p40.pdf (D:\Literat\Stat\IVchar\PN\influence\BaseDepth)
+
+
+34. ще варіанти струмових механізмів (ще фонон-підсилене тунелювання зокрема) ApplPhysLett_115_253502.pdf (E:\Literat\Stat\IVchar\Meckhanism)
