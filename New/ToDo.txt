@@ -121,7 +121,7 @@ D:\Literat\Stat\method\SC_method\Noise
 ще щось до опису кінетики ApplPhysLett_115_213505.pdf (E:\Literat\Stat\PhotoDegradation)
 
 
-33. Standard commercial devices are typically 180 mm thick - RenEner_138_p911.pdf (D:\Literat\Stat\IVchar\PN\Obzor\General)
+33. Standard commercial devices are typically 180 mum thick - RenEner_138_p911.pdf (D:\Literat\Stat\IVchar\PN\Obzor\General)
 вплив товщини бази на ефективність SC - PZTF_44_p40.pdf (D:\Literat\Stat\IVchar\PN\influence\BaseDepth)
 
 
