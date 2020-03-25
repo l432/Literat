@@ -26,6 +26,8 @@ EBLSHADE ?
 quantum inspired binary grey wolf optimizer (D:\Literat\Stat\method\Meta_heuristic\Animal\GreyWolf\QI-BGWO\CompEleEng_70_p243.pdf)
 цікаво, але незрозуміло
 
+в SwarmEvolComp_44_p927.pdf (E:\Literat\Stat\method\Meta_heuristic\General) цікава універсальна модифікація, але щось складно...
+
 В RenEner_111_p307.pdf (D:\Literat\Stat\method\Meta_heuristic\Human\ImperialistCompetitive) оригінальна цільова функція
 
 
