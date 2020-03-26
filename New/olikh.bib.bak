@@ -1,5 +1,4 @@
-% This file was created with JabRef 2.9.2.
-% Encoding: Cp1251
+% Encoding: UTF-8
 
 @ARTICLE{OZAVCI2013,
   author = {E. \"{O}zavci and S. Demirezen and U. Aydemir and \c{S}. Altındal},
@@ -263,8 +262,8 @@
 }
 
 @ARTICLE{Arslan,
-  author = {Engin Arslan and Şemsettin Altındal and Süleyman Özçelik and
-	Ekmel Ozbay},
+  author = {Engin Arslan and Şemsettin Altındal and Süleyman Özçelik and Ekmel
+	Ozbay},
   title = {Dislocation--governed current-transport mechanism in ({N}i/{A}u)--{A}l{G}a{N}/{A}l{N}/{G}a{N}
 	heterostructures},
   journal = {J. Appl. Phys.},
@@ -1410,19 +1409,18 @@
   doi = {10.1109/23.299784}
 }
 
-@ARTICLE{SiO2:DiMaria,
-  author = {D. J. DiMaria and E. Cartier},
-  title = {Mechanism for stress--induced leakage currents in thin silicon dioxide
-	films},
-  journal = {J. Appl. Phys.},
-  year = {1995},
-  volume = {78},
-  pages = {3883--3894},
-  number = {6},
-  month = {Sep},
-  doi = {10.1063/1.359905},
-  owner = {Admin},
-  timestamp = {2018.04.06}
+@Article{SiO2:DiMaria,
+  author    = {D. J. DiMaria and E. Cartier},
+  title     = {Mechanism for stress--induced leakage currents in thin silicon dioxide films},
+  journal   = {J. Appl. Phys.},
+  year      = {1995},
+  volume    = {78},
+  number    = {6},
+  pages     = {3883--3894},
+  month     = {Sep},
+  doi       = {10.1063/1.359905},
+  owner     = {Admin},
+  timestamp = {2018.04.06},
 }
 
 @ARTICLE{OstapSC,
@@ -1456,10 +1454,25 @@
   timestamp = {2015.02.17}
 }
 
+@ARTICLE{Dokme,
+  author = {Ilbilge Dökme and Şemsettin Altındal and Izzet M Afandiyeva},
+  title = {The distribution of the barrier height in {A}l--{T}i{W}--{P}d$_2$
+	{S}i/n--{Si} {S}chottky diodes from $I$--$V$--$T$ measurements},
+  journal = {Semicond. Sci. Technol.},
+  year = {2008},
+  volume = {23},
+  pages = {035003},
+  number = {3},
+  month = {Mar},
+  doi = {10.1088/0268-1242/23/3/035003},
+  owner = {Admin},
+  timestamp = {2018.02.20}
+}
+
 @ARTICLE{Donoval2010,
-  author = {D. Donoval and A. Chvála and R. Šramatý and J. Kováč and J.-F.
-	Carlin and N. Grandjean and G. Pozzovivo and J. Kuzmík and D. Pogany
-	and G. Strasser and P. Kordoš},
+  author = {D. Donoval and A. Chvála and R. Šramatý and J. Kováč and J.-F. Carlin
+	and N. Grandjean and G. Pozzovivo and J. Kuzmík and D. Pogany and
+	G. Strasser and P. Kordoš},
   title = {Current transport and barrier height evaluation in {N}i/{I}n{A}l{N}/{G}a{N}
 	{S}chottky diodes},
   journal = {Appl. Phys. Lett.},
@@ -1554,21 +1567,6 @@
   pages = {145--149},
   month = {Nov},
   doi = {10.1016/j.mssp.2014.06.047}
-}
-
-@ARTICLE{Dokme,
-  author = {Ilbilge Dökme and Şemsettin Altındal and Izzet M Afandiyeva},
-  title = {The distribution of the barrier height in {A}l--{T}i{W}--{P}d$_2$
-	{S}i/n--{Si} {S}chottky diodes from $I$--$V$--$T$ measurements},
-  journal = {Semicond. Sci. Technol.},
-  year = {2008},
-  volume = {23},
-  pages = {035003},
-  number = {3},
-  month = {Mar},
-  doi = {10.1088/0268-1242/23/3/035003},
-  owner = {Admin},
-  timestamp = {2018.02.20}
 }
 
 @ARTICLE{Bahar2003,
@@ -1904,17 +1902,16 @@
   doi = {10.1016/j.sse.2014.04.043}
 }
 
-@ARTICLE{TAT:Gilmore,
-  author = {Angelo Scotty Gilmore and James Bangs and Amanda Gerrish},
-  title = {{I}--{V} modeling of current limiting mechanisms in {H}g{C}d{T}e
-	{FPA} detectors},
-  journal = {Proc. SPIE},
-  year = {2004},
-  volume = {5563},
-  pages = {46--54},
-  doi = {10.1117/12.562614},
-  owner = {Admin},
-  timestamp = {2018.04.09}
+@Article{TAT:Gilmore,
+  author    = {Angelo Scotty Gilmore and James Bangs and Amanda Gerrish},
+  title     = {{I}--{V} modeling of current limiting mechanisms in {H}g{C}d{T}e {FPA} detectors},
+  journal   = {Proc. SPIE},
+  year      = {2004},
+  volume    = {5563},
+  pages     = {46--54},
+  doi       = {10.1117/12.562614},
+  owner     = {Admin},
+  timestamp = {2018.04.09},
 }
 
 @ARTICLE{Godwod,
@@ -2174,8 +2171,7 @@
 }
 
 @ARTICLE{BO3i,
-  author = {Hallam, Brett and Abbott, Malcolm and Nærland, Tine and Wenham,
-	Stuart},
+  author = {Hallam, Brett and Abbott, Malcolm and Nærland, Tine and Wenham, Stuart},
   title = {Fast and slow lifetime degradation in boron--doped {C}zochralski
 	silicon described by a single defect},
   journal = {Phys. Status Solidi RRL},
@@ -2920,7 +2916,7 @@
 }
 
 @ARTICLE{SCLC:Kaya,
-  author = {M. Kaya and H. \c{C}etin and B. Boyarbay and A. G\"{o}k and E. Ayyildiz},
+  author = {M. Kaya and H.  \c{C}etin and B. Boyarbay and A. G\"{o}k and E. Ayyildiz},
   title = {Temperature dependence of the current--voltage characteristics of
 	{S}n/{PANI}/p--{S}i/{A}l heterojunctions},
   journal = {J. Phys.: Condens. Matter},
@@ -3436,17 +3432,6 @@
   timestamp = {2017.05.26}
 }
 
-@ARTICLE{kryshtab_savkina_smirnov_2013,
-  author = {Kryshtab, Tetyana G. and Savkina, Rada K. and Smirnov, Alexey B.},
-  title = {Nanoscale Structuration of Semiconductor Surface Induced by Cavitation
-	Impact},
-  journal = {MRS Proceedings},
-  year = {2013},
-  volume = {1534},
-  pages = {A87--A92},
-  doi = {10.1557/opl.2013.304}
-}
-
 @ARTICLE{USImplant:JVacSci,
   author = {D. Krüger and B. Romanyuk and V. Melnik and Ya. Olikh and R. Kurps},
   title = {Influence of in situ ultrasound treatment during ion implantation
@@ -3458,6 +3443,17 @@
   number = {4},
   month = {Jul},
   doi = {10.1116/1.1493784}
+}
+
+@ARTICLE{kryshtab_savkina_smirnov_2013,
+  author = {Kryshtab, Tetyana G. and Savkina, Rada K. and Smirnov, Alexey B.},
+  title = {Nanoscale Structuration of Semiconductor Surface Induced by Cavitation
+	Impact},
+  journal = {MRS Proceedings},
+  year = {2013},
+  volume = {1534},
+  pages = {A87--A92},
+  doi = {10.1557/opl.2013.304}
 }
 
 @ARTICLE{Kuchinskii,
@@ -3891,9 +3887,9 @@
 	Burger, P. and Campabadal, F. and Casse, G. and Catacchini, E. and
 	Chilingarov, A. and Ciampolini, P. and Cindro, V. and Costa, M.J.
 	and Creanza, D. and Clauws, P. and Da Via, C. and Davies, G. and
-	De Boer, W. and Dell’Orso, R. and De Palma, M. and Dezillie, B.
-	and Eremin, V. and Evrard, O. and Fallica, G. and Fanouraki, G. and
-	Feick, H. and Focardi, E. and Fonseca, L. and Fretwurst, E. and Fuster,
+	De Boer, W. and Dell’Orso, R. and De Palma, M. and Dezillie, B. and
+	Eremin, V. and Evrard, O. and Fallica, G. and Fanouraki, G. and Feick,
+	H. and Focardi, E. and Fonseca, L. and Fretwurst, E. and Fuster,
 	J. and Gabathuler, K. and Glaser, M. and Grabiec, P. and Grigorievt,
 	E. and Hall, G. and Hanlond, M. and Hauler, F. and Heising, S. and
 	, Holmes--Siedle, A. and Horisberger, R. and Hughes, G. and Huhtinen,
@@ -5566,8 +5562,8 @@
   volume = {29},
   pages = {392--394},
   number = {5},
-  language = {russian},
-  doi = {10.1134/1.1579804}
+  doi = {10.1134/1.1579804},
+  language = {russian}
 }
 
 @ARTICLE{Parchinskii2000,
@@ -5580,8 +5576,8 @@
   volume = {26},
   pages = {420--422},
   number = {10},
-  language = {russian},
-  doi = {10.1134/1.1262865}
+  doi = {10.1134/1.1262865},
+  language = {russian}
 }
 
 @ARTICLE{ParchSiO2,
@@ -5594,8 +5590,8 @@
   pages = {1304--1307},
   number = {11},
   month = {Nov},
-  language = {russian},
-  doi = {10.1134/1.1823064}
+  doi = {10.1134/1.1823064},
+  language = {russian}
 }
 
 @ARTICLE{Em:Parker,
@@ -6339,21 +6335,6 @@
   timestamp = {2018.04.12}
 }
 
-@ARTICLE{ROUGIEUX2018,
-  author = {Fiacre E. Rougieux and Chang Sun and Daniel Macdonald},
-  title = {Determining the charge states and capture mechanisms of defects in
-	silicon through accurate recombination analyses: A review},
-  journal = {Solar Energy Materials and Solar Cells},
-  year = {2018},
-  volume = {187},
-  pages = {263 -- 272},
-  month = {Dec},
-  doi = {https://doi.org/10.1016/j.solmat.2018.07.029},
-  issn = {0927-0248},
-  owner = {Admin},
-  timestamp = {2020.03.26}
-}
-
 @ARTICLE{Roul,
   author = {Basanta Roul and Mohana K. Rajpalke and Thirumaleshwara N. Bhat and
 	Mahesh Kumar and Neeraj Sinha and A. T. Kalghatgi and S. B. Krupanidhi},
@@ -6807,19 +6788,18 @@
   timestamp = {2014.01.31}
 }
 
-@ARTICLE{SiO2:Rev,
-  author = {Dieter K. Schroder and Jeff A. Babcock},
-  title = {Negative bias temperature instability: Road to cross in deep submicron
-	silicon semiconductor manufacturing},
-  journal = {J. Appl. Phys.},
-  year = {2003},
-  volume = {94},
-  pages = {1--18},
-  number = {1},
-  month = {Jul},
-  doi = {10.1063/1.1567461},
-  owner = {Admin},
-  timestamp = {2018.04.06}
+@Article{SiO2:Rev,
+  author    = {Dieter K. Schroder and Jeff A. Babcock},
+  title     = {Negative bias temperature instability: Road to cross in deep submicron silicon semiconductor manufacturing},
+  journal   = {J. Appl. Phys.},
+  year      = {2003},
+  volume    = {94},
+  number    = {1},
+  pages     = {1--18},
+  month     = {Jul},
+  doi       = {10.1063/1.1567461},
+  owner     = {Admin},
+  timestamp = {2018.04.06},
 }
 
 @ARTICLE{EL6:Schultz,
@@ -8480,5 +8460,4 @@
   timestamp = {2017.01.07}
 }
 
-@comment{jabref-meta: databaseType:bibtex;}
-
+@Comment{jabref-meta: databaseType:bibtex;}
