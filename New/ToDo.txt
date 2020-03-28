@@ -13,8 +13,6 @@ EBLSHADE ?
 
 - Water wave D:\Oleg\Literat\Stat\method\Meta_heuristic\Physics\WaterWave\CompOperRes_55_p1.pdf --- ???
 
-- IJAYA - не потрібно додаткових параметрів (окрім числа ітерацій та розміру популяції) D:\Literat\Stat\method\Meta_heuristic\Custom\Jaya\EnerConvManag_150_p742.pdf
-
 - покращення PSO EnerConvManag_175_p151.pdf
  або SolEner_144_p594.pdf (D:\Literat\Stat\method\Meta_heuristic\Animal\PSO\MSSO)
 
