@@ -49,7 +49,6 @@ InfSci_297_p216.pdf (E:\Literat\Stat\method\Meta_heuristic\General) - настроюван
 
 8. Підхід до зашумлених даних... ActaElectrInf_17_p3.pdf (...\Literat\Stat\method\Mathematics)
 
-9. До методички - огляд модифікацій DLTS методів і не тільки.. JApplPhys_123_161559.pdf (D:\Literat\Stat\method\DLTS_modification)
 
 10. Можливо таки дивитись зворотні ВАХ в СЕ.. є статті по пробоям
 
@@ -138,3 +137,7 @@ D:\Literat\Stat\method\SC_method\Noise
 35. В SolEnerMatSC_200_109921.pdf(E:\Literat\Stat\IVchar\PN\Temperature) 
 є вираз для швидкості поверхневої рекомбінації на задній поверхні
 320*p0/1e16cm-3+30 (cm/s)
+
+
+36. В MatSciEng_139_100517.pdf (E:\Literat\Stat\IVchar\PN\SC\IndoorPV)
+непогані описи та картинка (fig 10,11) для опису принципу роботи органічних СЕ
