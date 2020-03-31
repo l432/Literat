@@ -144,3 +144,4 @@ D:\Literat\Stat\method\SC_method\Noise
 
 37 В NIMB_447_p8.pdf  (E:\Literat\Stat\Defects\Materials\Si\irrad\Theory)
  є формули для радіаційного дефектоутворення
+NIMB_456_p120.pdf також
