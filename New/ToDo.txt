@@ -18,8 +18,6 @@ EBLSHADE ?
 
 - GOTLBO Energy_99_p170.pdf, a може й STLBO (IntJHydrEner_39_p3837.pdf) - параметрів менше
 
-- sin-cos покращений дає непогані результати і достатньо простий (D:\Literat\Stat\method\Meta_heuristic\Custom\SineCosine\ExpSysWithAppl_123_p108.pdf)
-ще один варіант KnowBasedSys_155_p374.pdf
 
 quantum inspired binary grey wolf optimizer (D:\Literat\Stat\method\Meta_heuristic\Animal\GreyWolf\QI-BGWO\CompEleEng_70_p243.pdf)
 цікаво, але незрозуміло
