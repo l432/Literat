@@ -5,18 +5,13 @@
 PaDE також нова...
 EBLSHADE ?
 
-- на основі нейронних мереж D:\Literat\Stat\method\Meta_heuristic\NeuralNetwork\AdvSoftComp_71_p747.pdf
 варіан використання мета-еврістичного алгоритму для знаходження коефіцієнтів
 нейронних мереж  AinShEngJ_8_p371.pdf  (D:\Literat\Stat\method\Meta_heuristic\physics\ChemicalReaction)
-
-- комбінація хаосу та кита D:\Literat\Stat\method\Meta_heuristic\swarm\Whale\ApplEner_200_p141.pdf
 
 - Water wave D:\Oleg\Literat\Stat\method\Meta_heuristic\Physics\WaterWave\CompOperRes_55_p1.pdf --- ???
 
 - покращення PSO EnerConvManag_175_p151.pdf
  або SolEner_144_p594.pdf (D:\Literat\Stat\method\Meta_heuristic\Animal\PSO\MSSO)
-
-- GOTLBO Energy_99_p170.pdf, a може й STLBO (IntJHydrEner_39_p3837.pdf) - параметрів менше
 
 
 quantum inspired binary grey wolf optimizer (D:\Literat\Stat\method\Meta_heuristic\Animal\GreyWolf\QI-BGWO\CompEleEng_70_p243.pdf)
