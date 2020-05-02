@@ -21,7 +21,6 @@ quantum inspired binary grey wolf optimizer (D:\Literat\Stat\method\Meta_heurist
 
 В RenEner_111_p307.pdf (D:\Literat\Stat\method\Meta_heuristic\Human\ImperialistCompetitive) оригінальна цільова функція
 
-
 InfSci_297_p216.pdf (E:\Literat\Stat\method\Meta_heuristic\General) - настроювання після ініціалізації початккової.. як на мене заскладно,
 але там є метод розділення на кластери
 
