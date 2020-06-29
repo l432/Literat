@@ -1,18 +1,17 @@
 1. Новий варіант диференційної еволюції - ComOperRes_67_p155.pdf (MPADE) - погана статистика в огляді
 метод,що включає декілька варіантів DE InfSci_423_p172.pdf (2018 рік) (D:\Literat\Stat\method\Meta_heuristic\evolution\DE\EDEV)
-можливо, варто додати Лагранжеву інтерполяцію з ADELI (InfSci_472_p180.pdf, 2019 рік)
 ще один варіант NDE (InfSci_478_p422.pdf, 2019 рік)
 PaDE також нова...
-EBLSHADE ?
 
-варіан використання мета-еврістичного алгоритму для знаходження коефіцієнтів
-нейронних мереж  AinShEngJ_8_p371.pdf  (D:\Literat\Stat\method\Meta_heuristic\physics\ChemicalReaction)
 
 - Water wave D:\Oleg\Literat\Stat\method\Meta_heuristic\Physics\WaterWave\CompOperRes_55_p1.pdf --- ???
 
 - покращення PSO EnerConvManag_175_p151.pdf
  або SolEner_144_p594.pdf (D:\Literat\Stat\method\Meta_heuristic\Animal\PSO\MSSO)
 
+
+варіан використання мета-еврістичного алгоритму для знаходження коефіцієнтів
+нейронних мереж  AinShEngJ_8_p371.pdf  (D:\Literat\Stat\method\Meta_heuristic\physics\ChemicalReaction)
 
 quantum inspired binary grey wolf optimizer (D:\Literat\Stat\method\Meta_heuristic\Animal\GreyWolf\QI-BGWO\CompEleEng_70_p243.pdf)
 цікаво, але незрозуміло
@@ -21,7 +20,7 @@ quantum inspired binary grey wolf optimizer (D:\Literat\Stat\method\Meta_heurist
 
 В RenEner_111_p307.pdf (D:\Literat\Stat\method\Meta_heuristic\Human\ImperialistCompetitive) оригінальна цільова функція
 
-InfSci_297_p216.pdf (E:\Literat\Stat\method\Meta_heuristic\General) - настроювання після ініціалізації початккової.. як на мене заскладно,
+InfSci_297_p216.pdf (E:\Literat\Stat\method\Meta_heuristic\General) - настроювання після ініціалізації початкової.. як на мене заскладно,
 але там є метод розділення на кластери
 
 
@@ -140,3 +139,7 @@ NIMB_456_p120.pdf також
 
 
 38 приклад застосування методу принципових компонент SolEner_179_p1 (D:\Literat\Stat\method\SC_method)
+
+39 Цікавий варіант обробки світлових ВАХ з виділенням копонент
+JApplPhys_127_053101.pdf (D:\Literat\Stat\IVchar\PN\RealIV\Sshape) застосування
+PhysRevLet_94_126602.pdf (D:\Literat\Stat\method\SC_method\Custom) обгрунтування
