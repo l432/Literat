@@ -3,4 +3,27 @@ Mirsagatov, Sh. A.; Sapaev, I.B.; Valieva, Sh. R.; Babajanov, D.
  Journal of Nanoelectronics and Optoelectronics, Volume 9, Number 6, March 2015, pp. 834-843(10)
 http://dx.doi.org/10.1166/jno.2014.1685
 
+xinbaog@snnu.edu.cn
+
+question about NDE algorithm
+
+Dear Dr. Xingbao Gao, 
+
+Hope everything goes well with you. 
+I try to implement  the NDE algorithm,
+which is presented in your paper "Differential evolution with neighborhood-based adaptive
+evolution mechanism for numerical optimization" (Information Sciences 478 (2019) 422–448).
+And I have simple but important for me question.
+
+Is the unsorted population or the population, which sorted by fitness value, used to construct the   neighborhood N(i) of the i-th individual?
+Are cyclic conditions used?
+
+
+Sincerely, 
+Oleg Olikh,
+associate professor at the general physics department,
+Taras Shevchenko National University of Kyiv,
+Ukraine
+
+
 

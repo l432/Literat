@@ -1,12 +1,8 @@
 1. Новий варіант диференційної еволюції - ComOperRes_67_p155.pdf (MPADE) - погана статистика в огляді
 метод,що включає декілька варіантів DE InfSci_423_p172.pdf (2018 рік) (D:\Literat\Stat\method\Meta_heuristic\evolution\DE\EDEV)
-ще один варіант NDE (InfSci_478_p422.pdf, 2019 рік)
-PaDE також нова...
 
 
-- Water wave D:\Oleg\Literat\Stat\method\Meta_heuristic\Physics\WaterWave\CompOperRes_55_p1.pdf --- ???
-
-- покращення PSO EnerConvManag_175_p151.pdf
+- покращення PSO EnerConvManag_175_p151.pdf (MPSO)
  або SolEner_144_p594.pdf (D:\Literat\Stat\method\Meta_heuristic\Animal\PSO\MSSO)
 
 
