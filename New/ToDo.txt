@@ -139,3 +139,7 @@ NIMB_456_p120.pdf також
 39 Цікавий варіант обробки світлових ВАХ з виділенням копонент
 JApplPhys_127_053101.pdf (D:\Literat\Stat\IVchar\PN\RealIV\Sshape) застосування
 PhysRevLet_94_126602.pdf (D:\Literat\Stat\method\SC_method\Custom) обгрунтування
+
+
+40 В ApplPhysLett_116_062102.pdf (D:\Literat\Stat\IVchar\Shotky\Mechanism\Complex) пропонується використовувати
+фактор неідеальності як кількісний показник неоднорідності бар'єру Шотки
