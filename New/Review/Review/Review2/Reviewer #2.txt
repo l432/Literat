@@ -1,0 +1,116 @@
+There are three main problems as mentioned in the comments to the authors
+1. To do this kind of study you need to apply various doses to be able to deduce
+significant information. This paper just seem to repeat the experiment in one of the
+cited papers with a different material.
+2. Practically there is no discussion, only some statements hanging in the air.
+3. The most troubling is that although they cite another paper with a similar
+experiment they never mention or discuss the different results.
+
+In my opinion this paper needs a real major overhaul and more experiments.
+
+
+Reviewer #1: (Previous Version)
+Abstract
+1. On my opinion, sentences "have been corrected for the effect of series resistance
+(Rs)  and excess cpacaitance (C0) to obtain the real capacitance of the diode" and
+"The C-V and G-V characteristics of the diode indicate very strong irradiation
+dependence."  are unnecessary.
+
+Introduction
+1. The introduction does not clearly state the problem and includes repetition of
+some information.
+2. The report Trefilova et al.2001 does not contain the information about 4H-SiC
+Shottky rectifiers.
+(In reviewered manuscript: "The effects of high dose gamma ray irradiation and
+high-energy proton irradiation on 4H-SiC Schottky rectifiers have also been
+investigated  by Kim et al. and  Nigam et al., respectively,  (Nigam et al., 2002;
+Trefilova et al. 2001).")
+3. Some mistakes are present (e.g, "Ocak et al. (Ocak et al., 2010) reported  the
+effect of 60Co <gamma>-ray irradiation on the electrical characteristics of the 
+Sn/ZnOA/n-Si  device at room temperature. They calculated the values of the Schottky
+barrier heights from the C-V  characteristics as 0.98 and 0.88 eV at 500 kHz before
+and after electron irradiation, respectively.")
+
+Results  and Discussion
+1.The experiment conditions ("at 500 kHz, at room temperature and in dark") should
+not be repeated so often in theSection "Results  and Discussion".
+2. The accuracy of the parameter determination is absent in the manuscript (both in
+the text and in the Table 1.) and so many digits after the decimal point is used.
+3. The measured capacitance and conductance in accumulation are used in eq. (1), but
+Fig.4 is plotted for accumulation, depletion and inversion region.
+4. The authors can not talk about "with increasing irradiation" or "while the
+irradiation dose increases" because only one dose (11.4 kGy) is used.
+5. If "<epsilon>i<epsilon>0" is used in equations then <epsilon>i=3.2 and
+<epsilon>s=11.8, not <epsilon>i=3.2<epsilon>0 and <epsilon>s=11.8<epsilon>0. And
+"<epsilon>i<epsilon>0" must be used in (5) and (10).
+6. It can be seen (Fig5,a) that Cc,acc changed after irradiation. Therefore dorg
+must change too (from 21 nm to ~25 nm). But reason of this phenomenon is not
+discussed in manuscript.
+7. The method for correcting non-linear 1/C2-V characteristics does not explained in
+detail and the nature of the excess capacitance is not discussed.
+8. The unclear procedure is used:
+Step1: Dependence   C vs (Vd(!!)-V) is plotted and C0 is determinated;
+Step 2: Dependence 1/(CC-C0)2 vs V is plotted and Vd (!!!) is determinated.
+9. Equation (8) is incorrect and EF is not "the energy difference between the bulk
+Fermi level and valance band" for n-Si.
+10. The term "kT/q" should be present in (7) if accuracy about mV is used for <PHI>b
+determination.
+11. The authors have not indicated completely how the results relate to earlier
+research.
+
+Figures
+1. The range of the axes on the Fig.2, 3, 4, 6 can be chosen better.
+
+References
+1. Several references are not accurate completely (e.g. Ger, 2008): some journals
+use paper number instead pages.
+
+Reviewer #2: (Previous Version)
+First of all there are some format problems with the paper. The figures are not
+consistent, some of them have the y-axis in the middle of the x-axis, others have it
+at the left side of the x-axis. The ones with the y-axis in the middle should be
+converted to the standard format with the y-axis at the left end of the x-axis.
+
+I have not gone through all the references checking if the coordinates are correct,
+but found that Gulu 2008a has the wrong volume number, 4 instead of 41. I strongly
+recommend that the authors thoroughly check the reference list.
+
+There are few grammar/style problems. For example on page 8 in line 13 it should be
+". has a peak" instead of ".consists of a peak".
+
+The main problem is that the paper presents lot of equations and calculated values,
+but it is short on discussion. For example they mention that there is a peak in
+Figure 4 but there is no explanation given for that. They say that the interface
+traps passivate (sic) with increasing irradiation dose, but no discussion is offered
+why it is happening. Another statement say that the ionized donor density decreases
+with irradiation dose due to the recombination-generation through the interface
+states in the interface and cites Gulu 2008a. I looked up this paper and did not
+find a detailed explanation that backs up the above statement. Also, this seems to
+somewhat contradictory to the previous statement that the interface states decrease
+with the irradiation. Usually, the apparent decrease of the doping concentration in
+semiconductors is due to traps created by displacement damage. In this case there is
+no displacement so I would like to see some more detailed explanation.
+
+There is one thing that really disturbs me. The authors cite Gulu 2008a, which is a
+paper on a similar experiment (although the organic material is different) but they
+never mention that this paper presented quite different results. Especially, Gulu
+2008a found that the Schottky barrier decreases with irradiation and the serial
+resistance increase. These are just the opposite what this paper's authors found. I
+would accept this result with some discussion but the fact that they forgot to
+mention the discrepancies is troubling.
+
+Another problem I have with the paper is that they used only one dose for the
+irradiation and then they make statements like this and that increases/decreases
+with increasing radiation. They can only make a statement between non-irradiated and
+irradiates samples. How do they know that for example the series resistance does not
+have a maximum or minimum as the function of the radiation dose?
+
+What I would like to see in the revised manuscript is:
+*        Additional measurements done with several doses (it is really easy just irradiate,
+measure, irradiate, measure, etc.) to show the trends.
+*        Much more discussion of the mechanisms that lead to these changes, even detailed
+speculations would do.
+*        An explanation why their results are the opposite of what was presented in Gulu
+2008a.
+*        Review the reference list for errors.
+*        Thoroughly read the manuscript for grammar mistakes or odd sounding sentences.
