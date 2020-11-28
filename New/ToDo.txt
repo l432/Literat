@@ -143,3 +143,7 @@ PhysRevLet_94_126602.pdf (D:\Literat\Stat\method\SC_method\Custom) обгрунтування
 
 40 В ApplPhysLett_116_062102.pdf (D:\Literat\Stat\IVchar\Shotky\Mechanism\Complex) пропонується використовувати
 фактор неідеальності як кількісний показник неоднорідності бар'єру Шотки
+
+
+41. Є і про вплив товщини на ефективність (і ціну), і швидкість поверхневої рекомбінації
+на границях сонячного елементу EnerEnvSci_13_p12-23.pdf (D:\Literat\Stat\IVchar\PN\Obzor\Structures)
