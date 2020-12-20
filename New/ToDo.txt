@@ -89,7 +89,7 @@ D:\Literat\Stat\method\SC_method\Noise
 
 27. В SuprMicr_99_p192.pdf (D:\Literat\Stat\Defects\Materials\Si\Metal\Fe) глянути криві кінетики зміни...
 
-28. В SolEner_85_p769.pdf (D:\Literat\Stat\method\SC_method\ParametrEvaluation\IdealityFactor) цікаві на перший погляг слова, про процеси в SIG сонячних елементах при освітленні
+28. В SolEner_85_p769.pdf (D:\Literat\Stat\method\SC_method\ParametrEvaluation\IdealityFactor) цікаві на перший погляд слова, про процеси в SIG сонячних елементах при освітленні
 
 29. В JIntCirSys_7_p92.pdf (D:\Literat\Stat\IVchar\PN\Modeling\multi_diod) цікавий, як на мене, підхід до визначення кількості діодів в моделі:
 будуються спеціифічні функції... може спробувати підхід для якихось кривих
