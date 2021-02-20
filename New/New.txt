@@ -38,3 +38,5 @@ https://doi.org/10.1109/JPHOTOV.2020.3038344
 https://doi.org/10.1109/JPHOTOV.2020.3031382
 
 https://doi.org/10.1109/JPHOTOV.2020.3030191
+
+https://doi.org/10.1063/5.0039555
