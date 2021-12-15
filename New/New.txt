@@ -32,3 +32,7 @@ https://doi.org/10.1016/j.ultras.2006.05.119
 https://doi.org/10.4028/www.scientific.net/SSP.156-158.223
 
 https://doi.org/10.1016/j.physb.2021.413427
+
+https://doi.org/10.1007/s00339-021-04945-4
+
+ https://doi.org/10.1002/pip.3506
