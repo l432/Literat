@@ -36,3 +36,13 @@ https://doi.org/10.1016/j.physb.2021.413427
 https://doi.org/10.1007/s00339-021-04945-4
 
  https://doi.org/10.1002/pip.3506
+
+https://doi.org/10.1103/PhysRevB.103.L180102
+
+https://doi.org/10.1103/PhysRevB.104.064105
+
+https://doi.org/10.1103/PhysRevB.104.085203
+
+https://doi.org/10.1103/PhysRevB.104.195201
+
+https://doi.org/10.1103/PhysRevB.104.245203
