@@ -35,7 +35,7 @@ https://doi.org/10.1016/j.physb.2021.413427
 
 https://doi.org/10.1007/s00339-021-04945-4
 
- https://doi.org/10.1002/pip.3506
+https://doi.org/10.1002/pip.3506
 
 https://doi.org/10.1103/PhysRevB.103.L180102
 
@@ -50,8 +50,6 @@ https://doi.org/10.1103/PhysRevB.104.245203
 https://doi.org/10.1016/j.solmat.2021.111447
 
 https://doi.org/10.1016/j.ssc.2021.114575
-
-
 
 https://doi.org/10.1016/j.solmat.2021.111414
 
@@ -72,4 +70,18 @@ https://doi.org/10.1016/j.nima.2021.165809
 https://doi.org/10.1016/j.nimb.2021.09.013
 
 https://doi.org/10.1016/j.nimb.2021.10.010
+
+https://doi.org/10.1016/j.mser.2021.100642
+
+https://doi.org/10.1016/j.mseb.2021.115525
+
+https://doi.org/10.1016/j.mssp.2021.106198
+
+https://doi.org/10.1016/j.mssp.2021.106182
+
+https://doi.org/10.1016/j.mssp.2021.106281
+
+https://doi.org/10.1088/1361-6463/abc503
+
+https://doi.org/10.1088/1361-6463/abff7d
 
