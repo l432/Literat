@@ -32,7 +32,13 @@ InfSci_297_p216.pdf (E:\Literat\Stat\method\Meta_heuristic\General) - настроюван
 5. Метод OCVD подивитись? є в Schroder....
 
 
-7. JApplPhys_121_134502.pdf - метод визначення механізму перенесення заряду в МН структурах.. там ще одну побудову треба робити - можна долучити до програми (стаття в Literat\Stat\IVchar\Shotky\Mechanism\Complex)
+7. JApplPhys_121_134502.pdf - метод визначення механізму перенесення заряду в МН структурах.. 
+там ще одну побудову треба робити - можна долучити до програми (стаття в Literat\Stat\IVchar\Shotky\Mechanism\Complex)
+В роботах 
+https://doi.org/10.1088/0022-3727/34/8/305
+https://doi.org/10.1016/0038-1101(94)00167-e 
+є нові методи для визначення параметрів діодів Шотки.. зокрема
+вони використовуються в ApplPhysA_127_46.pdf (D:\Literat\Stat\IVchar\Shotky\Simple)
 
 8. Підхід до зашумлених даних... ActaElectrInf_17_p3.pdf (...\Literat\Stat\method\Mathematics)
 
