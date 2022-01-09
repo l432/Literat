@@ -159,5 +159,7 @@ PhysRevLet_94_126602.pdf (D:\Literat\Stat\method\SC_method\Custom) обгрунтування
 in the past few years. MI combines material property calculations/measurements and informatics algorithms. 
 JApplPhys_128_161102.pdf (D:\Literat\Stat\Custom\AIelements\Using)
 
-
-https://www.daga2021.eu/en/
+43. В роботі Костильова (D:\Literat\Stat\IVchar\PN\Temperature\Efficiency\IEEE_JPV_10_p63.pdf) добре
+описаний підхід до розрахунку температурно залежних ВАХ
+а в D:\Literat\Stat\Si\Si_Optic\IEEEJPV_8_p1156.pdf - розрахунок коеф.поглинання з врахуванням
+поглинання вільними носіями, а також струмів в SC
