@@ -168,3 +168,6 @@ JApplPhys_128_161102.pdf (D:\Literat\Stat\Custom\AIelements\Using)
 44. SolEnerMatSC_138_p96.pdf (D:\Oleg\Literat\Stat\IVchar\PN\influence\Iron\)
 реалізовано схожий до нашого підхід - моделювання ВАХ і визначення впливу стану заліза
 на параметри СЕ.. там є експеримент
+
+45. Цікава робота по використанню LED як фотоприймачів
+(D:\Oleg\Literat\Stat\LED\PismJTF_47_p47)
