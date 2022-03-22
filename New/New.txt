@@ -27,8 +27,6 @@ Ukraine
 
 
 
-https://doi.org/10.4028/www.scientific.net/SSP.156-158.223
-
 https://doi.org/10.1007/s00339-021-04945-4
 
 https://doi.org/10.1002/pip.3506
@@ -54,8 +52,6 @@ https://doi.org/10.1088/1361-6463/ac19df
 https://doi.org/10.1088/1361-6463/ac2bc9
 
 https://doi.org/10.1088/1361-6463/ac34a8
-
-https://doi.org/10.1109/TED.2013.2262526
 
 ! https://doi.org/10.1002/pssa.202100403
 
@@ -83,8 +79,6 @@ https://doi.org/10.1109/JPHOTOV.2021.3088005
 
 https://doi.org/10.1109/JPHOTOV.2021.3115250
 
-https://doi.org/10.1109/JPHOTOV.2021.3104765
-
 https://doi.org/10.1109/JPHOTOV.2021.3104194
 
 https://doi.org/10.1109/JPHOTOV.2021.3126120
@@ -94,8 +88,6 @@ https://doi.org/10.1109/JPHOTOV.2021.3116019
 https://doi.org/10.1109/JPHOTOV.2021.3113156
 
 https://doi.org/10.1109/JPHOTOV.2021.3131059
-
-https://doi.org/10.1088/0022-3727/34/8/305
 
 https://doi.org/10.1140/epjp/s13360-022-02432-0
 
