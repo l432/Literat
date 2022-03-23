@@ -171,3 +171,5 @@ JApplPhys_128_161102.pdf (D:\Literat\Stat\Custom\AIelements\Using)
 
 45. Цікава робота по використанню LED як фотоприймачів
 (D:\Oleg\Literat\Stat\LED\PismJTF_47_p47)
+
+46. новий варіант для коеф. Оже-рекомбінації - SolEnerMatSC_234_111428.pdf
