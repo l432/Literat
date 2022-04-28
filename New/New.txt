@@ -27,19 +27,8 @@ Ukraine
 
 
 
-https://doi.org/10.1007/s00339-021-04945-4
 
 https://doi.org/10.1002/pip.3506
-
-https://doi.org/10.1103/PhysRevB.103.L180102
-
-https://doi.org/10.1103/PhysRevB.104.064105
-
-https://doi.org/10.1103/PhysRevB.104.085203
-
-https://doi.org/10.1103/PhysRevB.104.195201
-
-https://doi.org/10.1103/PhysRevB.104.245203
 
 https://doi.org/10.1088/1361-6463/abc503
 
@@ -89,11 +78,9 @@ https://doi.org/10.1109/JPHOTOV.2021.3113156
 
 https://doi.org/10.1109/JPHOTOV.2021.3131059
 
-https://doi.org/10.1140/epjp/s13360-022-02432-0
-
 https://doi.org/10.1063/5.0083249
 
- https://doi.org/10.1063/5.0078043
+https://doi.org/10.1063/5.0078043
 
 
 
