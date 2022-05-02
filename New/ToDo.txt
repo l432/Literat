@@ -175,3 +175,7 @@ JApplPhys_128_161102.pdf (D:\Literat\Stat\Custom\AIelements\Using)
 46. новий варіант для коеф. Оже-рекомбінації - SolEnerMatSC_234_111428.pdf
 або SolEnerMatSC_235_111467.pdf (там є і для випромінювальної, всі посилання,
 які використані в цій роботі в мене теж є)--- ЗРОБИВ
+
+47. В роботі JApplPhys_131_104503 купа формул як для розрахунку
+радіаційного впливу (електрони), так і ВАХ СЕ
+(D:\Literat\Stat\Defects\General\RadiationDefect)
