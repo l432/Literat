@@ -50,9 +50,41 @@ https://doi.org/10.1109/JPHOTOV.2021.3113156
 
 https://doi.org/10.1109/JPHOTOV.2021.3131059
 
- https://doi.org/10.1002/pip.3474
+https://doi.org/10.1109/JPHOTOV.2021.3132900
 
+https://doi.org/10.1109/JPHOTOV.2022.3143457
 
+https://doi.org/10.1109/JPHOTOV.2021.3133545
+
+https://doi.org/10.1109/JPHOTOV.2022.3158545
+
+!!!  https://doi.org/10.1109/JPHOTOV.2022.3168134
+
+https://doi.org/10.1002/pip.3474
+
+https://doi.org/10.1002/pssa.202100639
+
+https://doi.org/10.1002/pssa.202100662
+
+https://doi.org/10.1002/pssa.202200042
+
+https://doi.org/10.1002/pssa.202100451
+
+! https://doi.org/10.1002/pssa.202100410
+
+https://doi.org/10.1002/pssb.202100670
+
+https://doi.org/10.1002/solr.202100867
+
+ https://doi.org/10.1002/solr.202100927
+ 
+ https://doi.org/10.1002/solr.202100477
+ 
+ https://doi.org/10.1002/solr.202101100
+ 
+ https://doi.org/10.1002/pssr.202100458
+ 
+ 
 
 
 
