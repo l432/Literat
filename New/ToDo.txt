@@ -5,6 +5,8 @@
 - покращення PSO EnerConvManag_175_p151.pdf (MPSO)
  або SolEner_144_p594.pdf (D:\Literat\Stat\method\Meta_heuristic\Animal\PSO\MSSO)
 
+- новий варіант JAVA MatTodProc_52_p108 (D:\Literat\Stat\method\Meta_heuristic\Custom\Jaya\MLJAYA)
+
 
 варіан використання мета-еврістичного алгоритму для знаходження коефіцієнтів
 нейронних мереж  AinShEngJ_8_p371.pdf  (D:\Literat\Stat\method\Meta_heuristic\physics\ChemicalReaction)
@@ -18,6 +20,8 @@ quantum inspired binary grey wolf optimizer (D:\Literat\Stat\method\Meta_heurist
 
 InfSci_297_p216.pdf (E:\Literat\Stat\method\Meta_heuristic\General) - настроювання після ініціалізації початкової.. як на мене заскладно,
 але там є метод розділення на кластери
+
+
 
 
 2. Визначення Voc, Isc  та Pm, можливо логіку вимірювання освітленої ВАХ - IEEEJPhotovol_6_p1564-1575.pdf 
