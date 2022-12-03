@@ -21,7 +21,8 @@ quantum inspired binary grey wolf optimizer (D:\Literat\Stat\method\Meta_heurist
 InfSci_297_p216.pdf (E:\Literat\Stat\method\Meta_heuristic\General) - настроювання після ініціалізації початкової.. як на мене заскладно,
 але там є метод розділення на кластери
 
-
+ExpSysAppl_207_117993.pdf (D:\Literat\Stat\method\Meta_heuristic\Custom\SineCosine\SineCosineBarnaclesAlgorithm)
+   -  Sine–Cosine-Barnacles Algorithm ще й дозволяє видяляти кластери$ на наведених тестах дуже швидка збіжність
 
 
 2. Визначення Voc, Isc  та Pm, можливо логіку вимірювання освітленої ВАХ - IEEEJPhotovol_6_p1564-1575.pdf 
