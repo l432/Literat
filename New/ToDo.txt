@@ -12,6 +12,7 @@
 - новий варіант JAVA MatTodProc_52_p108 (D:\Literat\Stat\method\Meta_heuristic\Custom\Jaya\MLJAYA)
 Enhanced chaotic JAYA  ISATrans_116_p139 (D:\Literat\Stat\method\Meta_heuristic\Custom\Jaya\CJAYA)
 
+Arithmetic Optimization - використовують ніби 4 арифметичні дії.. гнасправді складніше, але цікавий варіант  CompMethApplMechEngrg_376_113609 (D:\Literat\Stat\method\Meta_heuristic\Custom\ArithmeticOptimization)
 
 варіан використання мета-еврістичного алгоритму для знаходження коефіцієнтів
 нейронних мереж  AinShEngJ_8_p371.pdf  (D:\Literat\Stat\method\Meta_heuristic\physics\ChemicalReaction)
