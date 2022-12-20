@@ -193,3 +193,5 @@ JApplPhys_128_161102.pdf (D:\Literat\Stat\Custom\AIelements\Using)
 
 
 48. Taguchi method of design of experiment в книзі Design_and_analysis_of_experiments
+
+49. В JCrysGrowth_555_125971 картинки міжвузольних положень в кремнії (D:\Literat\Stat\Defects\Materials)
