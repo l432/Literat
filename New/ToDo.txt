@@ -195,3 +195,11 @@ JApplPhys_128_161102.pdf (D:\Literat\Stat\Custom\AIelements\Using)
 48. Taguchi method of design of experiment в книзі Design_and_analysis_of_experiments
 
 49. В JCrysGrowth_555_125971 картинки міжвузольних положень в кремнії (D:\Literat\Stat\Defects\Materials)
+
+50. В роботі JAP_132_050701 інформація про органічні СЕ (щонайменше картинки спочатку, але й почитати можна уважніше) D:\Literat\Stat\IVchar\PN\SC\SC_type\Organic
+
+51/ According to the No Free Lunch theorem, all optimisation techniques
+are equally as accurate when averaged over all possible problems [D. Gomez, A. Rojas, An empirical overview of the no free lunch theorem and its
+effect on real-world machine learning classification, Neural Comput. 28 (1)
+(2016) 216–228, https://doi.org/10.1162/NECO_a_00793].
+Therefore, the optimal algorithm to use is dependent on the application
