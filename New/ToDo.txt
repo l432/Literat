@@ -37,6 +37,8 @@ ExpSysAppl_207_117993.pdf (D:\Literat\Stat\method\Meta_heuristic\Custom\SineCosi
 в цій же роботі гарні слова для опису процесу створення синтетичних ВАХ
 
 3. Книжка Lifetime Spectroscopy: A Method of Defect Characterization in Silicon for Photovoltaic Applications прочитати б (в Semiconductor/Defect) - метод IDLS зокрема
+залежність концентрації надлишкових носіїв від напруги холостого ходу і використання даного підходу для характеризації
+дефектів SolEnerMatSC_236_111530 (D:\Literat\Stat\method\SC_method\SunsVoc)
 
 
 
