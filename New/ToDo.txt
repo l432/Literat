@@ -200,8 +200,19 @@ JApplPhys_128_161102.pdf (D:\Literat\Stat\Custom\AIelements\Using)
 
 50. В роботі JAP_132_050701 інформація про органічні СЕ (щонайменше картинки спочатку, але й почитати можна уважніше) D:\Literat\Stat\IVchar\PN\SC\SC_type\Organic
 
-51/ According to the No Free Lunch theorem, all optimisation techniques
+51. According to the No Free Lunch theorem, all optimisation techniques
 are equally as accurate when averaged over all possible problems [D. Gomez, A. Rojas, An empirical overview of the no free lunch theorem and its
 effect on real-world machine learning classification, Neural Comput. 28 (1)
 (2016) 216–228, https://doi.org/10.1162/NECO_a_00793].
 Therefore, the optimal algorithm to use is dependent on the application
+
+52. Залежність температурних коефіцієнтів параметрів СЕ
+від інтенсивності світла.. і взагалі цікава робота, де описані
+причини цих коефіцієнтів і ще щось... NanoEner_98_107221 (D:\Literat\Stat\IVchar\PN\Temperature)
+
+53. База даних по дефектам в кремнії
+https://github.com/MK8J/semiconductorDefects
+стаття з описом - 7WCPEC_p_328
+(D:\Literat\Stat\Defects\Materials\Si\0_DataBase)
+скачав 24.12.2022
+
