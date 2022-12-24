@@ -30,6 +30,8 @@ InfSci_297_p216.pdf (E:\Literat\Stat\method\Meta_heuristic\General) - настроюван
 ExpSysAppl_207_117993.pdf (D:\Literat\Stat\method\Meta_heuristic\Custom\SineCosine\SineCosineBarnaclesAlgorithm)
    -  Sine–Cosine-Barnacles Algorithm ще й дозволяє видяляти кластери$ на наведених тестах дуже швидка збіжність
 
+В роботі SolEnerMatSC_238_111628 цікавий варіант представлення результатів дослідження скільки потрібно ітерацій та який має бути розмір популяції.
+(D:\Literat\Stat\IVchar\PN\dynamicIV)
 
 2. Визначення Voc, Isc  та Pm, можливо логіку вимірювання освітленої ВАХ - IEEEJPhotovol_6_p1564-1575.pdf 
  (D:\Literat\Stat\method\SC_method\ParametrEvaluation\PVParameters)
