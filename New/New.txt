@@ -1,4 +1,5 @@
-https://onlinelibrary.wiley.com/doi/abs/10.1002/%28SICI%291099-159X%28199707/08%295%3A4%3C229%3A%3AAID-PIP164%3E3.0.CO%3B2-6
+
+https://doi.org/10.1002/(SICI)1099-159X(199707/08)5:4<229::AID-PIP164>3.0.CO;2-6
 
 https://doi.org/10.1007/s00339-022-06299-x
 
@@ -9,10 +10,6 @@ https://doi.org/10.1002/pip.3559
 https://doi.org/10.1002/pip.3560
 
 https://doi.org/10.1002/pip.3580
-
-https://doi.org/10.1088/1361-6463/ac85ff
-
-https://doi.org/10.1088/1361-6463/ac9066
 
  https://doi.org/10.1002/pssa.202200314
 
