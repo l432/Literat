@@ -17,13 +17,7 @@ https://doi.org/10.1002/pssa.202200463
 
 https://doi.org/10.1002/pssr.202200290
 
- https://doi.org/10.1002/solr.202200188
-
- https://doi.org/10.1088/1361-6641/ac6ae0
- 
- https://doi.org/10.1088/1361-6641/ac84fc
- 
-https://doi.org/10.1088/1361-6641/ac9859
+ https://doi.org/10.1002/solr.202200188 
 
 https://doi.org/10.1109/JPHOTOV.2022.3190769
 
