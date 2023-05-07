@@ -218,3 +218,7 @@ https://github.com/MK8J/semiconductorDefects
 (D:\Literat\Stat\Defects\Materials\Si\0_DataBase)
 скачав 24.12.2022
 
+54. Датчик температури PT100-A Heraeus
+
+55. https://www.nrel.gov/pv/cell-efficiency.html 
+картинка з максимальними коефіцієнтами фотоперетворення для різних систем (актиальна, наскільки розумію)
