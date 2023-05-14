@@ -226,3 +226,6 @@ https://github.com/MK8J/semiconductorDefects
 56. В ApplPhysLett_122_112905 (D:\Literat\Stat\method\Deep_level\CurrentTransient) 
 метод current transient для характеризації дефектів
 крім того там цікавий підхід, як виділяти окремі компоненти з різним характерним часом
+
+57. Підхід для розрахунку функції Ламберта
+ApplMathComp_433_127406 (D:\Literat\Stat\method\Obzor-method\Mathematics)
