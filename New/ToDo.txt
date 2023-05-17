@@ -229,3 +229,7 @@ https://github.com/MK8J/semiconductorDefects
 
 57. Підхід для розрахунку функції Ламберта
 ApplMathComp_433_127406 (D:\Literat\Stat\method\Obzor-method\Mathematics)
+
+58. Напевне, варто спробувати реалізувати метод визначення концентрації бази
+за допомогою ВАХ (світлових, швидких) AIPConfProc_2487_030008
+(D:\Literat\Stat\method\SC_method\DopingLevel)
