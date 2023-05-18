@@ -228,7 +228,7 @@ https://github.com/MK8J/semiconductorDefects
 крім того там цікавий підхід, як виділяти окремі компоненти з різним характерним часом
 
 57. Підхід для розрахунку функції Ламберта
-ApplMathComp_433_127406 (D:\Literat\Stat\method\Obzor-method\Mathematics)
+ApplMathComp_433_127406 (D:\Literat\Stat\method\Obzor-method\Mathematics\Lambert)
 
 58. Напевне, варто спробувати реалізувати метод визначення концентрації бази
 за допомогою ВАХ (світлових, швидких) AIPConfProc_2487_030008
