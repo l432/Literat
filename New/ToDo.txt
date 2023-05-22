@@ -233,3 +233,6 @@ ApplMathComp_433_127406 (D:\Literat\Stat\method\Obzor-method\Mathematics\Lambert
 58. Напевне, варто спробувати реалізувати метод визначення концентрації бази
 за допомогою ВАХ (світлових, швидких) AIPConfProc_2487_030008
 (D:\Literat\Stat\method\SC_method\DopingLevel)
+
+59. В роботі PhysStatSolA_219_2200142 цікавий підхід до визначення параметрів за формулою Ареніуса: correlation analysis via a Monte Carlo. Правда деталей щось мало, але
+картинки красиві (D:\Literat\Stat\Defects\Materials\Si\H\H_complex)
