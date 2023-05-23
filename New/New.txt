@@ -35,3 +35,7 @@ https://doi.org/10.1109/JPHOTOV.2022.3195099
 
 ! https://doi.org/10.1002/pssa.202200740
 
+https://doi.org/10.1109/TED.2023.3245050
+
+https://doi.org/10.1109/JPHOTOV.2021.3129874
+
