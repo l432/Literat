@@ -236,3 +236,8 @@ ApplMathComp_433_127406 (D:\Literat\Stat\method\Obzor-method\Mathematics\Lambert
 
 59. В роботі PhysStatSolA_219_2200142 цікавий підхід до визначення параметрів за формулою Ареніуса: correlation analysis via a Monte Carlo. Правда деталей щось мало, але
 картинки красиві (D:\Literat\Stat\Defects\Materials\Si\H\H_complex)
+
+60. В MatSciSemProc_154_107202 багато цікавої узагальненої інформації: 
+типи кремнієвих СЕ, механізми рекомбінації, вплив поверхневої рекомбінації...
+не говорячи, що стаття загалом про стратегії пасивації
+D:\Literat\Stat\IVchar\PN\Obzor\Processing\Passivation
