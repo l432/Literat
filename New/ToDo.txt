@@ -241,3 +241,6 @@ ApplMathComp_433_127406 (D:\Literat\Stat\method\Obzor-method\Mathematics\Lambert
 типи кремнієвих СЕ, механізми рекомбінації, вплив поверхневої рекомбінації...
 не говорячи, що стаття загалом про стратегії пасивації
 D:\Literat\Stat\IVchar\PN\Obzor\Processing\Passivation
+
+61. В PhysStatSolA_219_2100727 є інформація про принцип дії
+декількох методів визначення параметрів дефектів (D:\Literat\Stat\Defects\Materials\GaN)
