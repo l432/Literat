@@ -1,0 +1,44 @@
+The Reviewer is grateful for the paper revision. 
+The editorial work significantly improved and clarified the manuscript. 
+Unfortunately, some of the authors' revisions are irrelevant to the reviewer's comments.
+
+For example, the authors continue to link changes in the parameters of the solar cell with changes in the values of shunt and series resistances. However, they do not determine the resistance values. Estimating shunt and series resistances from the current-voltage curve is easy!
+
+The new figure (Fig.9 in the revised manuscript) has been published previously (Journal of Materials Science: Materials in Electronics, 31, pp 9415-9422, Fig.2b,e). Any mention of previous publications is absent.
+Moreover, during simulation, the structure depicted in the powder image shown in Fig. 9 is not taken into account, thus making the figure's relevance to this work indirect.
+
+The authors continue to use forward bias instead of reverse bias when constructing the Mott-Schottky. They do not explain why the i) determination of the built-in potential was performed for only one thickness of the absorber layer; ii) a narrow range of the voltage capacitance dependence was chosen.
+
+The new highlight ("Polymer solar absorber thickness has significant impact on the performance the solar cell") is far from the original result.
+
+The authors stated "The scale of Fig. 4 is improved in the revised manuscript." 
+In fact, Fig. 4 remained unchanged in the revised manuscript.
+
+The authors stated "The data in Table II and Table III are not the same.". But comment stated that the data in Table II duplicate Figure 4. 
+In the revised manuscript, data duplication remains.
+
+A few new inaccuracies have appeared in the revised manuscript. For example, the new abbreviation TFOSC is not deciphered. Works [32] and [31] have nothing to do with the equations (12) and (14).
+
+
+If the authors of the paper so desire, all of the aforementioned shortcomings can be rectified. However, there are two reasons why I cannot recommend accepting the paper:
+
+1. The paper does not model any plasmonic effects, meaning the title of the manuscript does not match its content.
+2. Using a ZnS layer with a thickness of 3 nm does not result in the formation of nanoparticles in 1D simulation. Therefore, the active use of the term "metal nanoparticles" in the paper, conclusions, and highlights is unfounded. 
+
+In my opinion, the manuscript should be rejected.
+
+
+
+
+
+
+перекласти на англійську "За наявності бажання у авторів роботи, всі вищеназвані недоліки можна виправити.
+Проте існують дві причини, які не дозволяють мені рекомендувати прийняти роботу.
+1. В роботі не моделюються ніякі плазмонні ефекти. Тобто назва рукописи не збігається з його змістом.
+2. Веденя шару товщиною 3 нм при одномірному моделюванні не спричинює появу наночастинок. Тому активне використання терміну "нано частинки"
+в тексті роботи, у висновках, у highligрts є абсолютно непрривданим.
+
+На мою думку, рукопис має бути відкинутий. "
+
+
+виправити стилістичні та граматичні помилки в реченні "If the authors of the paper desire, all of the above-mentioned shortcomings can be rectified."
