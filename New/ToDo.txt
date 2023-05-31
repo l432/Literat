@@ -244,3 +244,9 @@ D:\Literat\Stat\IVchar\PN\Obzor\Processing\Passivation
 
 61. В PhysStatSolA_219_2100727 є інформація про принцип дії
 декількох методів визначення параметрів дефектів (D:\Literat\Stat\Defects\Materials\GaN)
+
+62.  Many CNN-based denoisers, such as DnCNN [26], FFDNet [27] and CBDNet [28], were proposed for the removal of additive white Gaussian noise (AWGN) and more sophisticated noises in a real camera system (NDTEInt_136_102813, D:\Literat\Stat\Custom\AIelements\Using\US)
+
+63. Цікавий метод Variable prediction model-based class discrimination
+(не до кінця зрозумілий, але цікавий...) 
+SolEner_237_p340 (D:\Literat\Stat\method\SC_method\PV_fault\VPMCD)
