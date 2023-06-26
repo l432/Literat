@@ -1,0 +1,6 @@
+I am satisfied with the changes made to the manuscript and I recommend
+publication.
+
+
+Ceterum censeo Carthaginem esse delendam. While a 10 nm thick buffer layer (quantum well) and a collection of nanoparticles (quantum dot) with a size of 5 nm may appear similar, it's important to note that the properties of these two structures are significantly different (for the simplest example see https://www.researchgate.net/figure/Schematic-illustration-of-the-density-of-states-gE-for-semiconductor-structures-with_fig1_326958028). Due to the layer being confined in only one direction, it differs greatly from particles that are confined in all three directions. The scattering processes of charge carriers in such structures also significantly differ. Therefore, the active use of the term "metal nanoparticles" in the paper, conclusions, and highlights is unfounded.
+
