@@ -43,11 +43,6 @@ https://doi.org/10.1109/JPHOTOV.2021.3129874
 
 https://doi.org/10.1007/s00339-023-06645-7
 
- https://doi.org/10.1002/pip.3630
+https://doi.org/10.1002/pip.3630
  
- https://doi.org/10.1103/RevModPhys.95.021001
- 
- https://doi.org/10.1103/RevModPhys.95.025003
- 
- https://doi.org/10.1103/PhysRevLett.130.236403
 
