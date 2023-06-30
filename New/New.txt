@@ -52,3 +52,11 @@ https://doi.org/10.1002/pssa.202200448
 https://doi.org/10.1002/pssr.202200239
 
 https://doi.org/10.1002/pssr.202200356
+
+https://doi.org/10.1109/JPHOTOV.2022.3221003
+
+https://doi.org/10.1109/JPHOTOV.2022.3229186
+
+https://doi.org/10.1109/JPHOTOV.2023.3239744
+
+https://doi.org/10.1103/PhysRevApplied.18.064001
