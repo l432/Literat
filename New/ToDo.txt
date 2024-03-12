@@ -247,3 +247,7 @@ D:\Literat\Stat\IVchar\PN\Obzor\Processing\Passivation
 63. Цікавий метод Variable prediction model-based class discrimination
 (не до кінця зрозумілий, але цікавий...) 
 SolEner_237_p340 (D:\Literat\Stat\method\SC_method\PV_fault\VPMCD)
+
+64. Можливо, реалізувати Kepler’s laws метаеврістику? 
+(для моделей сонячних елементів показники гарні)  
+KnowBasSys_268_110454
