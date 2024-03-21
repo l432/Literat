@@ -256,6 +256,8 @@ KnowBasSys_268_110454
 D:\Literat\Stat\IVchar\PN\RealIV\n\Organic\PhysRevLett_130_236403
 
 
-A part of the radiation especially in the near infrared region of the spectrum is modified by infrared
-transparency of the reflector and by absorption in
+A part of the radiation especially in the near infrared region of the spectrum is modified by infrared transparency of the reflector and by absorption in
 the plexiglass window. - ResAgrEng_63_p10 (D:\Literat\Stat\IVchar\PN\Temperature)
+
+66. В роботі SolEner_218_p392 () великий перелік посилань на роботи, де проводилося 
+визначення параметрів відповідно до 2- та 3-діодної моделі з використанням метаеврістичних методів.
