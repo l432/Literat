@@ -254,3 +254,8 @@ KnowBasSys_268_110454
 
 65. Цікавий зв'язок фактору неідеальності в органічних сонячних елементах з параметрами дефектів
 D:\Literat\Stat\IVchar\PN\RealIV\n\Organic\PhysRevLett_130_236403
+
+
+A part of the radiation especially in the near infrared region of the spectrum is modified by infrared
+transparency of the reflector and by absorption in
+the plexiglass window. - ResAgrEng_63_p10 (D:\Literat\Stat\IVchar\PN\Temperature)
