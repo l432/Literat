@@ -51,7 +51,32 @@ https://doi.org/10.1002/pip.3702
 
 https://doi.org/10.1002/pip.3626
 
+https://doi.org/10.1088/1361-6463/acd2e5
 
+https://doi.org/10.1002/pssa.202300130
 
+https://doi.org/10.1002/pssa.202300071 SCAPS
+ 
+https://doi.org/10.1002/pssa.202300746
 
+https://doi.org/10.1002/pssb.202300270 SCAPS
 
+https://doi.org/10.1002/solr.202300240
+
+https://doi.org/10.1002/solr.202300379
+ 
+https://doi.org/10.1002/solr.202300650
+ 
+https://doi.org/10.1002/solr.202300999
+
+https://doi.org/10.1109/JPHOTOV.2023.3267173
+
+https://doi.org/10.1109/JPHOTOV.2023.3268399
+
+! https://doi.org/10.1109/JPHOTOV.2023.3261549
+
+https://doi.org/10.1109/JPHOTOV.2023.3301674
+
+https://doi.org/10.1109/JPHOTOV.2023.3309932
+
+https://doi.org/10.1109/JPHOTOV.2023.3328690  SCAPS
