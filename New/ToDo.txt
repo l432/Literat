@@ -273,3 +273,5 @@ the plexiglass window. - ResAgrEng_63_p10 (D:\Literat\Stat\IVchar\PN\Temperature
 
 70. Вибір метрики для даних, які змінюються у широкому діапазоні обговорюється в oJAP_134_225101
 (D:\Literat\Stat\AIelements\Using\Kolya)
+
+71. Метод визначення рухливості в органічних СЕ за допомогою space-charge-limited current MatSciEngR_157_100772 ...може спробувати (D:\Literat\Stat\method\CustomMethod\Mobility)
