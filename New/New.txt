@@ -87,3 +87,5 @@ https://doi.org/10.1109/JPHOTOV.2023.3328690  SCAPS
 
 ___________
 https://doi.org/10.1103/PhysRevApplied.20.034017
+
+https://doi.org/10.1103/PhysRevApplied.14.054027
