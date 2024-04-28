@@ -275,3 +275,9 @@ the plexiglass window. - ResAgrEng_63_p10 (D:\Literat\Stat\IVchar\PN\Temperature
 (D:\Literat\Stat\AIelements\Using\Kolya)
 
 71. Метод визначення рухливості в органічних СЕ за допомогою space-charge-limited current MatSciEngR_157_100772 ...може спробувати (D:\Literat\Stat\method\CustomMethod\Mobility)
+
+72. Декілька формул на ефективність введення звуку в зразок (інше середовище); крім того,
+в літературі є посилання на он-лайн калькулятор.. може там взагалі сайт цікавий
+щодо УЗ навантаження, я не додивлявся NIMA_1055_168503 (D:\Literat\Stat\US\UST)
+
+GPyOpt, a library for Python, was used to perform Bayesian optimization
