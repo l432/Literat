@@ -281,3 +281,6 @@ the plexiglass window. - ResAgrEng_63_p10 (D:\Literat\Stat\IVchar\PN\Temperature
 щодо УЗ навантаження, я не додивлявся NIMA_1055_168503 (D:\Literat\Stat\US\UST)
 
 GPyOpt, a library for Python, was used to perform Bayesian optimization
+
+В роботі PhysRevAppl_40_054027  практично експериментальне підтвердження теорії Tung 
+ (D:\Literat\Stat\IVchar\Shotky\Mechanism\InhomogenBarrier\Teory)
