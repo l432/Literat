@@ -55,11 +55,13 @@ https://doi.org/10.1088/1361-6463/acd2e5
 
 https://doi.org/10.1002/pssa.202300130
 
-https://doi.org/10.1002/pssa.202300071 SCAPS
+https://doi.org/10.1002/pssa.202300071 
+SCAPS
  
 https://doi.org/10.1002/pssa.202300746
 
-https://doi.org/10.1002/pssb.202300270 SCAPS
+https://doi.org/10.1002/pssb.202300270 
+SCAPS
 
 https://doi.org/10.1002/solr.202300240
 
@@ -81,10 +83,26 @@ https://doi.org/10.1109/JPHOTOV.2023.3301674
 
 https://doi.org/10.1109/JPHOTOV.2023.3309932
 
-https://doi.org/10.1109/JPHOTOV.2023.3328690  SCAPS
+https://doi.org/10.1109/JPHOTOV.2023.3328690  
+SCAPS
 
 
 ! https://doi.org/10.1063/5.0104341
 
 https://doi.org/10.1021/acs.chemrev.1c00214
+
+
+https://doi.org/10.1063/5.0205455
+
+
+https://doi.org/10.1063/5.0204270
+
+
+https://doi.org/10.1063/5.0191362
+
+https://doi.org/10.1063/5.0165697
+
+https://doi.org/10.1063/5.0191977
+
+https://doi.org/10.1063/5.0198404
 
