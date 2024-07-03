@@ -125,5 +125,9 @@ https://doi.org/10.1007/s00339-024-07616-2
  https://doi.org/10.1103/PhysRevLett.132.246901
  https://doi.org/10.1103/PhysRevB.109.205201
  https://doi.org/10.1103/PhysRevB.109.235203
+ 
+https://doi.org/10.1002/pssa.202400008
+
+https://doi.org/10.1002/pssa.202300795
 
 
