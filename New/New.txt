@@ -125,4 +125,17 @@ https://doi.org/10.1002/pssa.202400008
 
 https://doi.org/10.1002/pssa.202300795
 
+! https://doi.org/10.1088/1361-6641/ad3d04
+
+https://doi.org/10.1088/1361-6641/ad4a65
+
+! https://doi.org/10.1088/1361-648X/ad512d
+
+https://doi.org/10.1088/1361-648X/ad5ad0
+
+https://doi.org/10.1002/solr.202400026
+
+ https://doi.org/10.1002/solr.202400033
+ 
+https://doi.org/10.1109/JPHOTOV.2024.3366698
 
