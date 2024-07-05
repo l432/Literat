@@ -139,3 +139,7 @@ https://doi.org/10.1002/solr.202400026
  
 https://doi.org/10.1109/JPHOTOV.2024.3366698
 
+r
+https://doi.org/10.1103/PhysRevApplied.21.054030
+! https://doi.org/10.1103/PhysRevApplied.21.064031
+
