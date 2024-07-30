@@ -1,11 +1,4 @@
 
-https://doi.org/10.1007/s00339-023-06645-7
-
-
-
-
-https://doi.org/10.1063/5.0171559
-
 https://doi.org/10.1063/5.0169185
 
 https://doi.org/10.1063/5.0172432
@@ -26,29 +19,6 @@ https://doi.org/10.1002/pip.3703
 https://doi.org/10.1002/pip.3702
 
 https://doi.org/10.1002/pip.3626
-
-https://doi.org/10.1088/1361-6463/acd2e5
-
-https://doi.org/10.1002/pssa.202300130
-
-https://doi.org/10.1002/pssa.202300071 
-SCAPS
- 
-https://doi.org/10.1002/pssa.202300746
-
-https://doi.org/10.1002/pssb.202300270 
-SCAPS
-
-https://doi.org/10.1002/solr.202300240
-
-https://doi.org/10.1002/solr.202300379
- 
-https://doi.org/10.1002/solr.202300650
- 
-https://doi.org/10.1002/solr.202300999
-
-https://doi.org/10.1002/solr.202200280
-
 
 
 ! https://doi.org/10.1063/5.0104341
@@ -85,10 +55,6 @@ https://doi.org/10.1007/s00339-024-07616-2
  https://doi.org/10.1002/pip.3761
  
  
-https://doi.org/10.1002/pssa.202400008
-
-https://doi.org/10.1002/pssa.202300795
-
 ! https://doi.org/10.1088/1361-6641/ad3d04
 
 https://doi.org/10.1088/1361-6641/ad4a65
@@ -99,8 +65,7 @@ https://doi.org/10.1088/1361-648X/ad5ad0
 
 https://doi.org/10.1002/solr.202400026
 
- https://doi.org/10.1002/solr.202400033
- 
+
 
 r
 https://doi.org/10.1103/PhysRevApplied.21.054030
