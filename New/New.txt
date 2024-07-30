@@ -1,32 +1,8 @@
-https://doi.org/10.1007/s00339-022-06299-x
-
-https://doi.org/10.1109/JPHOTOV.2022.3190769
-
-https://doi.org/10.1109/JPHOTOV.2022.3195098
-
-https://doi.org/10.1109/JPHOTOV.2022.3207600
-
-https://doi.org/10.1109/JPHOTOV.2022.3195003
-
-https://doi.org/10.1109/JPHOTOV.2022.3203292
-
-https://doi.org/10.1109/JPHOTOV.2022.3195693
-
-https://doi.org/10.1109/JPHOTOV.2022.3195099
-
-https://doi.org/10.1109/TED.2023.3245050
-
-https://doi.org/10.1109/JPHOTOV.2021.3129874
-
-------------------
 
 https://doi.org/10.1007/s00339-023-06645-7
 
-https://doi.org/10.1109/JPHOTOV.2022.3221003
 
-https://doi.org/10.1109/JPHOTOV.2022.3229186
 
-https://doi.org/10.1109/JPHOTOV.2023.3239744
 
 https://doi.org/10.1063/5.0171559
 
@@ -73,18 +49,6 @@ https://doi.org/10.1002/solr.202300999
 
 https://doi.org/10.1002/solr.202200280
 
-https://doi.org/10.1109/JPHOTOV.2023.3267173
-
-https://doi.org/10.1109/JPHOTOV.2023.3268399
-
-! https://doi.org/10.1109/JPHOTOV.2023.3261549
-
-https://doi.org/10.1109/JPHOTOV.2023.3301674
-
-https://doi.org/10.1109/JPHOTOV.2023.3309932
-
-https://doi.org/10.1109/JPHOTOV.2023.3328690  
-SCAPS
 
 
 ! https://doi.org/10.1063/5.0104341
@@ -137,7 +101,6 @@ https://doi.org/10.1002/solr.202400026
 
  https://doi.org/10.1002/solr.202400033
  
-https://doi.org/10.1109/JPHOTOV.2024.3366698
 
 r
 https://doi.org/10.1103/PhysRevApplied.21.054030
