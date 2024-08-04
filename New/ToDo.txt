@@ -284,3 +284,7 @@ GPyOpt, a library for Python, was used to perform Bayesian optimization
 
 В роботі PhysRevAppl_40_054027  практично експериментальне підтвердження теорії Tung 
  (D:\Literat\Stat\IVchar\Shotky\Mechanism\InhomogenBarrier\Teory)
+ 
+73. В роботі ApplPhysLett_121_113507 (D:\Literat\Stat\method\CustomMethod\OnFrequency\C_f)
+комплексне використання і прямих С-V, і імпедансної спектроскопії,
+і визначення густини станів з С-f вимірів
