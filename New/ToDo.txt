@@ -288,3 +288,12 @@ GPyOpt, a library for Python, was used to perform Bayesian optimization
 73. В роботі ApplPhysLett_121_113507 (D:\Literat\Stat\method\CustomMethod\OnFrequency\C_f)
 комплексне використання і прямих С-V, і імпедансної спектроскопії,
 і визначення густини станів з С-f вимірів
+
+74. Використання ВАХ для оцінки температури сонячних модулів,
+у тому числі і тих, що мають hot spot
+сама робота мені не дуже, лише для посилань
+IEEEJPhotovol_12_p1513 (D:\Literat\Stat\method\SC_method)
+
+75. Дуже гарна робота - передбачення машинне для сонячних елементів,
+використані різні алгоритми, аналіз features
+oJPhysCondMatter_36_355901 (D:\Literat\Stat\AIelements\Using\PV)
