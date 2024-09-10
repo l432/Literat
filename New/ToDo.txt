@@ -106,8 +106,6 @@ D:\Literat\Stat\method\SC_method\Noise
 24.SolEnerMatSC_185_p283.pdf (D:\Oleg\Literat\Stat\IVchar\PN\influence\Light) - цікавий опис експериментальної комірки
 
 
-25.5 Можна використати ANN до аналізу n як функція FeB (щось на кшталт CaseStudTherEng_3_p11.pdf (D:\Literat\Stat\IVchar\PN\Temperature\ANN))
-
 
 27. В SuprMicr_99_p192.pdf (D:\Literat\Stat\Defects\Materials\Si\Metal\Fe) глянути криві кінетики зміни...
 
@@ -156,7 +154,7 @@ D:\Literat\Stat\method\SC_method\Noise
 NIMB_456_p120.pdf також
 
 
-38 приклад застосування методу принципових компонент SolEner_179_p1 (D:\Literat\Stat\method\SC_method)
+38 приклад застосування методу принципових компонент SolEner_179_p1 (D:\Literat\Stat\method\SC_method\PVsystemCharacterization)
 
 39 Цікавий варіант обробки світлових ВАХ з виділенням копонент
 JApplPhys_127_053101.pdf (D:\Literat\Stat\IVchar\PN\RealIV\Sshape) застосування
@@ -238,6 +236,9 @@ https://github.com/MK8J/semiconductorDefects
 типи кремнієвих СЕ, механізми рекомбінації, вплив поверхневої рекомбінації...
 не говорячи, що стаття загалом про стратегії пасивації
 D:\Literat\Stat\IVchar\PN\Obzor\Processing\Passivation
+
+ще робота з варіантами СЕ IEEEJPhotovol_14_p375
+(D:\Literat\Stat\IVchar\PN\SC\SC_type\Bifacial)
 
 61. В PhysStatSolA_219_2100727 є інформація про принцип дії
 декількох методів визначення параметрів дефектів (D:\Literat\Stat\Defects\Materials\GaN)
