@@ -29,9 +29,6 @@ https://doi.org/10.1063/5.0228001
 
 ! https://doi.org/10.1007/s10723-023-09668-9
 
-r
-https://doi.org/10.1103/PhysRevApplied.21.054030
-! https://doi.org/10.1103/PhysRevApplied.21.064031
 
 
 
