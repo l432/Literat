@@ -1,0 +1,5 @@
+https://mealpy.readthedocs.io/en/latest/pages/general/introduction.html
+
+RFECV
+https://habr.com/ru/companies/otus/articles/528676/
+https://www.kaggle.com/code/magedmallek/feature-selection-explained-rfecv
