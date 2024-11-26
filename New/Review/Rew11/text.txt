@@ -1,0 +1,58 @@
+The study investigates the recovery processes of radiation-damaged parameters in silicon solar cells at room temperature. Various experimental and computational methods were used to characterize the solar cells. The study yielded intriguing results that may capture the readers' interest. However, I would like to offer several comments, as outlined below. Accordingly, I recommend a general assessment of "minor revision."
+
+
+1. The study investigates changes in the ideality factor, determined by approximating experimental IV characteristics using a single-diode model. However, the description does not clarify whether shunt resistance Rsh​ was considered during the approximation. The changes observed in the IV curves presented in Fig. 1 might be linked to variations in Rsh value​. Additionally, it is well known that a double-diode model is often more appropriate for silicon solar cells. The shape of the IV curves presented in Fig.1 suggests that this approach may be more suitable. Furthermore, in the double-diode model, the ideality factor of each diode is associated with recombination processes occurring in distinct regions of the solar cell (the space-charge region and the quasi-neutral region). Therefore, applying the double-diode model to analyze the obtained results would be highly beneficial.
+
+2. Unfortunately, the study does not include the results of measuring the dark and illuminated IV curves of unirradiated solar cells before and after a 52-month at room temperature. The observed enhancement in blue response might not be related to the reconstruction of radiation-induced defects. Similar effects could result from changes in the defect structure introduced during solar cell fabrication or laser-based sample cutting.
+
+3. For electron irradiation at an energy of 8 MeV, uniform defect formation is expected throughout the 160 μm thick silicon layer. Why, then, are the changes in Jsc​ and VocV​ attributed solely to the recombination centers in the base? Defects introduced in the emitter region would also be expected to influence the solar cell's performance.
+
+4. In the study, the enhancement in blue response is attributed to the formation of positive charges. However, it is unclear why the formation of these defects does not affect the barrier height, as the reverse C-V curves in Fig. 7 remain unchanged. Typically, the introduction of positive charges in the space-charge region would be expected to modify the barrier height, resulting in changes to the C-V characteristics. The authors should provide a clear explanation for why the observed enhancement in blue response is not accompanied by alterations in the barrier height, as indicated by the unchanged C-V curves.
+
+5. The defects that form in silicon during electron irradiation are well-documented. In my opinion, it is important to discuss which specific defects or defect reconstructions are responsible for the observed changes in photovoltaic parameters, such as radiation-induced degradation and the self-healing effect. A detailed analysis of the potential defects involved—such as the A-center, E-center, divacancies, and other radiation-induced defects—would provide a deeper understanding of the underlying mechanisms and significantly strengthen the study’s conclusions.
+
+6. A suggested improvement is to combine the data from Table 2 and Table 3 into a single table. This approach would enable a more concise and reader-friendly presentation of the results, facilitating direct comparisons. 
+
+
+Strengths:
+
+The application of multiple characterization techniques to analyze solar cells offers a comprehensive understanding.
+The identification of a noteworthy effect, namely the enhancement of blue response, represents a significant finding.
+
+
+Weaknesses:
+
+The discussion of the physical mechanisms underlying the observed effects is insufficient, limiting the depth of understanding of the results.
+Some conclusions, such as the degradation of solar cell properties due to radiation exposure, reiterate well-established phenomena and lack novelty.
+
+
+
+
+
+-----------------------------------------------------------------------------------------------
+Робота присвячена дослідженню процесів відновлення радіаційно-деградованих параметрів кремнієвих сонячних елементів при кімнатній температурі. При цьому використана низка експериментальних та розрахункових методих для характеризації сонячних елементів. Отримано цікаві результати, що можуть зацікавити читачів. Проте, я би хотів висловити декілька зауважень, наведених нижче. Як наслідок, узагальнююча оцінка "minor revision".
+
+1. В роботі розглядаються зміни фактору неідеальності, який визначається шляхом апроксимації експериментальних IV характеристик з використанням single diode model. Проте, по-перше, з опису не зрозуміло чи враховувся при апроксимації шунтуючий опір Rsh. Наведені на рис.1 зміни ВАХ можуть бути пов'язані саме зі зміною Rsh.  По-друге, відомо, що для Si solar cell більш доцільно застосовувати double diode model. Форма наведених ВАХ свідчать на користь застосування саме такого підходу. Крім того, фактор неідеальності кожного з додатків у double diode model пов'язується з рекомбінаційними процесами в різних ділянках сонячного елементу (space charge region and quasi-neutral region). Тому застосування double diode model до отриманих результатів було б надзвичайно корисним.
+
+2. На жаль, в роботі не наведено результатів вимірювання dark and illuminated IV curves  для unirradiated сонячного елементу до та після 52 month period of keeping the cells at room temperature. Можливо, виявлений blue response enhancement не пов'язаний з перебудовою радіаційних дефектів. Подібні процеси можуть бути викликані змінами дефектної структури, яка з'явилася під час solar cell fabrication on sample cuting by laser.
+
+3. Для опромінення електронами з енергією 8 МеВ очікується рівномірне по об'єму дефектоутворення в Si товщиною 160 μm. Чому зміни Jsc та Voc викликані лише з дією recombination centers in the base?
+
+4. В роботі enhancement in blue responce пов'язується з formation of positive charges. Чому утворення подібних дефектів не впливає на висоту бар'єру (зворотні C-V curves on Fig.7 залишаються незмінними)?
+
+5. Можливі дефекти, які утворюються у кремнії під час радіаційного опромінення є відомими. На мою думку, важливим було б обговорити в роботі, які саме дефекти (перебудови дефектів) відповідають за виявлені зміни параметрів фотоелектричного перетворення (радіаційно-індуковану деградацію, self-healing effect)
+
+6. Необов'язкова порада: звести дані з табл.2 та табл.3 до однієї таблиці.
+
+
+Strengths:
+Використання різних методик характеризації сонячних елементів.
+
+Виявлений цікавий ефект blue response enhancement
+
+
+Weaknesses:
+
+Недостатнє обговорення фізичних механізмів виявлених ефектів
+
+Частина висновків не є новими: деградація властивостей сонячних елементів внаслідок радіаційного опромінення.
