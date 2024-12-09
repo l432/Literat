@@ -1,0 +1,3 @@
+mutual information
+https://www.blog.trainindata.com/mutual-information-with-python/
+https://medium.com/@suvendulearns/decoding-mutual-information-mi-a-guide-for-machine-learning-practitioners-b0f0ca0b30c9
