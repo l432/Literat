@@ -1,3 +1,7 @@
 Materials Project - www.materialsproject.org
 Material Properties Database - www.makeitfrom.com
 MATWEB Material Property Data - www.matweb.com
+
+AFLOW (Automatic FLOW for Materials discovery)
+OQMD (Open Quantum Materials Database)
+NOMAD (Novel Materials Discovery)
