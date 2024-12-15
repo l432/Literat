@@ -1,0 +1,145 @@
+Manuscript Number: RPC-D-24-01859 
+
+Observation of Self-Healing and Blue Response Enhancement in c-Si Solar Cells Exposed to Electron Irradiation 
+
+Dear ******** ********,  
+
+Thank you for submitting your manuscript to Radiation Physics and Chemistry. 
+
+Upon submitting your revised manuscript, please upload the source files for your article. We cannot accommodate PDF manuscript files for production purposes. We also ask that when submitting your revision, you follow the journal formatting guidelines. For additional details regarding acceptable file formats, please refer to the Guide for Authors at: https://www.elsevier.com/journals/radiation-physics-and-chemistry/0969-806X/guide-for-authors
+
+I have completed my evaluation of your manuscript. The reviewers recommend reconsideration of your manuscript following minor revision and modification. I invite you to resubmit your manuscript after addressing the comments below. Please resubmit your revised manuscript by Jan 04, 2025. 
+
+When revising your manuscript, please consider all issues mentioned in the reviewers' comments carefully: please outline every change made in response to their comments and provide suitable rebuttals for any comments not addressed. Please note that your revised submission may need to be re-reviewed.  
+
+To submit your revised manuscript, please log in as an author at https://www.editorialmanager.com/rpc/, and navigate to the "Submissions Needing Revision" folder under the Author Main Menu.  
+
+Research Elements (optional)
+This journal encourages you to share research objects - including your raw data, methods, protocols, software, hardware and more – which support your original research article in a Research Elements journal. Research Elements are open access, multidisciplinary, peer-reviewed journals which make the objects associated with your research more discoverable, trustworthy and promote replicability and reproducibility. As open access journals, there may be an Article Publishing Charge if your paper is accepted for publication. Find out more about the Research Elements journals at https://www.elsevier.com/authors/tools-and-resources/research-elements-journals?dgcid=ec_em_research_elements_email.
+
+
+Radiation Physics and Chemistry values your contribution and I look forward to receiving your revised manuscript.? 
+
+Kind regards,  
+
+Christopher Chantler 
+
+Editor-in-Chief 
+
+Radiation Physics and Chemistry 
+
+Editor and Reviewer comments:  
+
+
+
+Reviewer #1: The study investigates the recovery processes of radiation-damaged parameters in silicon solar cells at room temperature. Various experimental and computational methods were used to characterize the solar cells. The study yielded intriguing results that may capture the readers' interest. However, I would like to offer several comments, as outlined below. Accordingly, I recommend a general assessment of "minor revision."
+
+
+1. The study investigates changes in the ideality factor, determined by approximating experimental IV characteristics using a single-diode model. However, the description does not clarify whether shunt resistance Rsh? was considered during the approximation. The changes observed in the IV curves presented in Fig. 1 might be linked to variations in Rsh value?. Additionally, it is well known that a double-diode model is often more appropriate for silicon solar cells. The shape of the IV curves presented in Fig.1 suggests that this approach may be more suitable. Furthermore, in the double-diode model, the ideality factor of each diode is associated with recombination processes occurring in distinct regions of the solar cell (the space-charge region and the quasi-neutral region). Therefore, applying the double-diode model to analyze the obtained results would be highly beneficial.
+
+2. Unfortunately, the study does not include the results of measuring the dark and illuminated IV curves of unirradiated solar cells before and after a 52-month at room temperature. The observed enhancement in blue response might not be related to the reconstruction of radiation-induced defects. Similar effects could result from changes in the defect structure introduced during solar cell fabrication or laser-based sample cutting.
+
+3. For electron irradiation at an energy of 8 MeV, uniform defect formation is expected throughout the 160 ?m thick silicon layer. Why, then, are the changes in Jsc? and VocV? attributed solely to the recombination centers in the base? Defects introduced in the emitter region would also be expected to influence the solar cell's performance.
+
+4. In the study, the enhancement in blue response is attributed to the formation of positive charges. However, it is unclear why the formation of these defects does not affect the barrier height, as the reverse C-V curves in Fig. 7 remain unchanged. Typically, the introduction of positive charges in the space-charge region would be expected to modify the barrier height, resulting in changes to the C-V characteristics. The authors should provide a clear explanation for why the observed enhancement in blue response is not accompanied by alterations in the barrier height, as indicated by the unchanged C-V curves.
+
+5. The defects that form in silicon during electron irradiation are well-documented. In my opinion, it is important to discuss which specific defects or defect reconstructions are responsible for the observed changes in photovoltaic parameters, such as radiation-induced degradation and the self-healing effect. A detailed analysis of the potential defects involved—such as the A-center, E-center, divacancies, and other radiation-induced defects—would provide a deeper understanding of the underlying mechanisms and significantly strengthen the study's conclusions.
+
+6. A suggested improvement is to combine the data from Table 2 and Table 3 into a single table. This approach would enable a more concise and reader-friendly presentation of the results, facilitating direct comparisons.
+
+Strengths:
+
+The application of multiple characterization techniques to analyze solar cells offers a comprehensive understanding.
+The identification of a noteworthy effect, namely the enhancement of blue response, represents a significant finding.
+
+
+Weaknesses:
+
+The discussion of the physical mechanisms underlying the observed effects is insufficient, limiting the depth of understanding of the results.
+Some conclusions, such as the degradation of solar cell properties due to radiation exposure, reiterate well-established phenomena and lack novelty.
+
+
+Reviewer #2: The study investigates the effects of electron irradiation on mono-crystalline silicon (c-Si) solar cells by analyzing dose-dependent degradation using a range of characterization techniques, including I-V, EQE, C-V, and G/?-V measurements. The findings reveal that irradiation-induced defects in the base layer cause performance degradation, while the emitter and depletion edge show resilience to defect formation. Notably, significant self-healing effects and improved blue response are observed after prolonged irradiation, attributed to positive charge accumulation in the nitride layer from oxynitride formation. This work provides valuable insights into the mechanisms of radiation-induced degradation and recovery in c-Si solar cells.
+
+While the results are intriguing, some corrections are necessary for publication, such as providing greater clarity on experimental methodologies, addressing ambiguities in the analysis of defect dynamics, and ensuring more detailed discussions of self-healing mechanisms and their reproducibility. Once these issues are addressed, the work will be a strong contribution to the field of semiconductor device reliability under radiation exposure.
+
+Introduction
+1. Line 7, the percentage should be after the figure, this error is also noticed all through the manuscript, hence the entire manuscript has to be checked to correct the mistake
+2. There are few grammatical errors that needs to be corrected, for example, line 55 "it is critical to understand the behavior of the cells that exposed to ……… that are exposed instead of that exposed.
+3. There is also an error due to grammar in line 27 of Pg 3. "are" is missing before well understood.
+4. References about radiation studies on Si-based devices of different particle type, fluence and energy should be included. These articles can be used to report on these studies
+1. Electrical properties of 3 MeV proton irradiated silicon Schottky diodes. Physica B: Condensed Matter 610 (2021): 412786.
+2. Current-voltage characteristics of 4 MeV proton-irradiated silicon diodes at room temperature. Silicon, 14(16) (2022), 10237-10244.
+3. Suppression of irradiation effect on electrical properties of silicon diodes by iron in p-silicon." Radiation Effects and Defects in Solids (2024): 1-14.
+4. Enhancing Radiation-Hardness of Si-based Diodes: An Investigation of Al-Doping Effects in Si Using IV Measurements. Radiation Physics and Chemistry (2024): 111873.
+5. Line 53, unirradiated reads better than unexposed in this context.
+
+Materials and Method
+6. The schematic or pictorial depiction of the fabricated cells should be provided in this section.
+7. The voltage range for the I-V, C-V and G/w-V measurement should be provided with the reason for the chosen range given
+8. Authors should also give reason why the chosen electron doses were used (225, 450, 675 and 900)
+9. It would have been more interesting to have data for more months interval, for example 12, 24, 36, 48, 60 months, this data would have given more information of how the cell performs over time.
+
+Results and Discussions
+
+10. The first sentence is too long and boring, it should be revised for easy understanding.
+11. The statement "diode ideality factor goes to increase which indication of creation of generation-recombination level within the band gap of Si" is full of grammatical error rendering the sentence meaningless. I want to believe the authors are trying to explain the increase in the value of ideality factor after irradiation which may be attributed to the generation-recombination centers introduced by the irradiation-induced defects.
+12. I suggest the results in figure 1 can be presented in a simpler form that will aid easy comparison and understanding. Two plots (a and b) for before and after irradiation with every dose plotted o a single plot.
+13. The parameters evaluated for the cells needs to be explained in a better way most especially how they are obtained.
+14. The caption for the figures needs to be rephrased to enhance simplicity and better understanding.
+15. The parameters provided in Figure 3 are not well defined anywhere in the manuscript.
+16. The C-V and G/w-V measurements were taken at a frequency of 100 KHz, however, the reason for choosing this frequency was not provided and it is very imperative.
+17. The is a peak observed in the forward bias of the C-V characteristics and there is no explanation given about the observed peaks.
+
+
+
+Reviewer #3: As a reviewer of this paper, I would like to provide the following detailed comments, emphasizing both the strengths and weaknesses of the study.
+# Strengths:
+
+1. Comprehensive Analysis: The paper presents a thorough investigation of dose-dependent degradation in solar cell performance due to irradiation. The use of various characterization techniques, such as dark and illuminated current-voltage (I-V) measurements, external quantum efficiency (EQE) measurements, capacitance-voltage (C-V) measurements, and conductance-voltage (G/?-V) measurements, offers a well-rounded understanding of the irradiation effects on the performance of the solar cells.
+
+2. Insight into Self-Healing Mechanisms: The observation of significant self-healing effects, including improvements in blue response after 52 months of irradiation, is a notable finding. This insight into the resilience of c-Si solar cells under prolonged radiation exposure is valuable for future applications, especially in space or high-radiation environments, where long-term performance is critical.
+
+3. Relevance to Solar Cell Technology: The study addresses a crucial aspect of solar cell technology, particularly for applications in environments where radiation exposure is a concern. The findings could inform the design of more robust solar cells, enhancing their longevity and efficiency in extreme conditions.
+
+
+# Weaknesses:
+
+1. Limited Discussion on Mechanisms: While the paper identifies defect formation in the base layer as a cause of degradation, it would benefit from a more detailed discussion on the underlying mechanisms of defect formation and their impact on overall solar cell performance. A deeper exploration of the physical and chemical processes involved would provide a more comprehensive understanding of the degradation mechanisms.
+
+Add a section that explains in detail the mechanisms leading to defect formation and how they affect the performance of solar cells.
+
+2. Lack of Comparative Analysis: The study primarily focuses on c-Si solar cells without making comparisons to other types of solar cells (e.g., thin-film or multi-junction cells). Including such comparisons could provide a broader context for the findings and highlight the unique advantages or limitations of c-Si technology in radiation environments.
+
+Include a comparative analysis with other solar cell types to provide a broader context regarding the effectiveness of monocrystalline silicon cells in radiation environments.
+
+3. Figures and Visuals: Although several figures are referenced in the paper, the quality and clarity of these visuals could be improved. Ensuring that figures are well-labeled, with clear legends and easy-to-interpret data, would enhance the overall presentation and readability of the results.
+
+Ensure that all figures and illustrations are clear and informative, with accurate labeling.
+
+4.Lack of Information on Environmental Conditions: The environmental conditions under which the experiments were conducted are not adequately detailed. It is important to clarify the temperature, humidity, and pressure, as these factors can influence the experimental results.
+
+Add details about the environmental conditions under which the experiments were conducted, helping to understand the impact of these factors on the results.
+
+
+the paper presents valuable findings on the effects of electron irradiation on c-Si solar cells, contributing to the understanding of their performance in radiation-rich environments. However, addressing the identified weaknesses could significantly improve the quality and impact of the research by providing a more detailed and comprehensive analysis of the findings.
+  
+
+
+
+More information and support 
+
+FAQ: How do I revise my submission in Editorial Manager?
+
+https://service.elsevier.com/app/answers/detail/a_id/28463/supporthub/publishing/
+
+FAQ: How can I reset a forgotten password?
+https://service.elsevier.com/app/answers/detail/a_id/28452/supporthub/publishing/kw/editorial+manager/
+
+For further assistance, please visit our customer service site: https://service.elsevier.com/app/home/supporthub/publishing/. Here you can search for solutions on a range of topics, find answers to frequently asked questions, and learn more about Editorial Manager via interactive tutorials. You can also talk 24/7 to our customer support team by phone and 24/7 by live chat and email.
+
+At Elsevier, we want to help all our authors to stay safe when publishing. Please be aware of fraudulent messages requesting money in return for the publication of your paper. If you are publishing open access with Elsevier, bear in mind that we will never request payment before the paper has been accepted. We have prepared some guidelines (https://www.elsevier.com/connect/authors-update/seven-top-tips-on-stopping-apc-scams ) that you may find helpful, including a short video on Identifying fake acceptance letters (https://www.youtube.com/watch?v=o5l8thD9XtE ). Please remember that you can contact Elsevier s Researcher Support team (https://service.elsevier.com/app/home/supporthub/publishing/) at any time if you have questions about your manuscript, and you can log into Editorial Manager to check the status of your manuscript (https://service.elsevier.com/app/answers/detail/a_id/29155/c/10530/supporthub/publishing/kw/status/).
+
+#AU_RPC#
+
+To ensure this email reaches the intended recipient, please do not delete the above code
