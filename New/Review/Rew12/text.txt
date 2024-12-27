@@ -1,1 +1,54 @@
-Робота присвячена
+В роботі представлено огляд методів виявлення дефектів у solar modules. Основна увага зосереджена на методах, які передбачають аналіз зображень, отриманих різноманітними шляхами. На мій погляд, це достатньо цікава ідея, проте реалізована не достатньо добре. Більшість питань, які згадуються у огляді, розглянуті надто коротко. Фактично, у кожному випадку необхідно звертатися до посилань. З іншого боку, наведена інформація не є новою порівняно з іншими вже опублікованими оглядами. На мій погляд, роботу варто відхилити.
+
+Крім того, хотілося б звернути увагу на низку незначних недоліків.
+
+ і щоб отримати детельнішу інформацію необхідно рухатися за наведеними посиланнями.
+Зокрема, можна виділити наступні недоліки.
+
+1. В манускрипті сказано, що рис.1 взятий з роботи [2]. Проте зображення в оригіналі не відповідає тому, яке представлено в роботі. Крім того, опис цього рисунка ("The operation of photovoltaic installations can be divided into three
+categories: those connected to the grid and those operating as stand-alone systems." - see page 2, lines 9-10) не відповідає тому, що зображено.
+
+2. В тексті рис.2 пов'язується з роботою [3]. Але представлена на рис.2 hierarchy of potential faults суттєво відрізняється від тієї, яка запропонована авторами [3].
+
+
+Робота містить розділ "Proposed structure for the review". Це чудова ідея: попередити читача про наміри автора. Проте цей розділ розташовано після first section, який  "... provides an overview of the various types of photovoltaic
+systems, categorized according to their installation and connection." (page 3, lines 4-5). Зазначу, що вказаний огляд дуже поверховий.
+
+
+В роботі сказано "The visual inspection process...is more accurate and effective than other available techniques [22]." (page 5, lines 45-48). По-перше, це твердження достатньо спірне. По-друге, це твердження відсутнє в [22] (там чказано "visual inspection is the quickest and convenient way to detect defects in a solar panel" or "visual inspection is an inexpensive method").
+
+
+В частині 2 методи visual inspection та сurrent-voltage (I-V) curve analysis відносяться до різних способів визначення дефектів. Водночас, в 3.1 стверджується що один з варіантів visual techniques  полягає у аналізі IV curves.
+
+
+Чим "aerial images" відрізняються від "visual inspection"? Відповідно до рис.3 це різні методи характеризації photovoltaic system.
+
+
+Розділ 3.2 займає приблизно третю частину роботи. Він містить приведено описи різноманітних методик отримання зображень photovoltaic moduls. Проте це абсолютно не нова інформація, яка опублікована вже багато разів. Наприклад початок розділу 3.2.2 надзвичайно близький до початку розділу 5.5 з [https://doi.org/10.1016/j.rser.2021.111532]. Рисунки 5, 9, 11, 13, 16 
+аналогічні наведеним у вищезгаданій роботі. Так, автори рукопису роблять посиланння. Але навіщо намагатися опублікувати те, що вже існує повторно?
+
+
+До речі, як у рецензованому рукописі (рис.9), так і в [https://doi.org/10.1016/j.rser.2021.111532] (рис.14) сказано про необхідність фільтру, який нібито присутній на рисунку. Проте фільт відсутній в обох випадках. Тобто мова йде про те, що помилки повторюються також.
+
+
+
+
+Electroluminescence (EL) is an optical and electrical phenomenon in
+which a material emits light in response to the passage of an electric current or
+a strong electric field. When investigating PV modules, the current is fed into a
+solar cell/module, and radiative recombination of carriers causes light
+emission.” [45]. A direct current is supplied to the EL methods, which
+stimulates radiative emission in the PV module [117]. The stimulating
+emission is captured by a 1-megapixel scientific-grade multiple CCD
+cameras [Andor model, Luca-R] and a 640 ? 480 pixel-based scientific-grade InGaAs camera array [Sinfrared Model, Xeva 1.7–760] [118].
+The whole EL imaging arrangement is placed in a dark atmosphere
+because the PV cell’s emitted radiation is lower than the background
+lighting.
+
+
+he third section addresses
+the detection of faults in photovoltaic modules using visual inspection techniques, which are classified
+into two categories. The first category relies on the examination of electrical characteristics, while the
+second category employs imaging techniques, which are discussed in greater detail.
+
+На мій погляд, стаття більше нагадує студентську роботу і не відповідає рівню "Solar Energy".
