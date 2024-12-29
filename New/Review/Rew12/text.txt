@@ -1,11 +1,9 @@
 В роботі представлено огляд методів виявлення дефектів у solar modules. Основна увага зосереджена на методах, які передбачають аналіз зображень, отриманих різноманітними шляхами. На мій погляд, це достатньо цікава ідея, проте реалізована не достатньо добре. Більшість питань, які згадуються у огляді, розглянуті надто коротко. Фактично, у кожному випадку необхідно звертатися до посилань. З іншого боку, наведена інформація не є новою порівняно з іншими вже опублікованими оглядами. На мій погляд, роботу варто відхилити.
 
-Крім того, хотілося б звернути увагу на низку незначних недоліків.
+Крім того, хотілося б звернути увагу на низку різноманітних недоліків.
 
- і щоб отримати детельнішу інформацію необхідно рухатися за наведеними посиланнями.
-Зокрема, можна виділити наступні недоліки.
 
-1. В манускрипті сказано, що рис.1 взятий з роботи [2]. Проте зображення в оригіналі не відповідає тому, яке представлено в роботі. Крім того, опис цього рисунка ("The operation of photovoltaic installations can be divided into three
+1. В манускрипті сказано, що рис.1 взятий з роботи [2]. Проте зображення в оригіналі не відповідає тому, яке представлено в роботі [2]. Крім того, опис цього рисунка ("The operation of photovoltaic installations can be divided into three
 categories: those connected to the grid and those operating as stand-alone systems." - see page 2, lines 9-10) не відповідає тому, що зображено.
 
 2. В тексті рис.2 пов'язується з роботою [3]. Але представлена на рис.2 hierarchy of potential faults суттєво відрізняється від тієї, яка запропонована авторами [3].
@@ -15,7 +13,7 @@ categories: those connected to the grid and those operating as stand-alone syste
 systems, categorized according to their installation and connection." (page 3, lines 4-5). Зазначу, що вказаний огляд дуже поверховий.
 
 
-В роботі сказано "The visual inspection process...is more accurate and effective than other available techniques [22]." (page 5, lines 45-48). По-перше, це твердження достатньо спірне. По-друге, це твердження відсутнє в [22] (там чказано "visual inspection is the quickest and convenient way to detect defects in a solar panel" or "visual inspection is an inexpensive method").
+В роботі сказано "The visual inspection process...is more accurate and effective than other available techniques [22]." (page 5, lines 45-48). По-перше, це твердження достатньо спірне. По-друге, це твердження відсутнє в [22] (там cказано "visual inspection is the quickest and convenient way to detect defects in a solar panel" or "visual inspection is an inexpensive method").
 
 
 В частині 2 методи visual inspection та сurrent-voltage (I-V) curve analysis відносяться до різних способів визначення дефектів. Водночас, в 3.1 стверджується що один з варіантів visual techniques  полягає у аналізі IV curves.
@@ -24,31 +22,81 @@ systems, categorized according to their installation and connection." (page 3, l
 Чим "aerial images" відрізняються від "visual inspection"? Відповідно до рис.3 це різні методи характеризації photovoltaic system.
 
 
-Розділ 3.2 займає приблизно третю частину роботи. Він містить приведено описи різноманітних методик отримання зображень photovoltaic moduls. Проте це абсолютно не нова інформація, яка опублікована вже багато разів. Наприклад початок розділу 3.2.2 надзвичайно близький до початку розділу 5.5 з [https://doi.org/10.1016/j.rser.2021.111532]. Рисунки 5, 9, 11, 13, 16 
+Розділ 3.2 займає приблизно третю частину роботи. Він містить описи різноманітних методик отримання зображень photovoltaic moduls. Проте це абсолютно не нова інформація, яка опублікована вже багато разів. Наприклад початок розділу 3.2.2 надзвичайно близький до початку розділу 5.5 з [https://doi.org/10.1016/j.rser.2021.111532]. Рисунки 5, 9, 11, 13, 16 
 аналогічні наведеним у вищезгаданій роботі. Так, автори рукопису роблять посиланння. Але навіщо намагатися опублікувати те, що вже існує повторно?
 
 
 До речі, як у рецензованому рукописі (рис.9), так і в [https://doi.org/10.1016/j.rser.2021.111532] (рис.14) сказано про необхідність фільтру, який нібито присутній на рисунку. Проте фільт відсутній в обох випадках. Тобто мова йде про те, що помилки повторюються також.
 
 
+Класифікації дефектів у photovoltaic system, наведені у Introduction та в розділі 4, відрізняються між собою. Можливо, авторам слід домовитися, яку саме класифікацію слід використовувати.
+
+Посилання на Рис.26 в тексті відсутнє.
+
+Рукопис містить незрозумілі абревіатури (наприклад "PNK" у підписі до рис.25) 
+
+У розділі 4 наведено інформацію про різні типи degradation and failure modes of photovoltaic module components. The third section addresses
+the detection of faults in photovoltaic modules using visual inspection techniques. Але не має взаємозв'язку між цими розділами, зокрема не вказано які методи дозволяють виявити певні типи дефектів.
 
 
-Electroluminescence (EL) is an optical and electrical phenomenon in
-which a material emits light in response to the passage of an electric current or
-a strong electric field. When investigating PV modules, the current is fed into a
-solar cell/module, and radiative recombination of carriers causes light
-emission.” [45]. A direct current is supplied to the EL methods, which
-stimulates radiative emission in the PV module [117]. The stimulating
-emission is captured by a 1-megapixel scientific-grade multiple CCD
-cameras [Andor model, Luca-R] and a 640 ? 480 pixel-based scientific-grade InGaAs camera array [Sinfrared Model, Xeva 1.7–760] [118].
-The whole EL imaging arrangement is placed in a dark atmosphere
-because the PV cell’s emitted radiation is lower than the background
-lighting.
+Достатньо спірним виглядає розділ 5. Він складається з одного абзацу тексту та таблиці. Абзац містить менше 300 слів і включає, окрім іншого, загальну інформацію про застосування машинного навчання у різних range of industries та класифікацію AI models for diagnosing the degradation of solar modules and cells. Класифікація достатньо дивна, зокрема незрозуміло чим відрізняється третя категорія методів від другої.
 
+Також сказано, що "Table 2 presents a comprehensive overview of the existing literature... modes through the application of artificial intelligence (AI) models"
+(до речі, введення скорочення AI в останньому рядку рукопису заслуговує окремої уваги).
+Я дозволю собі не згодитися з епітетом "comprehensive" і пораджу авторам звернути уваги на огляди
+https://doi.org/10.1016/j.rser.2024.114617
+https://doi.org/10.1109/JPHOTOV.2022.3221003
+https://doi.org/10.1109/ACCESS.2023.3298542
+Ці роботи стосуються застосування машинного навчання у photovoltaics загалом, проте містять чимало інформації і про виявлення дефектів зоктема.
 
-he third section addresses
-the detection of faults in photovoltaic modules using visual inspection techniques, which are classified
-into two categories. The first category relies on the examination of electrical characteristics, while the
-second category employs imaging techniques, which are discussed in greater detail.
 
 На мій погляд, стаття більше нагадує студентську роботу і не відповідає рівню "Solar Energy".
+
+
+-------------------------------------------------------------------------------------------------------------------------
+The paper reviews various methods for detecting defects in solar modules, with a primary focus on techniques involving image analysis obtained through different approaches. While this is an intriguing idea, its implementation lacks sufficient depth. Most of the issues highlighted in the review are addressed too briefly, necessitating frequent reference to the cited sources. Additionally, the information provided does not offer significant novelty compared to other published reviews. 
+In my opinion, the manuscript should be rejected.
+
+Furthermore, I would like to point out several specific shortcomings:
+
+1.The manuscript claims that Fig. 1 is taken from reference [2]. However, the image in the original source does not match the one presented in the manuscript. Moreover, the description of this figure ("The operation of photovoltaic installations can be divided into three categories: those connected to the grid and those operating as stand-alone systems." – see page 2, lines 9–10) does not align with the content of the figure.
+
+2.The text attributes Fig. 2 to reference [3]. However, the "hierarchy of potential faults" depicted in Fig. 2 differs significantly from the version proposed by the authors of reference [3].
+
+3.The manuscript includes a section titled "Proposed Structure for the Review." This is an excellent idea, as it provides readers with a clear understanding of the author's intentions. However, this section is positioned after the first section, which "provides an overview of the various types of photovoltaic systems, categorized according to their installation and connection" (page 3, lines 4–5). It is worth noting that this overview is very superficial.
+
+4.The manuscript also states, "The visual inspection process...is more accurate and effective than other available techniques [22]" (page 5, lines 45–48). First, this claim is highly controversial. Second, this statement is not supported by reference [22], which only mentions that "visual inspection is the quickest and most convenient way to detect defects in a solar panel" or that "visual inspection is an inexpensive method."
+
+5.In Section 2, visual inspection and current-voltage (I-V) curve analysis are categorized as distinct approaches to defect detection. However, in Section 3.1, it is stated that one variation of visual techniques involves the analysis of I-V curves, creating inconsistency.
+
+6.How do "aerial images" differ from "visual inspection"? According to Fig. 3, these are presented as distinct methods for characterizing photovoltaic systems.
+
+7. Section 3.2 occupies approximately one-third of the manuscript and describes various methods for obtaining images of photovoltaic modules. However, this information is entirely unoriginal and has been published multiple times before. For example, the beginning of Section 3.2.2 closely resembles the Section 5.5 in [https://doi.org/10.1016/j.rser.2021.111532]. Additionally, Figures 5, 9, 11, 13, and 16 in the manuscript are analogous to figures from the referenced work. While the authors cite the original source, one must question the purpose of republishing widely available information.
+
+Furthermore, both the reviewed manuscript (Fig. 9) and [https://doi.org/10.1016/j.rser.2021.111532] (Fig. 14) refer to the necessity of a filter that is purportedly shown in the figure. However, the filter is absent in both cases, suggesting that errors are being propagated as well.
+
+8. The classifications of defects in photovoltaic systems provided in the Introduction and Section 4 differ from each other. The authors should consider adopting a single, consistent classification. 
+
+9. The manuscript contains unclear abbreviations, such as "PNK" in the caption of Fig. 25, which are not explained.
+
+10. Section 4 discusses various types of degradation and failure modes in photovoltaic module components, while Section 3 focuses on detecting faults in photovoltaic modules using visual inspection techniques. However, there is no clear connection between these sections. Specifically, the manuscript does not indicate which detection methods are suitable for identifying particular types of defects.
+
+11. Section 5 is notably problematic. It comprises only a single paragraph and a table. The paragraph, containing fewer than 300 words, provides general information about the application of machine learning across different industries and presents a classification of AI models for diagnosing the degradation of solar modules and cells. However, the classification is confusing, as it is unclear how the third category of methods differs from the second.
+
+It is also stated that "Table 2 presents a comprehensive overview of the existing literature on... modes through the application of artificial intelligence (AI) models" (by the way,, the introduction of the abbreviation AI in the last line of the manuscript warrants special attention). I would respectfully disagree with the epithet "comprehensive" and suggest that the authors consider the following reviews: 
+https://doi.org/10.1016/j.rser.2024.114617 
+https://doi.org/10.1109/JPHOTOV.2022.3221003 
+https://doi.org/10.1109/ACCESS.2023.3298542 
+These works focus on the application of machine learning in photovoltaics in general, but they also contain a significant amount of information on defect detection. 
+
+
+Strengths:
+The idea of the manuscript: a review of defect detection methods for solar modules based on image analysis.
+
+Weaknesses:
+Superficial overview. Lack of novelty.
+
+
+In my opinion, the article resembles a student-level work and falls short of the standards expected in Solar Energy.
+
+
