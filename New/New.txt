@@ -17,5 +17,10 @@ https://doi.org/10.1063/5.0226632
 ! https://doi.org/10.1007/s10723-023-09668-9
 
 
-
-
+https://doi.org/10.1103/PhysRevB.110.L020102
+https://doi.org/10.1103/PhysRevB.110.035206
+! https://doi.org/10.1103/PhysRevB.110.064101
+https://doi.org/10.1103/PhysRevB.110.L081201
+https://doi.org/10.1103/PhysRevB.110.115306
+https://doi.org/10.1103/PhysRevB.110.125207
+! https://doi.org/10.1103/PhysRevB.110.155203
