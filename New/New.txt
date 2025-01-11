@@ -24,3 +24,16 @@ https://doi.org/10.1103/PhysRevB.110.L081201
 https://doi.org/10.1103/PhysRevB.110.115306
 https://doi.org/10.1103/PhysRevB.110.125207
 ! https://doi.org/10.1103/PhysRevB.110.155203
+https://doi.org/10.1103/PhysRevApplied.22.024041
+https://doi.org/10.1103/PhysRevApplied.22.064014
+
+
+https://10.1088/1361-6463/ad7d98
+
+https://doi.org/10.1002/pssa.202400484
+
+https://doi.org/10.1002/solr.202400567
+
+https://doi.org/10.1002/solr.202400668
+
+https://doi.org/10.1109/JPHOTOV.2024.3483258
