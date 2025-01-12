@@ -1,0 +1,8 @@
+The article 'Lightweight Vision Architecture with Mutual Distillation for Robust Photovoltaic Defect Detection in Complex Environments' presents valuable research in the field of detecting defects in solar panels. This study introduced a deep learning model, SCRViT, that can detect defects of PV modules on low-quality EL images with enhanced detection accuracy. However, despite its promising results, there are areas where the research could be further improved before it is ready for publication.
+
+1) Please add references for the paragraph starting with "However, UAV-based EL detection......" from row number 55-59 of the First page.
+2) Please provide references for the paragraph starting with "Current deep learning approaches..." from rows 25 to 35 of the Second page.
+3) Please add an elaboration of CNN and other keywords which are extensively used.
+4) The article discusses environmental challenges. Could it provide more details on how these challenges were specifically addressed during the experiments? Including examples of the model's performance under different conditions would make the research more practically relevant.
+5) Please provide references for equations wherever necessary.
+6) Visualization of this research could be improved with a flowchart which would help to clarify complex concepts and make it more engaging for readers. 

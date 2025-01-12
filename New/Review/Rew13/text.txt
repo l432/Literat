@@ -1,3 +1,26 @@
 olikh
 e2662421O%
 
+В рукописі пропонується нова архітектура глибокої мережі, орієнтованої на обробку EL image of photovoltaic modules.
+Робота цікава та добре оформлена. Автори детально аналізують запропоновану архітектуру, зупиняючись на кожному з логічних блоків. В рукописі наведено результати тестування з використанням різних наборів зображень і обчислювальних пристроїв, а також порівняння якості перебачень запропонованої мережі з низкою інших. Загалом, робота може бути опублікована і вимагає лише minor revision. Необхідні виправлення пов'язані з певними недоліками, вказаними нижче.
+
+1. Для тестування в роботі використаний simulated UAV Dataset. При підготовці цього набору автори намагалися to simulate actual imaging conditions, спотворюючи ідельні зображення. На мій погляд доцільним є показати наскільки внесені спотворення дійсно відтворюють реальні EL image.
+
+2. В роботі також згадується Industrial Practice Dataset. Зображення, що входять до цього набору, captured using highprecision CCD cameras. Протев самому рукописі на жаль не наведено жодного прикладу подібного зображення.
+
+3. В останному параграфі на сторінці 11 декілька разів згадується рисунок 9. Насправді там має бути рис.8.
+
+4. Варто вказати, яким чином була реалізована вказана мережа. Крім того, надзвичайно корисним для наукової спільноти була б можливість ознайомитися безпосередньо з кодом, включаючи тести.
+
+
+
+This manuscript proposes a novel deep-learning architecture for processing electroluminescence (EL) images of photovoltaic modules. The work is interesting and well-structured. The authors provide a detailed analysis of the proposed architecture, thoroughly explaining each component. The manuscript presents comprehensive testing results using diverse image datasets and computational platforms, comparing the proposed network's predictive performance against several other models. The work is suitable for publication after minor revisions. These are detailed below.
+
+1.The study uses a simulated UAV dataset for testing. While the authors attempted to simulate realistic imaging conditions by introducing distortions to ideal images, demonstrating the fidelity of these distortions to real-world EL image characteristics would strengthen the study.
+
+2.The manuscript also mentions an Industrial Practice Dataset comprising images captured with high-precision CCD cameras. Including examples of these images would enhance clarity.
+
+3.The final paragraph on page 11 repeatedly references Figure 9; this should be corrected to Figure 8.
+
+4.The manuscript should clarify the implementation details of the proposed network. 
+Making the code, including the testing procedures, publicly available would significantly benefit the scientific community.
