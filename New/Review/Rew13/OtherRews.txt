@@ -6,3 +6,83 @@ The article 'Lightweight Vision Architecture with Mutual Distillation for Robust
 4) The article discusses environmental challenges. Could it provide more details on how these challenges were specifically addressed during the experiments? Including examples of the model's performance under different conditions would make the research more practically relevant.
 5) Please provide references for equations wherever necessary.
 6) Visualization of this research could be improved with a flowchart which would help to clarify complex concepts and make it more engaging for readers. 
+
+
+Ms. Ref. No.: SEJ-D-24-04166
+Title: Lightweight Vision Architecture with Mutual Distillation for Robust Photovoltaic Defect Detection in Complex Environments
+Corresponding author: ********
+
+Dear ******** ********,
+
+The reviews of your paper are now complete, and it is the recommendation of the reviewers that the manuscript is not acceptable in the present form. The reviewers have suggested that several revisions be made before it can be reconsidered for publication. The reviewers' comments are flowed below, and you should also check your account on the journal website for any additional comments that the reviewers may have provided.
+
+If you wish to address the reviewers' comments, please submit a revised manuscript addressing all the reviewers' comments. Along with your revised manuscript, please submit the following:
+1. Detailed point-by-point response to each reviewer's comment with clear identification of the page number in the revised manuscript where the change has been made. Please note that you are not having a dialog with the reviewer. You need to address each comment at appropriate locations in the revised manuscript for a potential reader with the same question. Please follow the example in https://tinyurl.com/reviewer-responses
+2. Marked manuscript highlighting the changes made and including marginal annotations next to each change, identifying the reviewer number and the comment number corresponding to the change. Please note that a track-changed document is not sufficient. Please follow the example in https://tinyurl.com/marked-manuscript
+3. Unmarked clean version of your revised manuscript. Please DO NOT include the original manuscript with your revised submission.
+
+Please make sure that your revised submission PDF file is assembled exactly in the following order:
+1. Responses to Reviewers' Comments
+2. Marked manuscript
+3. Highlights
+4. Unmarked manuscript
+5. Tables
+6. Figures
+7. Supplementary material, if any (optional)
+8. Other files, if any (DO NOT INCLUDE ORIGINAL SUBMISSION)
+
+For timely processing, I look forward to your revised submission in the next 21 days. If you need additional time, please advise. Your revised submission will be subject to review prior to a final decision.
+
+Yours sincerely,
+
+Claudio Del Pero
+Associate Editor
+Solar Energy
+
+
+Reviewers' comments:
+
+%ATTACH_FOR_REVIEWER_DEEP_LINK INSTRUCTIONS%
+
+
+Reviewer #1: This manuscript introduces a lightweight deep learning model, SCRViT, designed to detect photovoltaic defects in low-quality electroluminescence (EL) images. Extensive experiments and interpretability studies validate the efficiency and effectiveness of the proposed method.
+
+Questions:
+1. Is there any difference in detection accuracy based on the method for different types of defects, such as microcracks, broken grid lines, dark spots, etc.? Are there any related experiments?
+
+2. In section 3.2, there is a point that "This adaptive feature reconstruction mechanism aligns precisely with the characteristics of EL image defect detection tasks, effectively addressing image quality issues cause by environmental factors".
+Could you please elaborate on the "align precisely" and how to "effectively addressing"?
+
+3. In the simulated UAV dataset, what is the reference basis of the image degradation operations for UAV-based inspection scenarios? What is the basis for determining the parameters? For instance, how to reflect the influence of the UAV's flight altitude, as well as the impact of pollution in the usage environment on photovoltaic panels.
+
+4. The descriptions for Figure 6 does not match the actual contents.
+
+
+
+Reviewer #2: The article 'Lightweight Vision Architecture with Mutual Distillation for Robust Photovoltaic Defect Detection in Complex Environments' presents valuable research in the field of detecting defects in solar panels. This study introduced a deep learning model, SCRViT, that can detect defects of PV modules on low-quality EL images with enhanced detection accuracy. However, despite its promising results, there are areas where the research could be further improved before it is ready for publication.
+
+1) Please add references for the paragraph starting with "However, UAV-based EL detection......" from row number 55-59 of the First page.
+2) Please provide references for the paragraph starting with "Current deep learning approaches..." from rows 25 to 35 of the Second page.
+3) Please add an elaboration of CNN and other keywords which are extensively used.
+4) The article discusses environmental challenges. Could it provide more details on how these challenges were specifically addressed during the experiments? Including examples of the model's performance under different conditions would make the research more practically relevant.
+5) Please provide references for equations wherever necessary.
+6) Visualization of this research could be improved with a flowchart which would help to clarify complex concepts and make it more engaging for readers.
+
+
+
+Reviewer #3: This manuscript proposes a novel deep-learning architecture for processing electroluminescence (EL) images of photovoltaic modules. The work is interesting and well-structured. The authors provide a detailed analysis of the proposed architecture, thoroughly explaining each component. The manuscript presents comprehensive testing results using diverse image datasets and computational platforms, comparing the proposed network's predictive performance against several other models. The work is suitable for publication after minor revisions. These are detailed below.
+
+1.The study uses a simulated UAV dataset for testing. While the authors attempted to simulate realistic imaging conditions by introducing distortions to ideal images, demonstrating the fidelity of these distortions to real-world EL image characteristics would strengthen the study.
+
+2.The manuscript also mentions an Industrial Practice Dataset comprising images captured with high-precision CCD cameras. Including examples of these images would enhance clarity.
+
+3.The final paragraph on page 11 repeatedly references Figure 9; this should be corrected to Figure 8.
+
+4.The manuscript should clarify the implementation details of the proposed network.
+Making the code, including the testing procedures, publicly available would significantly benefit the scientific community.
+
+
+The reviewer(s) may also have uploaded detailed comments on your manuscript as an attachment. To access these comments, please go to: https://www.editorialmanager.com/sej/ . Click on 'Author Login'. Click on 'View Reviewer Attachments' (if present).
+
+At Elsevier, we want to help all our authors to stay safe when publishing. Please be aware of fraudulent messages requesting money in return for the publication of your paper. If you are publishing open access with Elsevier, bear in mind that we will never request payment before the paper has been accepted. We have prepared some guidelines (https://www.elsevier.com/connect/authors-update/seven-top-tips-on-stopping-apc-scams ) that you may find helpful, including a short video on Identifying fake acceptance letters (https://www.youtube.com/watch?v=o5l8thD9XtE ). Please remember that you can contact Elsevier?s Researcher Support team (https://service.elsevier.com/app/home/supporthub/publishing/) at any time if you have questions about your manuscript, and you can log into Editorial Manager to check the status of your manuscript (https://service.elsevier.com/app/answers/detail/a_id/29155/c/10530/supporthub/publishing/kw/status/).
+#AU_SEJ#
