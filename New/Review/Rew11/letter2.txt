@@ -1,0 +1,166 @@
+
+
+
+I am not ready to evaluate the manuscript positively.
+
+The author has omitted responses to my ( Reviewer 1) comments in the submitted manuscript.
+The manuscript has a section “Response to Reviewer 1”. However, it does not address my comments. 
+
+I confirm that none of the other response files contain references to my comments either.
+
+I am attaching my comments along with the corresponding responses for you to look over. They don't match!!!
+
+My Comments:
+
+1. The study investigates changes in the ideality factor, determined by approximating experimental IV characteristics using a single-diode model. However, the description does not clarify whether shunt resistance Rsh was considered during the approximation. The changes observed in the IV curves presented in Fig. 1 might be linked to variations in Rsh value. Additionally, it is well known that a double-diode model is often more appropriate for silicon solar cells. The shape of the IV curves presented in Fig.1 suggests that this approach may be more suitable. Furthermore, in the double-diode model, the ideality factor of each diode is associated with recombination processes occurring in distinct regions of the solar cell (the space-charge region and the quasi-neutral region). Therefore, applying the double-diode model to analyze the obtained results would be highly beneficial.
+
+2. Unfortunately, the study does not include the results of measuring the dark and illuminated IV curves of unirradiated solar cells before and after a 52-month at room temperature. The observed enhancement in blue response might not be related to the reconstruction of radiation-induced defects. Similar effects could result from changes in the defect structure introduced during solar cell fabrication or laser-based sample cutting.
+
+3. For electron irradiation at an energy of 8 MeV, uniform defect formation is expected throughout the 160 ?m thick silicon layer. Why, then, are the changes in Jsc and VocV attributed solely to the recombination centers in the base? Defects introduced in the emitter region would also be expected to influence the solar cell's performance.
+
+4. In the study, the enhancement in blue response is attributed to the formation of positive charges. However, it is unclear why the formation of these defects does not affect the barrier height, as the reverse C-V curves in Fig. 7 remain unchanged. Typically, the introduction of positive charges in the space-charge region would be expected to modify the barrier height, resulting in changes to the C-V characteristics. The authors should provide a clear explanation for why the observed enhancement in blue response is not accompanied by alterations in the barrier height, as indicated by the unchanged C-V curves.
+
+5. The defects that form in silicon during electron irradiation are well-documented. In my opinion, it is important to discuss which specific defects or defect reconstructions are responsible for the observed changes in photovoltaic parameters, such as radiation-induced degradation and the self-healing effect. A detailed analysis of the potential defects involved—such as the A-center, E-center, divacancies, and other radiation-induced defects—would provide a deeper understanding of the underlying mechanisms and significantly strengthen the study's conclusions.
+
+6. A suggested improvement is to combine the data from Table 2 and Table 3 into a single table. This approach would enable a more concise and reader-friendly presentation of the results, facilitating direct comparisons.
+
+-------------------------------
+
+Responce:
+
+C1) In general, solar cells for space application are tested under conditions based on the
+environment of a satellite in a geostationary orbit (GEO) (at a distance of ~ 36000 km) or low
+earth orbit (LEO) (at a distance of ~ 500 – 2000 km): 1 MeV electron irradiation with fluence
+10 13 – 10 16 e/cm 2 . Why in this study was chosen as the electron irradiation 8 MeV with a
+fluence of 1.6·10 11 cm -2 ?
+A1) We appreciate reviewer comments. Firstly, we realized that the fluence level in the
+manuscript mistakenly calculated of 1.6x10 11 cm -2 , the fluence is recalculated and corrected.
+Recalculated fluences of 225, 450, 675 and 900 Gy corresponding to 1.8x10 14 to 7.2x10 14 cm -2
+for the lowest and highest irradiation levels respectively. The correction was done on the
+manuscript also in the experimental section.
+The reviewer totally right about energy of the electron irradiation standards which is mostly
+done using 1 MeV. While the typical range for space applications lies up to10 MeV, our
+decision was made to study a distinct energy level (8 MeV) to investigate the potential effects
+of this energy on the solar cell&#39;s performance, with the goal of contributing new insights to the
+understanding of radiation impacts across a broader range of energies. We believe this
+approach provides valuable data for potential applications in various space environments and
+radiation levels. Moreover, using 8 MeV electrons allows us to also bulk related effects deep
+inside the device more comprehensively compared to 1 MeV whose damage limited to the
+near surface regions compared to 8 MeV case.
+
+C2) In section 2 (on page 6, line from 26 to 33), electron beam conditions are described.
+However, there is no information about the uniformity of the beam. Please mention about
+beam size and its uniformity, also temperature of Si solar cell during the irradiation.
+A2) In an area of 20x20 cm 2 the electron beam is uniform. Irradiation was done at room
+temperature, and we did not measure temperature rise in the cells during irradiation.
+
+Depending on the Ref, we expect that the maximum temperature of the cells during the
+irradiations below 30 0 C (Arjhangmehr and Feghhi, 2014).
+Arjhangmehr, A., Feghhi, S.A.H., 2014. Displacement damage analysis and modified electrical
+equivalent circuit for electron and photon-irradiated silicon solar cells. Radiation Effects and
+Defects in Solids 169, 874–884. https://doi.org/10.1080/10420150.2014.958743
+
+C3) In section 3 &quot;Results and discussions&quot; given information about the illuminated I-V
+characteristics of Si solar cells under AM1.5G condition before and after electron irradiation.
+However, there is no information about the light J-V characteristics under AM0 condition,
+because light J-V characteristics were conducted under AM0 condition for space use.
+A3) Since we do not have the AM0 filter to directly measure the light J-V characteristics
+under AM0 conditions for space applications, we conducted measurements under AM1.5G
+conditions instead. Although the AM1.5G spectrum is not identical to AM0, it is widely used
+for terrestrial applications and provides a good approximation for relative performance. By
+analyzing the J-V characteristics under AM1.5G, we were able to observe the general
+behavior of the solar cell and extrapolate its potential performance under AM0 conditions.
+This relative comparison allows us to gain insights into how the cell might perform in space,
+despite the lack of direct AM0 measurements.
+C4) It would be better if could give graphs of the light J-V characteristics of Si solar cell
+before and after laser cutting under AM0 condition, since after cutting a solar cell with an area
+of 15.6 x 15.6 cm 2 into small area of 2.8 cm 2 to conduct investigation, efficiency of solar cell
+decreases due to damage of cell edges. Also, could you give the information on temperature
+during laser cutting and leakage current after laser cutting?
+A4) Since we do not have the AM0 filter to directly measure the light J-V characteristics
+under AM0 conditions for space applications, we conducted measurements under AM1.5G
+conditions instead. Although the AM1.5G spectrum is not identical to AM0, it is widely used
+for terrestrial applications and provides a good approximation for relative performance.
+Therefore, we could give the full wafer cell I-V curve under AM1.G given below. As
+reviewer said after laser cut the efficiency off small size cells degraded compared to the un-
+cut large area cell. The laser cut was done at room temperature; however, we have no idea
+about the cell temperature exactly during cut. The temperature at the laser spot strike could
+reach a few thousand 0 C, however we have no knowledge about exact value. We did not
+measure dark I-V of full wafer size cell before cutting, however depending on similar cells
+fabricated that time, we just guess the leakage current could about 1x10 -6 - 3x10 -6 A/cm 2 at
+about -0.75, -1 V. After laser cut this current increased to 0.5x10 -5 – 1x10 -5 A/cm 2 varying cell
+to cell.
+
+C5) It is not clear why the FF value does not change after electron irradiation (Fig.
+3a). It is known that FF depends on the series and shunt resistance of the solar cell.
+Usually, the value of series resistance changes after radiation, which is shown in Fig.
+4.
+A5) Figure 4 becomes Figure 5 in revised manuscript. Thanks to the reviewer for his
+comment on FF value after irradiation. The series resistance after irradiation tends to change
+with irradiation as depicted in Figure 5. The observation that the FF value remains unchanged,
+despite the expectation of changes in series resistance due to radiation, is indeed intriguing.
+In our study, the unchanged FF value can be attributed to a balance between the competing
+effects of series and shunt resistances. The unirradiated cells were measured after laser cut on
+the same day, however irradiation was done at another city and measurements done on the
+cells after 1 day of irradiation (the situation refers to just after irradiation). Three days pass
+between laser cut and measurement done on irradiated cells. During these three days there
+might be changes on the surface of the laser cut edges and irradiation could boost these
+changes (possibility of metal deposition (Al, Ag) and oxidation etc. On the edge surface).
+Almost similar behavior is also observed in Ref (Bhat et al., 2014) where electrons with 8
+MeV energy and the used fluence is much higher used in this study.
+
+Bhat, P.S., Rao, A., Krishnan, S., Sanjeev, G., Puthanveettil, S.E., 2014. A study on the variation of
+c-Si solar cell parameters under 8 MeV electron irradiation. Solar Energy Materials and Solar
+Cells 120, 191–196. https://doi.org/10.1016/j.solmat.2013.08.043
+ 
+
+C6) In the section 3 “Results and discussions” given photo J-V curves of solar cells
+under AM1.5G condition before and just after and after 52 months of electron
+irradiation with different doses. It is not clear why just after electron irradiation the FF
+values do not change with irradiation dose, while the Jsc values decrease. When
+measurements are conducted 52 weeks after irradiation, Jsc remains unchanged,
+while FF decreases.
+A6) We appreciate the reviewer’s detailed observation regarding the changes in Jsc and FF
+values before, just after, and 52 weeks after electron irradiation.
+The unchanged FF values just after irradiation, despite a decrease in Jsc, can be explained by
+the nature of radiation-induced damage. Electron irradiation primarily introduces defects in
+the bulk and at interfaces, which influence carrier recombination rates. The initial decrease in
+Jsc is likely due to increased recombination and reduced carrier lifetime. However, the FF
+value may remain unchanged immediately after irradiation because the changes in series and
+shunt resistances—key factors that influence FF—are minimal at this stage or are balanced
+out.
+After 52 weeks, the decrease in FF could be attributed to the evolution of defect states over
+time, which affects the electrical properties of the solar cell. Radiation-induced defects may
+undergo annealing or recombination (defect-defect recombination) with time, altering the
+series and shunt resistances and leading to a degradation in FF. On the other hand, the stability
+of Jsc at this stage suggests that the carrier collection mechanisms have stabilized, likely due
+to a partial recovery of carrier lifetimes or reduced defect activity over time.
+We acknowledge that this behavior is complex and depends on multiple factors, including the
+dose of irradiation, defect dynamics, and the material properties of the solar cell. Further
+studies focusing on the time-dependent behavior of defects and their impact on electrical
+parameters would provide deeper insights into this phenomenon.
+
+C7) It would be better if could provide data on the lifetime or diffusion lengths of
+minority carriers before and after electron irradiation, since these parameters are the
+main ones. On page 12, line 40-47.
+A7) By using EQE curves of the cells, we calculated diffusion lengths of the cells for long
+wavelength limits. The results of calculations are presented in the manuscript.
+
+C8) It would be better if could provide information about the energy, capture cross-section
+and concentration of defects in the silicon substrate that have formed after electron irradiation
+A8) We thank to reviewer for his/her valuable comment. Actually, measurements were taken
+between 1 kHz to 100 kHz frequency range. However, any change has been observed in the
+curves of different frequency. Below C-V and G-V measurement results one of the
+unirradiated cells is given for 1 kHz, 10 kHz and 100 kHz. The lack of significant variation
+between 1 kHz and 100 kHz suggests that the dominant processes are fast and not limited by
+carrier trapping or slow defect dynamics. Which may be due to the edges of the cells. When
+cells cut from a full wafer cell, the edges of the cells degraded, and metal residues or metal/Si
+
+phases may form around the edge. Which could screen the response of the defects with
+respect to frequency change under overall response of the cells. The C-V and G/?-V
+measurements at 100 kHz provide macroscopic insight into the electronic behavior of the
+irradiated cells, primarily revealing overall changes in carrier transport and defect-related
+recombination mechanisms. However, the specific energy levels, capture cross-sections, and
+concentrations of defects require additional frequency-dependent or temperature-dependent
+measurements for precise extraction. Also detailed DLTS measurements required for detailed
+defect analysis.
