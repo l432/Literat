@@ -45,4 +45,25 @@
 
 Íà ìîþ äóìêó ðóêîïèñ ïîòðåáóº minor revision.
 
+----------------
+The work addresses a highly relevant topic—perovskite solar cells. Specifically, the authors investigate one of the technological stages in the fabrication of such structures and attempt to identify conditions for optimizing the infiltration of the scaffold layer with perovskite material. The study is engaging and presents results with potential practical applications, although some aspects remain unclear.
 
+Several concerns arise:
+
+1.Why does a portion of the film remain filled when V1 > V2 (Fig. 3a)? Could the material have simply evaporated?
+
+    The claim of having developed a physical model of filling dynamics seems somewhat overstated. At a minimum, basic mathematical expressions describing the relevant processes are necessary.
+
+2. Why is the interface between TiO2 and ZrO2 not considered as a possible nucleation site?
+
+3. The study mentions the formation of a temperature gradient and favorable conditions for top-down crystallization due to the cooling of the upper layers caused by evaporation. Could the authors estimate the temperature difference between the upper and lower parts os layer?
+
+4. Why do the quantities of Pb and I differ significantly in Fig. 5b (e.g., near points 4 and 5, by a factor of three), whereas in Fig. 1 they appear nearly identical? Both figures are supposed to represent the same material, MAPbI3.
+
+5. The layer thickness in Fig. 1a is 8 mkm, while in Fig. 5a it is less than 4 mkm. If the solar cells were fabricated using layers of different thicknesses, the conclusions regarding the effect of porosity cannot be considered well-founded.
+
+6. What exactly is meant by the statement about "enhanced structure stability"? If this refers to the reproducibility of parameters across different samples, data for scaffold films without enhanced filling should also be provided.
+
+7. The criteria for selecting the optimal amount of microspheres (degree of porosity) remain unclear. Likewise, it is unclear why a porosity of 30% is said to result in “excessively small” distances between PS microspheres. The center-to-center distance between spheres should still be at least three times their diameter.
+
+In my opinion, the manuscript requires minor revision.
