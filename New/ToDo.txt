@@ -310,4 +310,10 @@ are nonparametric regression that are capable of modeling linear
 and nonlinear relationships
 (SolRRL_7_2300650, D:\Literat\Stat\AIelements\Using\PV\Rev)
 
+
+77. ACSApplEnerMat_3_10317 (D:\Literat\Stat\AIelements\Using\MLMethod\ML_Metaheuristic)
+поєднання моделе МН та генетичного алгоритму: все добре розписано,
+є слова правильні
+
+
 77. Робота, де використовуються RFECV, SHAP, SISSO та метаеврістичний алгоритм для налаштування параметрів Random Forest - AIPAdv_14_075012 (D:\Literat\Stat\AIelements\Using\MLMethod\SHAP)
