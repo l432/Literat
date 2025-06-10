@@ -317,3 +317,6 @@ and nonlinear relationships
 
 
 77. Робота, де використовуються RFECV, SHAP, SISSO та метаеврістичний алгоритм для налаштування параметрів Random Forest - AIPAdv_14_075012 (D:\Literat\Stat\AIelements\Using\MLMethod\SHAP)
+
+Різні парадигми науки з картинками ApplPhysRev_12_011316 (D:\Literat\Stat\AIelements\Using)
+
