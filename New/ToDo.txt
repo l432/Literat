@@ -322,3 +322,8 @@ and nonlinear relationships
 
 79. Формули для дислокацій (щось в околі теорій Пайєрлса) JAP_137_095102
 (D:\Literat\Stat\Defects\General\Dislocations)
+
+DeepXDE is a library for scientific machine learning and physics-informed learning. 
+
+80. Цікавий метод аналізу послідовних вимірювань (на прикладі характеристик сонячних елементів): lag sequential analysis, the variance sum law, Isolation Forest method (останній - для виявлення аномалій (викидів))
+SolEnerMatSC_274_112950 (D:\Literat\Stat\method\Statistik)
