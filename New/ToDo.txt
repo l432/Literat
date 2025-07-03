@@ -327,3 +327,9 @@ DeepXDE is a library for scientific machine learning and physics-informed learni
 
 80. Цікавий метод аналізу послідовних вимірювань (на прикладі характеристик сонячних елементів): lag sequential analysis, the variance sum law, Isolation Forest method (останній - для виявлення аномалій (викидів))
 SolEnerMatSC_274_112950 (D:\Literat\Stat\method\Statistik)
+
+81. в роботі JAP_137_134502 (D:\Literat\Stat\nanoelectronics\delta_doping)
+- картинки з від'ємним диференційним опором
+- використано open-source TCAD code, Charon
+- вказано на обмеження Arora модель для рухливості... але однаково використовується для областей з низьким рівнем легування
+- розрахунок ВАХ для структур з дельта-шарами (різні механізми враховуються, звуження зони)
