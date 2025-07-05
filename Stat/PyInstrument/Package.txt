@@ -1,0 +1,2 @@
+Pymatgen and Matminer packages  - бібліотеки для отримання параметрів різних матеріалів тощо
+(використовувалася в MattSciEngB_307_117536 наприклад (D:\Literat\Stat\method\SoftWear\SCAPS))
