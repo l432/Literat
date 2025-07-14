@@ -348,3 +348,5 @@ SolEnerMatSC_274_112950 (D:\Literat\Stat\method\Statistik)
 85. В PhysB_696_416606 (або JMatSciMatElectr_32_p13693) багато чого пораховано по частотним залежностям провідності та ємності    не факт, що все правильно (краще подивитись E.H. Nicollian, J.R. Brews, "MOS (Metal Oxide Semiconductor) Physics and Technology", Wiley, 1982, ст.223-...), але підхід комплексний.. можна використати, послатися (D:\Literat\Stat\method\CustomMethod\OnFrequency\G_f)
 
 86. В PhysStatSolRRL_18_2300239 використовуються темнові ВАХ для характеризації деградації сонячних елементів. (PhysStatSolRRL_18_2300239)
+
+87. В огляді SolEnerAdv_5_100084 є щось про охолодження соняних елементів, включно з фазозмінними матеріалами (SolEnerAdv_5_100084)
