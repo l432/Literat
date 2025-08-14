@@ -20,11 +20,3 @@ https://doi.org/10.1103/PhysRevB.110.115306
 https://doi.org/10.1103/PhysRevApplied.22.024041
 
 
-https://doi.org/10.1002/pssa.202400484
-
-https://doi.org/10.1002/solr.202400668
-
-https://doi.org/10.1109/JPHOTOV.2024.3483258
-
-Dung beetle optimizer
- https://doi.org/10.1007/s11227-022-04959-6
