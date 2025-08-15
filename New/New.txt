@@ -6,8 +6,6 @@ https://libgen.pm/ (Working June 2025 – This is a Library Genesis ‘fork’)
 https://libgen.gl/ (Working June 2025 – This is a Library Genesis ‘fork’)
 
 
-https://doi.org/10.1063/5.0225756
-
 https://doi.org/10.1063/5.0226632
 
 https://doi.org/10.1063/5.0232675
