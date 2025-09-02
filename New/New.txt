@@ -6,6 +6,11 @@ https://libgen.pm/ (Working June 2025 – This is a Library Genesis ‘fork’)
 https://libgen.gl/ (Working June 2025 – This is a Library Genesis ‘fork’)
 
 
+ https://doi.org/10.1002/pssr.202400411
+https://doi.org/10.1088/1361-648X/adc77c
+https://10.1109/JPHOTOV.2025.3533901
+https://doi.org/10.1103/PhysRevApplied.23.034051
+
 
 
 
