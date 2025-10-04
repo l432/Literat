@@ -1,0 +1,131 @@
+The work addresses a highly relevant topic — perovskite solar cells. 
+Автори намагаються розробити ML модель, яка буде здатна ефективно передбачати photovoltaic conversion efficiency.
+При цьому використовується декілька цікавих та оригінальних підходів, зокрема застосування Bidirectional Gated Recurrent 
+Units до даних, що не є частовими послідовностями. Проте в робота виглядає не зовсім завершеною, в ній присутні недоліки оформлення  
+та певні аспекти вимагають додаткового пояснення.
+Зокрема, частина з них розглянута нижче.
+
+1. Скорочення PCE зустрічається вже у 50 рядку, 65, 100, 105, 116, 128, 187, тоді як розшифровка проводиться лише в 274.
+
+2. В роботізгадується "SSA optimization process" (line 335), проте що саме ховається за вказаним скорочення залишається невідомим. 
+Є підозра, що це Sparrow Search Algorithm, проте це лише моя підозра, не підтверджена текстом статі.
+
+3. Незрозуміло, що саме відкладено на top шкалах рисунів 6 та 7.
+
+4. Таблиці 1 та 2 доречно звести в одну.
+
+5. Рис.3 перенасичений додатковими графіками, що заважає його розумінню.
+
+6. Незрозуміле призначення рис.9 - автори повинні його проаналізувати і чітко визначити яку корисну інформацію вони з нього отримали.
+
+7. Автори використовують декілька нестандартних підходів при розробці ML моделей, що потребує додаткового пояснення.
+Наприклад, чим кращий використаний у рукописі підхід для визначення найбільш важливих ознак за SHAP algorithm?
+Чому для оптимізації гіперпараметрів Random Forest використаний підхід SSA (метаеврістичний алгоритм ?) замість спеціально розроблених пакетів на кшталт Optuna?
+
+8. Які саме величини були вибрані як найважливіші 4 ознаки? В роботі вказані лише їхні позначення вбазі даних (на кшталт JV_reverse_scan_Jsc), проте незрозуміло що це таке. 
+Звичайно, можна роботи певні припущення, проте це не кращий варіант і в рукописі потрібно підвищити зрозумілість.
+
+9. В Табл.3 порівнюються метрики моделі, розробленої в рецензованій роботі, та інших моделей інших авторів. Але абсолютно незрозуміло  наскільки доречним є подібне порівняння: 
+чи використовували інші автори той самий dataset, чи намагалися вони також передбачити PCE? Якщо це моделі, орієнтовані на передбачення інших параметрів на основі інших даних, 
+то порівняння метрик є абсолютно беззмістовним.
+
+10. Необхідних більш детальний опис використаного процесу Knowledge distillation: на основі чого і що саме намагалася мінімізувати мала модель.
+
+11. Є декілька питань до підготовки даних. А саме, дуже бажано пояснити як саме оброблювалися categorical features. 
+Використовувалися безпосередньо чи перетворювалися у числову форму? Крім того, чи проводилася якась попередня підготовка даних для їхнього
+використання by BiGRU-Attention model?
+
+12. І найголовніше. Який взагалі зміст у розробленій моделі, якщо вона передбачає PCE на основі значень open-circuit voltage, 
+short-circuit current density, and fill factor (JV_default_Jsc, JV_default_FF, JV_reverse_scan_Jsc, and JV_forward_scan_FF - line 328)?
+У випадку, якщо у наявності є всі ці дані, отримані в результаті вимірювання вольт-амперної характеристики реального perovskite solar cells за певних умов освітлення, 
+то PCE розраховується за елементарною формулою
+ PCE = Isc Voc FF / Wlight
+Відповідь, що в переліку JV_default_Jsc, JV_default_FF, JV_reverse_scan_Jsc, and JV_forward_scan_FF відсутня open-circuit voltage не буде задовільною, так 
+як з виміряної ВАХ визначити цю величину надзвичайно просто (навіть простіше ніж запускати ML модель).
+Модель, що передбачає величину PCE на основі загальних характеристик структури (матеріал, товщина шарів тощо) і не потребує реального виготовлення сонячного елементу
+та вимірювання вольт-амперних характеристик має сенс та застосування. Модель, яка на основі виміряних параметрів ВАХ визначає щось неочевидне (наприклад, концентрацію дефектів) - також.
+Модель, яка замінює елементарну формулу змісту немає.
+
+
+In my opinion, the manuscript requires major revision.
+
+
+---------------------------------------------------------------------
+This manuscript addresses a timely topic: the development of high-performance perovskite solar cells. 
+The authors propose a machine learning (ML) model to predict the photovoltaic conversion efficiency (PCE). 
+The methodology incorporates several novel elements, notably the application of bidirectional gated recurrent units to non-temporal tabular data. 
+However, the manuscript in its current form is incomplete: 
+it contains significant formatting and presentation deficiencies, and several important aspects require clarification. 
+The main concerns are as follows:
+
+1.The acronym PCE appears repeatedly early in the text (lines 50, 65, 100, 105, 116, 128, 187) but is defined only at line 274. 
+Define all abbreviations upon first use.
+
+2.The manuscript refers to an "SSA optimization process" (line 335) without defining SSA. 
+If SSA denotes the Sparrow Search Algorithm, state this explicitly, provide a brief description of the method, and cite the original source.
+
+3. The quantity plotted on the top axes of Figures 6 and 7 is not labeled or described in the captions or the main text. 
+Add axis labels and a concise explanation in the figure captions.
+
+4. Tables 1 and 2 present related information that would be clearer if combined into a single table.
+
+5. Figure 3 contains an excessive number of subplots, which reduces legibility. 
+
+6. The purpose of Figure 9 is unclear. The authors should add a focused analysis  that explains the specific insights or conclusions drawn from this figure.
+
+7. The authors employ several non-standard methodologies in developing the ML models, 
+which require further technical justification. In particular, a comparative analysis is needed to demonstrate the advantage of the feature-importance 
+approach adopted in this study over established techniques such as the SHAP algorithm. 
+Moreover, the rationale for using the SSA metaheuristic algorithm for optimizing Random Forest hyperparameters, 
+instead of employing dedicated state-of-the-art packages such as Optuna, must be explicitly addressed.
+
+8. The identity of the four most significant features remains unclear. 
+The manuscript reports only their database tags (e.g., JV_reverse_scan_Jsc) without specifying the corresponding physical 
+or experimental quantities. Although some educated guesses can be made, such ambiguity is unsatisfactory. 
+The authors should improve the manuscript’s clarity by explicitly defining all key features.
+
+9. Table 3 presents a comparative analysis of model metrics between the proposed approach 
+and those reported by other authors. The validity of this comparison is uncertain. 
+The authors must clearly indicate whether the external models were trained on the same dataset and 
+aimed at predicting the same target variable — PCE. 
+If those models were trained on different datasets or optimized for predicting different quantities, 
+the comparison is not meaningful and should be reconsidered.
+
+10. A more detailed description of the implemented knowledge-distillation procedure is essential. 
+The authors should clarify the source of the “knowledge”—that is, 
+the specific output of the larger teacher model used as the distillation target—and specify the objective (loss) function minimized 
+by the smaller student model during the training process.
+
+
+11. Several aspects of the data preprocessing methodology require clarification. In particular, 
+a detailed explanation of how categorical features were handled is essential. 
+Were they used directly, or were they transformed into a numerical representation (e.g., via one-hot encoding)? 
+The authors should also specify any preliminary data-processing steps undertaken to prepare the dataset for the BiGRU-Attention model architecture.
+
+12. The central issue concerns the practical utility and scientific relevance of the developed model. 
+The manuscript reports that the model predicts the PCE based on parameters derived from the current–voltage (JV) characteristic, 
+including variants of the short-circuit current density, the fill factor, and, implicitly, the open-circuit voltage 
+(e.g., JV_default_Jsc, JV_default_FF, etc., as listed in line 328). 
+If such JV-characteristic measurements are already available for an operational perovskite solar cell under illumination, 
+PCE can be trivially obtained using the fundamental relation
+
+PCE=Jsc Voc FF / Pin,
+
+where Pin is the incident light power.
+The argument that Voc is absent from the input list is unconvincing, 
+since Voc can be directly and easily extracted from the measured JV curve — a much simpler procedure than employing a ML model. 
+A model that predicts PCE from structural characteristics (e.g., material composition, layer thickness) without requiring device fabrication 
+and electrical measurements would have clear scientific value. 
+Similarly, a model that uses measured JV parameters to infer non-obvious physical properties (e.g., defect concentration) would also be justified. 
+A model that merely replicates an elementary algebraic calculation offers little practical benefit.
+
+
+In conclusion, given the cumulative concerns regarding methodology, justification, and practical relevance, this manuscript requires Major Revision.
+
+-----------------------------------------------
+
+На мій погляд, робота цікава з точки зору машинного навчання. Проте застосування саме для фотовольтаїки потребує пояснення. Крім того, вона виглядає сирою:
+авторам треба попрацювати над зрозумілістю викладення матеріалу, чіткістю формулювань тощо.
+
+In my opinion, the work is interesting and shows promise from the perspective of machine learning. However, its application to photovoltaics requires further clarification and justification. In addition, the manuscript
+appears unfinished: the authors need to improve the clarity of the presentation, refine the precision of the wording, and enhance the overall readability.
