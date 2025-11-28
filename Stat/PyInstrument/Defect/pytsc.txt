@@ -1,0 +1,4 @@
+to model TSC spectra by using a Python-based analysis software pytsc
+
+Access to the pytsc-code is granted on demand. Please contact M. Moll: michael.
+moll@cern.ch
