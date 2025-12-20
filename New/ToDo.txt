@@ -354,3 +354,13 @@ SolEnerMatSC_274_112950 (D:\Literat\Stat\method\Statistik)
 88. Дуже цікава робота - початок схожий як в нас (моделювання за допомогою SCAPS ВАХ сонячних
 елементів з різною концентрацією дефектів), але потім  і методи аналізу цікаві (перевірки на біноміальність розподілів тощо), і мережа використовується, яка передбачає не число, а розподіл
 (D:\Literat\Stat\AIelements\Using\Defect\ApplPhysA_131_850)
+
+89. В роботі розраховується ефективність як функція Eg.. правда для indoor PV, проте підхід
+достатньо зрозумілий (D:\Literat\Stat\IVchar\PN\SC\WorkingConditions\IndoorPV\oApplPhysLett_127_193902)
+
+90. В роботі JAP_138_144701
+- Nu-Support Vector Regressor
+- Taylor diagrams
+- SENSITIVITY ANALYSIS вплив різних ознак
+- фізично-змістова функція втрат
+D:\Literat\Stat\AIelements\Using\MLMethod\XGBoost
