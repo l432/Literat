@@ -358,6 +358,9 @@ SolEnerMatSC_274_112950 (D:\Literat\Stat\method\Statistik)
 89. В роботі розраховується ефективність як функція Eg.. правда для indoor PV, проте підхід
 достатньо зрозумілий (D:\Literat\Stat\IVchar\PN\SC\WorkingConditions\IndoorPV\oApplPhysLett_127_193902)
 
+є графіки залежності ефективності від Eg (D:\Literat\Stat\IVchar\PN\Obzor\EnergyLimit\oApplPhysLett_127_183504.pdf)
+Voc, Isc, FF, eta від Eg (D:\Literat\Stat\IVchar\PN\Obzor\EnergyLimit\SolEner_262_111774.pdf)
+
 90. В роботі JAP_138_144701
 - Nu-Support Vector Regressor
 - Taylor diagrams
