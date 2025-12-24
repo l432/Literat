@@ -367,3 +367,7 @@ Voc, Isc, FF, eta від Eg (D:\Literat\Stat\IVchar\PN\Obzor\EnergyLimit\SolEner_26
 - SENSITIVITY ANALYSIS вплив різних ознак
 - фізично-змістова функція втрат
 D:\Literat\Stat\AIelements\Using\MLMethod\XGBoost
+
+91. В PhysStatSolA_222_2400840.pdf окрім опису різних варіантів DLTS є пару методів,
+що базуються на ємнісних вимірюваннях (основні формули), а також огляд дефектів в 4H-SiC
+D:\Literat\Stat\method\Deep_level\DLTS_modification
