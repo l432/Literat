@@ -31,6 +31,9 @@ Chloride Additive Optimization in Ultrasonic Spray Coating Process for High-Perf
 Effect of substrate temperature on the performance of ultrasonically sprayed PEDOT:PSS–AgNWs transparent conductive films for electrochromic devices
  https://doi.org/10.1007/s10854-022-08784-8
  
+ IEEE JOURNAL OF PHOTOVOLTAICS, VOL. 10, NO. 6, NOVEMBER 2020 1727   [ Waheed2020a ]
+Effect of In Situ Annealing on Phase Segregation And Optoelectronic Properties of Ultrasonic-Spray Deposited Polymer Blend Films
+ 
 -------------------------------------------------
 --------------------------------------------------
 Âëàñòèâîñò³ PEDOT:PSS
