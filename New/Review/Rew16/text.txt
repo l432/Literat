@@ -6,7 +6,33 @@ Learning (коли модель, навчена на одній задачі, в
 
 Окрім вказаного принципового недоліку, робота містить і низку огріхів у представлені результатів. А саме,
 - нічого не сказано про налаштування гіперпараметрів використаних моделей;
--  
-
+- на рис.6 та 7 наведено результати передбачень, проте не вказано, який це набір: тренувальний чи тестовий; якщо представлені  результати  моделей на даних, на яких вони навчалися, то варто значно більше уваги приділити налаштуванню моделей; машинне навчання не полягає в тому, що просто під певний алгоритм підставляються будь-які дані і результати можна опублікувати;
+- не вказано, яким чином проводилася оцінка Feature importance (рис.4 та 5);
 - я не знайшов пояснення яким чином four ion energies and six impact angles  дозволили отримати final dataset consisted of 48 unique irradiation conditions, якщо 4 х 6 = 24;
+- навіщось декілька разів повторюється інформація про метрики, які використовувалися (ст. 6, 7 та 15)
+- не вказано (зокрема на графіках) похибки визначення параметрів; це стосується як результатів Molecular Dynamics, так і регресійних моделей;
+- сказано, що розрахунки проводилися для шести значень кутів, проте результати на рис.2 та представлені вього для чотирьох;
+- що означає "normal energy component" (ст.9, 10), якщо енергія це скалярна величина
+- Необхідно вказувати розмірність RMSE та MAE і в таблиці, і на рисунках, і в тексті (наприклад, на ст.15)
 
+-----------------------------------
+The reviewed paper investigates the prediction of ion implantation effects using machine learning models trained on Molecular Dynamics data. The overall idea is interesting, as this framework promises significant savings in computational time. The reported results also confirm that the authors are well-versed in Molecular Dynamics calculations.
+Nevertheless, because the work's primary focus is machine learning, the manuscript appears extremely weak from this perspective. Consequently, I believe the paper warrants rejection.
+
+First and foremost, machine learning algorithms are designed to operate on large datasets, making a training/testing split of merely 48/24 samples catastrophically small. It is impossible to properly train the utilized models on such a limited amount of data, as evidenced by the predicted results. Although the authors employed several popular algorithms, they surprisingly assumed they could be applied directly to the tiny dataset at their disposal. While I fully appreciate that obtaining the necessary thousands of samples via Molecular Dynamics is computationally prohibitive, this does not justify using tools ill-suited to the available data.
+Standard strategies to address data scarcity include Transfer Learning (where a model pre-trained on one task is adapted to a related problem) or Physics-Informed Neural Networks (PINNs, which incorporate physical laws into the loss function and facilitate data generation). Attempts to implement such approaches for Molecular Dynamics outcomes would have been noteworthy, in stark contrast to the methodology proposed in this work. Another alternative I would strongly suggest is Symbolic Regression, an algorithm explicitly tailored to extract functional relationships from small datasets.
+
+Beyond this fundamental flaw, the manuscript exhibits several shortcomings in the presentation of the results. Specifically:
+1. No details are provided regarding the hyperparameter tuning of the implemented models.
+2. Figures 6 and 7 show prediction outcomes, but it is not specified whether these correspond to the training or testing dataset. If these represent training performance, significantly more attention must be given to model optimization; machine learning is not merely a matter of feeding arbitrary data into an algorithm and publishing the output.
+3. The methodology used to evaluate Feature Importance (Figs. 4 and 5) is completely omitted.I could not find an explanation for how four ion energies and six impact angles yielded a final dataset of 48 unique irradiation conditions, given that 4 Х 6 = 24.
+4. The information regarding the evaluation metrics is redundantly repeated several times (pages 6, 7, and 15).
+5. Error margins are missing (particularly on the plots) for both the Molecular Dynamics simulations and the regression models.
+6. Although calculations were reportedly conducted for six impact angles, the results in Fig. 2 are presented for only four.
+7. Clarification is needed for the phrase "normal energy component" (pages 9 and 10), as energy is a scalar quantity.
+8. Units must be explicitly stated for RMSE and MAE across the manuscript (in table 1, figures, and text, e.g., on page 15).
+
+
+Дуже слабка робота з точки зору використання машинного навчання
+
+Overall, the application of machine learning techniques in the work is insufficiently developed and requires substantial improvement.
